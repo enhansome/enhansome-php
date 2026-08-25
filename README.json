@@ -285,7 +285,7 @@
                 "last_commit": "2026-08-24T14:44:46Z",
                 "owner": "magento",
                 "repo": "magento2",
-                "stars": 12169
+                "stars": 12168
               }
             },
             {
@@ -1164,7 +1164,7 @@
                 "last_commit": "2026-08-24T13:25:53Z",
                 "owner": "Intervention",
                 "repo": "image",
-                "stars": 14365
+                "stars": 14366
               }
             },
             {
@@ -1642,7 +1642,7 @@
                 "last_commit": "2026-08-21T13:16:22Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15675
+                "stars": 15676
               }
             },
             {
@@ -3319,7 +3319,7 @@
                 "archived": false,
                 "id": 131995661,
                 "language": "PHP",
-                "last_commit": "2026-08-24T21:38:03Z",
+                "last_commit": "2026-08-25T05:21:24Z",
                 "owner": "shopware",
                 "repo": "shopware",
                 "stars": 3406
@@ -3379,7 +3379,7 @@
                 "archived": false,
                 "id": 119832166,
                 "language": "PHP",
-                "last_commit": "2026-08-25T05:01:06Z",
+                "last_commit": "2026-08-25T05:34:52Z",
                 "owner": "shopsys",
                 "repo": "shopsys",
                 "stars": 349
@@ -6296,7 +6296,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:16:57.022Z",
+    "last_updated": "2026-08-25T05:43:08.837Z",
     "original_repository": "ziadoz/awesome-php",
     "original_repository_id": 14705691,
     "original_repository_sha": "426f5688a47f3130ccdb396c534aca5f035f3e75",

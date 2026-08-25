@@ -158,7 +158,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [WordPress](https://github.com/WordPress/WordPress) ⭐ 21,363 | 🐛 3 | 🌐 PHP | 📅 2026-08-24 - A blogging platform and CMS.
 * [Grav](https://github.com/getgrav/grav) ⭐ 15,650 | 🐛 447 | 🌐 PHP | 📅 2026-08-24 - A modern flat-file CMS.
-* [Magento](https://github.com/magento/magento2) ⭐ 12,169 | 🐛 2,124 | 🌐 PHP | 📅 2026-08-24 - A widely used open-source e-commerce platform.
+* [Magento](https://github.com/magento/magento2) ⭐ 12,168 | 🐛 2,124 | 🌐 PHP | 📅 2026-08-24 - A widely used open-source e-commerce platform.
 * [CraftCMS](https://github.com/craftcms/cms) ⭐ 3,601 | 🐛 533 | 🌐 PHP | 📅 2026-08-24 - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 * [OpenMage](https://github.com/OpenMage/magento-lts) ⭐ 929 | 🐛 287 | 🌐 PHP | 📅 2026-08-24 - Fork of EoL Magento 1 e-commerce platform.
 * [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
@@ -323,7 +323,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for manipulating images.*
 
-* [Intervention Image](https://github.com/Intervention/image) ⭐ 14,365 | 🐛 24 | 🌐 PHP | 📅 2026-08-24 - Another image manipulation library.
+* [Intervention Image](https://github.com/Intervention/image) ⭐ 14,366 | 🐛 24 | 🌐 PHP | 📅 2026-08-24 - Another image manipulation library.
 * [Glide](https://github.com/thephpleague/glide) ⭐ 2,632 | 🐛 37 | 🌐 PHP | 📅 2026-07-16 - An on-demand image manipulation library.
 * [PHP QR Code](https://github.com/chillerlan/php-qrcode/) ⭐ 2,385 | 🐛 2 | 🌐 PHP | 📅 2026-06-02 - QR Code generator and reader.
 * [Image Hash](https://github.com/jenssegers/imagehash) ⭐ 2,061 | 🐛 39 | 🌐 PHP | 📅 2025-09-17 - A library for generating perceptual image hashes.
@@ -384,7 +384,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
 
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,258 | 🐛 32 | 🌐 Python | 📅 2026-08-23 - An automatic SQL injection and database takeover tool.
-* [Zap](https://github.com/zaproxy/zaproxy) ⭐ 15,675 | 🐛 859 | 🌐 Java | 📅 2026-08-21 - An integrated penetration testing tool for web applications.
+* [Zap](https://github.com/zaproxy/zaproxy) ⭐ 15,676 | 🐛 859 | 🌐 Java | 📅 2026-08-21 - An integrated penetration testing tool for web applications.
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,912 | 🐛 1 | 🌐 C | 📅 2026-08-13.
 * [PHPSecLib](https://github.com/phpseclib/phpseclib) ⭐ 5,585 | 🐛 209 | 🌐 PHP | 📅 2026-08-23 - A pure PHP secure communications library.
 * [PHPGGC](https://github.com/ambionics/phpggc) ⭐ 3,875 | 🐛 21 | 🌐 PHP | 📅 2025-09-29 - A library of PHP unserializable payloads along with a tool to generate them.
@@ -587,7 +587,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [OmniPay](https://github.com/thephpleague/omnipay) ⭐ 6,054 | 🐛 109 | 🌐 PHP | 📅 2026-07-10 - A framework agnostic multi-gateway payment processing library.
 * [Money](https://github.com/moneyphp/money) ⭐ 4,861 | 🐛 5 | 🌐 PHP | 📅 2026-07-07 - A PHP implementation of Fowler's money pattern.
-* [Shopware](https://github.com/shopware/shopware) ⭐ 3,406 | 🐛 1,282 | 🌐 PHP | 📅 2026-08-24 - Highly customizable e-commerce software.
+* [Shopware](https://github.com/shopware/shopware) ⭐ 3,406 | 🐛 1,283 | 🌐 PHP | 📅 2026-08-25 - Highly customizable e-commerce software.
 * [Brick Money](https://github.com/brick/money) ⭐ 1,926 | 🐛 5 | 🌐 PHP | 📅 2026-07-30 - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 * [Payum](https://github.com/payum/payum) ⭐ 1,923 | 🐛 99 | 🌐 PHP | 📅 2026-08-24 - A payment abstraction library.
 * [Swap](https://github.com/florianv/swap) ⭐ 1,339 | 🐛 0 | 🌐 PHP | 📅 2026-06-17 - An exchange rates library.

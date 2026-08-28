@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-19T20:00:40Z",
                 "owner": "php",
                 "repo": "pie",
-                "stars": 1997
-              }
+                "stars": 1999
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "FriendsOfPHP",
                 "repo": "pickle",
                 "stars": 1652
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "composer",
                 "repo": "installers",
                 "stars": 1441
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for dependency and package management.",
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 3192821,
                 "language": "PHP",
-                "last_commit": "2026-08-27T14:40:24Z",
+                "last_commit": "2026-08-28T06:38:39Z",
                 "owner": "composer",
                 "repo": "satis",
                 "stars": 3294
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "cweagans",
                 "repo": "composer-patches",
                 "stars": 1723
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "composer-unused",
                 "repo": "composer-unused",
                 "stars": 1687
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "ergebnis",
                 "repo": "composer-normalize",
                 "stars": 1121
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "wikimedia",
                 "repo": "composer-merge-plugin",
                 "stars": 1016
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -141,11 +149,12 @@
                 "archived": false,
                 "id": 46859018,
                 "language": "PHP",
-                "last_commit": "2026-08-27T08:50:39Z",
+                "last_commit": "2026-08-28T04:57:36Z",
                 "owner": "maglnet",
                 "repo": "ComposerRequireChecker",
                 "stars": 1010
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "dereuromark",
                 "repo": "composer-prefer-lowest",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Extras related to dependency management.",
@@ -182,7 +192,8 @@
                 "owner": "yiisoft",
                 "repo": "yii2",
                 "stars": 14299
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -193,11 +204,12 @@
                 "archived": false,
                 "id": 664571619,
                 "language": "PHP",
-                "last_commit": "2026-08-21T18:03:14Z",
+                "last_commit": "2026-08-28T11:28:11Z",
                 "owner": "tempestphp",
                 "repo": "tempest-framework",
                 "stars": 2259
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Web development frameworks.",
@@ -219,7 +231,8 @@
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
                 "stars": 3879
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "FriendsOfCake",
                 "repo": "crud",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Extras related to web development frameworks.",
@@ -252,11 +266,12 @@
                 "archived": false,
                 "id": 2889328,
                 "language": "PHP",
-                "last_commit": "2026-08-27T13:20:09Z",
+                "last_commit": "2026-08-28T13:26:10Z",
                 "owner": "WordPress",
                 "repo": "WordPress",
-                "stars": 21372
-              }
+                "stars": 21373
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -267,11 +282,12 @@
                 "archived": false,
                 "id": 22553797,
                 "language": "PHP",
-                "last_commit": "2026-08-26T22:22:14Z",
+                "last_commit": "2026-08-28T13:30:22Z",
                 "owner": "getgrav",
                 "repo": "grav",
-                "stars": 15652
-              }
+                "stars": 15654
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -282,11 +298,12 @@
                 "archived": false,
                 "id": 2884111,
                 "language": "PHP",
-                "last_commit": "2026-08-27T15:04:36Z",
+                "last_commit": "2026-08-28T11:11:43Z",
                 "owner": "magento",
                 "repo": "magento2",
-                "stars": 12168
-              }
+                "stars": 12169
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -297,11 +314,12 @@
                 "archived": false,
                 "id": 80249302,
                 "language": "PHP",
-                "last_commit": "2026-08-27T12:49:24Z",
+                "last_commit": "2026-08-28T16:34:24Z",
                 "owner": "craftcms",
                 "repo": "cms",
-                "stars": 3604
-              }
+                "stars": 3605
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "OpenMage",
                 "repo": "magento-lts",
                 "stars": 930
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Tools for managing digital content.",
@@ -338,7 +357,8 @@
                 "owner": "minicli",
                 "repo": "minicli",
                 "stars": 1084
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -353,7 +373,8 @@
                 "owner": "mnapoli",
                 "repo": "silly",
                 "stars": 934
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Micro frameworks and routers.",
@@ -375,7 +396,8 @@
                 "owner": "slimphp",
                 "repo": "Slim-Skeleton",
                 "stars": 1625
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -390,7 +412,8 @@
                 "owner": "slimphp",
                 "repo": "PHP-View",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Extras related to micro frameworks and routers.",
@@ -412,7 +435,8 @@
                 "owner": "nikic",
                 "repo": "FastRoute",
                 "stars": 5268
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -427,7 +451,8 @@
                 "owner": "klein",
                 "repo": "klein.php",
                 "stars": 2657
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -442,7 +467,8 @@
                 "owner": "thephpleague",
                 "repo": "route",
                 "stars": 671
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -457,7 +483,8 @@
                 "owner": "auraphp",
                 "repo": "Aura.Router",
                 "stars": 502
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for handling application routing.",
@@ -479,7 +506,8 @@
                 "owner": "bobthecow",
                 "repo": "mustache.php",
                 "stars": 3287
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -494,7 +522,8 @@
                 "owner": "arnaud-lb",
                 "repo": "MtHaml",
                 "stars": 359
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and tools for templating and lexing.",
@@ -515,8 +544,9 @@
                 "last_commit": "2026-08-24T17:12:24Z",
                 "owner": "guzzle",
                 "repo": "guzzle",
-                "stars": 23457
-              }
+                "stars": 23458
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -531,7 +561,8 @@
                 "owner": "WordPress",
                 "repo": "Requests",
                 "stars": 3574
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -546,7 +577,8 @@
                 "owner": "saloonphp",
                 "repo": "saloon",
                 "stars": 2437
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -561,7 +593,8 @@
                 "owner": "symfony",
                 "repo": "http-client",
                 "stars": 2030
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -576,7 +609,8 @@
                 "owner": "kriswallsmith",
                 "repo": "Buzz",
                 "stars": 1916
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -591,7 +625,8 @@
                 "owner": "Nyholm",
                 "repo": "psr7",
                 "stars": 1277
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -605,8 +640,9 @@
                 "last_commit": "2026-08-24T08:55:42Z",
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
-                "stars": 558
-              }
+                "stars": 559
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -621,7 +657,8 @@
                 "owner": "tebru",
                 "repo": "retrofit-php",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with HTTP.",
@@ -643,7 +680,8 @@
                 "owner": "symfony",
                 "repo": "panther",
                 "stars": 3067
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -658,7 +696,8 @@
                 "owner": "chrome-php",
                 "repo": "chrome",
                 "stars": 2675
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -673,7 +712,8 @@
                 "owner": "JayBizzle",
                 "repo": "Crawler-Detect",
                 "stars": 2401
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -688,7 +728,8 @@
                 "owner": "Imangazaliev",
                 "repo": "DiDOM",
                 "stars": 2198
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -703,7 +744,8 @@
                 "owner": "php-embed",
                 "repo": "Embed",
                 "stars": 2140
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -718,7 +760,8 @@
                 "owner": "mvdbos",
                 "repo": "php-spider",
                 "stars": 1341
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for scraping websites and detecting crawlers.",
@@ -740,7 +783,8 @@
                 "owner": "middlewares",
                 "repo": "psr15-middlewares",
                 "stars": 409
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -755,7 +799,8 @@
                 "owner": "laminas",
                 "repo": "laminas-stratigility",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for building application using middlewares.",
@@ -777,7 +822,8 @@
                 "owner": "jeremykendall",
                 "repo": "php-domain-parser",
                 "stars": 1238
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -792,7 +838,8 @@
                 "owner": "thephpleague",
                 "repo": "uri",
                 "stars": 1134
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -807,7 +854,8 @@
                 "owner": "sabre-io",
                 "repo": "uri",
                 "stars": 296
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for parsing URLs.",
@@ -828,8 +876,9 @@
                 "last_commit": "2026-08-20T22:56:23Z",
                 "owner": "PHPMailer",
                 "repo": "PHPMailer",
-                "stars": 22282
-              }
+                "stars": 22283
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -840,11 +889,12 @@
                 "archived": false,
                 "id": 12204147,
                 "language": "PHP",
-                "last_commit": "2026-08-27T14:31:59Z",
+                "last_commit": "2026-08-28T14:37:48Z",
                 "owner": "mautic",
                 "repo": "mautic",
-                "stars": 10399
-              }
+                "stars": 10408
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -859,7 +909,8 @@
                 "owner": "tijsverkoyen",
                 "repo": "CssToInlineStyles",
                 "stars": 5826
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -874,7 +925,8 @@
                 "owner": "symfony",
                 "repo": "mailer",
                 "stars": 1594
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -889,7 +941,8 @@
                 "owner": "ddeboer",
                 "repo": "imap",
                 "stars": 918
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -904,7 +957,8 @@
                 "owner": "willdurand",
                 "repo": "EmailReplyParser",
                 "stars": 650
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -919,7 +973,8 @@
                 "owner": "tedious",
                 "repo": "Fetch",
                 "stars": 507
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -934,7 +989,8 @@
                 "owner": "Stampie",
                 "repo": "Stampie",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for sending and parsing email.",
@@ -956,7 +1012,8 @@
                 "owner": "thephpleague",
                 "repo": "flysystem",
                 "stars": 13586
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -970,8 +1027,9 @@
                 "last_commit": "2026-01-19T21:16:04Z",
                 "owner": "PHP-FFMpeg",
                 "repo": "PHP-FFMpeg",
-                "stars": 5017
-              }
+                "stars": 5018
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -986,7 +1044,8 @@
                 "owner": "thephpleague",
                 "repo": "csv",
                 "stars": 3480
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1001,7 +1060,8 @@
                 "owner": "KnpLabs",
                 "repo": "Gaufrette",
                 "stars": 2464
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1076,8 @@
                 "owner": "wapmorgan",
                 "repo": "UnifiedArchive",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1092,8 @@
                 "owner": "flow-php",
                 "repo": "parquet",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for file manipulation and MIME type detection.",
@@ -1053,7 +1115,8 @@
                 "owner": "symfony",
                 "repo": "dependency-injection",
                 "stars": 4166
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1068,7 +1131,8 @@
                 "owner": "silexphp",
                 "repo": "Pimple",
                 "stars": 2665
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1083,7 +1147,8 @@
                 "owner": "thephpleague",
                 "repo": "container",
                 "stars": 868
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1098,7 +1163,8 @@
                 "owner": "rdlowrey",
                 "repo": "auryn",
                 "stars": 724
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1113,7 +1179,8 @@
                 "owner": "auraphp",
                 "repo": "Aura.Di",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1128,7 +1195,8 @@
                 "owner": "AcclimateContainer",
                 "repo": "acclimate-container",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1143,7 +1211,8 @@
                 "owner": "bitExpert",
                 "repo": "disco",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries that implement the dependency injection design pattern.",
@@ -1161,11 +1230,12 @@
                 "archived": false,
                 "id": 7704544,
                 "language": "PHP",
-                "last_commit": "2026-08-26T14:55:50Z",
+                "last_commit": "2026-08-28T14:01:59Z",
                 "owner": "Intervention",
                 "repo": "image",
-                "stars": 14366
-              }
+                "stars": 14368
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1180,7 +1250,8 @@
                 "owner": "thephpleague",
                 "repo": "glide",
                 "stars": 2633
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1195,7 +1266,8 @@
                 "owner": "chillerlan",
                 "repo": "php-qrcode",
                 "stars": 2385
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1210,7 +1282,8 @@
                 "owner": "jenssegers",
                 "repo": "imagehash",
                 "stars": 2063
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1221,11 +1294,12 @@
                 "archived": false,
                 "id": 11524729,
                 "language": "PHP",
-                "last_commit": "2026-08-24T15:58:00Z",
+                "last_commit": "2026-08-28T07:41:12Z",
                 "owner": "thephpleague",
                 "repo": "color-extractor",
                 "stars": 1323
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1240,7 +1314,8 @@
                 "owner": "psliwa",
                 "repo": "image-optimizer",
                 "stars": 915
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1255,7 +1330,8 @@
                 "owner": "Sybio",
                 "repo": "ImageWorkshop",
                 "stars": 852
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for manipulating images.",
@@ -1276,8 +1352,9 @@
                 "last_commit": "2026-08-27T13:46:12Z",
                 "owner": "sebastianbergmann",
                 "repo": "phpunit",
-                "stars": 20045
-              }
+                "stars": 20047
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1292,7 +1369,8 @@
                 "owner": "mockery",
                 "repo": "mockery",
                 "stars": 10724
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1307,7 +1385,8 @@
                 "owner": "phpspec",
                 "repo": "prophecy",
                 "stars": 8471
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1322,7 +1401,8 @@
                 "owner": "Codeception",
                 "repo": "Codeception",
                 "stars": 4861
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1336,8 +1416,9 @@
                 "last_commit": "2026-05-02T00:19:11Z",
                 "owner": "FakerPHP",
                 "repo": "Faker",
-                "stars": 3989
-              }
+                "stars": 3990
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1352,7 +1433,8 @@
                 "owner": "nelmio",
                 "repo": "alice",
                 "stars": 2538
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1366,8 +1448,9 @@
                 "last_commit": "2026-08-23T05:29:15Z",
                 "owner": "paratestphp",
                 "repo": "paratest",
-                "stars": 2494
-              }
+                "stars": 2495
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1378,11 +1461,12 @@
                 "archived": false,
                 "id": 95741878,
                 "language": "PHP",
-                "last_commit": "2026-08-27T13:07:29Z",
+                "last_commit": "2026-08-28T14:10:00Z",
                 "owner": "infection",
                 "repo": "infection",
-                "stars": 2235
-              }
+                "stars": 2236
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1397,7 +1481,8 @@
                 "owner": "phpspec",
                 "repo": "phpspec",
                 "stars": 1905
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1412,7 +1497,8 @@
                 "owner": "bovigo",
                 "repo": "vfsStream",
                 "stars": 1440
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1427,7 +1513,8 @@
                 "owner": "kahlan",
                 "repo": "kahlan",
                 "stars": 1148
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1441,8 +1528,9 @@
                 "last_commit": "2026-08-26T06:39:55Z",
                 "owner": "zenstruck",
                 "repo": "foundry",
-                "stars": 799
-              }
+                "stars": 800
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1457,7 +1545,8 @@
                 "owner": "vimeo",
                 "repo": "php-mysql-engine",
                 "stars": 561
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1472,7 +1561,8 @@
                 "owner": "nette",
                 "repo": "tester",
                 "stars": 487
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1487,7 +1577,8 @@
                 "owner": "phake",
                 "repo": "phake",
                 "stars": 477
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1502,7 +1593,8 @@
                 "owner": "php-mock",
                 "repo": "php-mock",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1517,7 +1609,8 @@
                 "owner": "Yoast",
                 "repo": "PHPUnit-Polyfills",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for testing codebases and generating test data.",
@@ -1535,11 +1628,12 @@
                 "archived": false,
                 "id": 206578964,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T06:08:36Z",
+                "last_commit": "2026-08-28T16:32:48Z",
                 "owner": "shivammathur",
                 "repo": "setup-php",
                 "stars": 3254
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and applications for continuous integration.",
@@ -1561,7 +1655,8 @@
                 "owner": "zircote",
                 "repo": "swagger-php",
                 "stars": 5306
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1575,8 +1670,9 @@
                 "last_commit": "2026-08-21T15:19:57Z",
                 "owner": "dedoc",
                 "repo": "scramble",
-                "stars": 2190
-              }
+                "stars": 2191
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1591,7 +1687,8 @@
                 "owner": "ApiGen",
                 "repo": "ApiGen",
                 "stars": 2169
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1606,7 +1703,8 @@
                 "owner": "dauxio",
                 "repo": "daux.io",
                 "stars": 829
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for generating project documentation.",
@@ -1624,11 +1722,12 @@
                 "archived": false,
                 "id": 4793392,
                 "language": "Python",
-                "last_commit": "2026-08-26T11:46:12Z",
+                "last_commit": "2026-08-28T07:44:26Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38278
-              }
+                "stars": 38292
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1642,8 +1741,9 @@
                 "last_commit": "2026-08-27T15:18:12Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15692
-              }
+                "stars": 15696
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1654,11 +1754,12 @@
                 "archived": false,
                 "id": 7710647,
                 "language": "C",
-                "last_commit": "2026-08-27T10:42:32Z",
+                "last_commit": "2026-08-28T11:18:58Z",
                 "owner": "jedisct1",
                 "repo": "libsodium",
-                "stars": 13918
-              }
+                "stars": 13919
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1669,11 +1770,12 @@
                 "archived": false,
                 "id": 4565995,
                 "language": "PHP",
-                "last_commit": "2026-08-26T12:17:07Z",
+                "last_commit": "2026-08-28T03:25:30Z",
                 "owner": "phpseclib",
                 "repo": "phpseclib",
                 "stars": 5585
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1687,8 +1789,9 @@
                 "last_commit": "2025-09-29T14:51:06Z",
                 "owner": "ambionics",
                 "repo": "phpggc",
-                "stars": 3876
-              }
+                "stars": 3877
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1702,8 +1805,9 @@
                 "last_commit": "2024-01-02T15:04:49Z",
                 "owner": "defuse",
                 "repo": "php-encryption",
-                "stars": 3867
-              }
+                "stars": 3871
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1714,11 +1818,12 @@
                 "archived": false,
                 "id": 26223397,
                 "language": null,
-                "last_commit": "2026-08-26T16:17:55Z",
+                "last_commit": "2026-08-28T09:46:04Z",
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
                 "stars": 2914
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1733,7 +1838,8 @@
                 "owner": "jenssegers",
                 "repo": "optimus",
                 "stars": 1275
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1744,11 +1850,12 @@
                 "archived": false,
                 "id": 32098440,
                 "language": "PHP",
-                "last_commit": "2026-08-26T13:13:40Z",
+                "last_commit": "2026-08-28T07:53:58Z",
                 "owner": "voku",
                 "repo": "anti-xss",
                 "stars": 712
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1763,7 +1870,8 @@
                 "owner": "bepsvpt",
                 "repo": "secure-headers",
                 "stars": 550
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.",
@@ -1785,7 +1893,8 @@
                 "owner": "bjeavons",
                 "repo": "zxcvbn-php",
                 "stars": 873
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1800,7 +1909,8 @@
                 "owner": "hackzilla",
                 "repo": "password-generator",
                 "stars": 307
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1815,7 +1925,8 @@
                 "owner": "jeremykendall",
                 "repo": "password-validator",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1830,7 +1941,8 @@
                 "owner": "timoh6",
                 "repo": "GenPhrase",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and tools for working with and storing passwords.",
@@ -1851,8 +1963,9 @@
                 "last_commit": "2026-08-23T19:01:01Z",
                 "owner": "nikic",
                 "repo": "PHP-Parser",
-                "stars": 17456
-              }
+                "stars": 17462
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1863,11 +1976,12 @@
                 "archived": false,
                 "id": 97311017,
                 "language": "PHP",
-                "last_commit": "2026-08-27T12:54:49Z",
+                "last_commit": "2026-08-28T16:01:01Z",
                 "owner": "rectorphp",
                 "repo": "rector",
                 "stars": 10407
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1881,8 +1995,9 @@
                 "last_commit": "2026-08-11T09:34:59Z",
                 "owner": "phpro",
                 "repo": "grumphp",
-                "stars": 4312
-              }
+                "stars": 4311
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1897,7 +2012,8 @@
                 "owner": "phpactor",
                 "repo": "phpactor",
                 "stars": 1920
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1912,7 +2028,8 @@
                 "owner": "Roave",
                 "repo": "BetterReflection",
                 "stars": 1246
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1927,7 +2044,8 @@
                 "owner": "povils",
                 "repo": "phpmnd",
                 "stars": 586
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1942,7 +2060,8 @@
                 "owner": "EdgedesignCZ",
                 "repo": "phpqa",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1957,7 +2076,8 @@
                 "owner": "devster",
                 "repo": "ubench",
                 "stars": 563
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1972,7 +2092,8 @@
                 "owner": "scrutinizer-ci",
                 "repo": "php-analyzer",
                 "stars": 439
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1987,7 +2108,8 @@
                 "owner": "tomzx",
                 "repo": "php-semver-checker",
                 "stars": 436
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -1998,11 +2120,12 @@
                 "archived": false,
                 "id": 609609999,
                 "language": "PHP",
-                "last_commit": "2026-08-01T07:49:01Z",
+                "last_commit": "2026-08-28T12:25:33Z",
                 "owner": "bladestan",
                 "repo": "bladestan",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2017,7 +2140,8 @@
                 "owner": "editorconfig-checker",
                 "repo": "editorconfig-checker.php",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and tools for analysing, parsing and manipulating codebases.",
@@ -2035,11 +2159,12 @@
                 "archived": false,
                 "id": 4344257,
                 "language": "PHP",
-                "last_commit": "2026-08-27T11:01:42Z",
+                "last_commit": "2026-08-28T16:15:11Z",
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
                 "stars": 13547
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2053,8 +2178,9 @@
                 "last_commit": "2026-08-17T13:23:14Z",
                 "owner": "laravel",
                 "repo": "pint",
-                "stars": 3154
-              }
+                "stars": 3156
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2068,8 +2194,9 @@
                 "last_commit": "2026-08-23T08:00:38Z",
                 "owner": "phpmd",
                 "repo": "phpmd",
-                "stars": 2448
-              }
+                "stars": 2449
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2084,7 +2211,8 @@
                 "owner": "PHPCSStandards",
                 "repo": "PHP_CodeSniffer",
                 "stars": 1551
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2098,8 +2226,9 @@
                 "last_commit": "2026-03-25T21:46:58Z",
                 "owner": "captainhook-git",
                 "repo": "captainhook",
-                "stars": 1115
-              }
+                "stars": 1116
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2114,7 +2243,8 @@
                 "owner": "PHPCheckstyle",
                 "repo": "phpcheckstyle",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for managing code quality, formatting and linting.",
@@ -2132,11 +2262,12 @@
                 "archived": false,
                 "id": 49014795,
                 "language": "PHP",
-                "last_commit": "2026-08-27T15:28:30Z",
+                "last_commit": "2026-08-27T23:47:51Z",
                 "owner": "phpstan",
                 "repo": "phpstan",
-                "stars": 14085
-              }
+                "stars": 14087
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2147,11 +2278,12 @@
                 "archived": false,
                 "id": 139191005,
                 "language": "PHP",
-                "last_commit": "2026-08-27T09:25:52Z",
+                "last_commit": "2026-08-28T06:43:05Z",
                 "owner": "larastan",
                 "repo": "larastan",
-                "stars": 6493
-              }
+                "stars": 6494
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2166,7 +2298,8 @@
                 "owner": "vimeo",
                 "repo": "psalm",
                 "stars": 5885
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2181,7 +2314,8 @@
                 "owner": "phan",
                 "repo": "phan",
                 "stars": 5623
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2192,11 +2326,12 @@
                 "archived": false,
                 "id": 878733839,
                 "language": "Rust",
-                "last_commit": "2026-08-27T13:42:47Z",
+                "last_commit": "2026-08-28T14:46:11Z",
                 "owner": "carthage-software",
                 "repo": "mago",
                 "stars": 3413
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2211,7 +2346,8 @@
                 "owner": "deptrac",
                 "repo": "deptrac",
                 "stars": 2998
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2226,7 +2362,8 @@
                 "owner": "phpmetrics",
                 "repo": "PhpMetrics",
                 "stars": 2614
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2241,7 +2378,8 @@
                 "owner": "PHPCompatibility",
                 "repo": "PHPCompatibility",
                 "stars": 2301
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2256,7 +2394,8 @@
                 "owner": "phpstan",
                 "repo": "phpdoc-parser",
                 "stars": 1533
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2271,7 +2410,8 @@
                 "owner": "carlosas",
                 "repo": "phpat",
                 "stars": 1275
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2282,11 +2422,12 @@
                 "archived": false,
                 "id": 734674518,
                 "language": "PHP",
-                "last_commit": "2026-08-27T15:18:36Z",
+                "last_commit": "2026-08-28T12:40:17Z",
                 "owner": "shipmonk-rnd",
                 "repo": "dead-code-detector",
                 "stars": 508
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2301,7 +2442,8 @@
                 "owner": "exakat",
                 "repo": "exakat",
                 "stars": 380
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for performing static analysis of PHP code.",
@@ -2322,8 +2464,9 @@
                 "last_commit": "2025-02-03T08:45:02Z",
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22186
-              }
+                "stars": 22187
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2338,7 +2481,8 @@
                 "owner": "lstrojny",
                 "repo": "functional-php",
                 "stars": 1984
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2353,7 +2497,8 @@
                 "owner": "yohang",
                 "repo": "Finite",
                 "stars": 1350
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2368,7 +2513,8 @@
                 "owner": "nikic",
                 "repo": "iter",
                 "stars": 1141
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2383,7 +2529,8 @@
                 "owner": "thephpleague",
                 "repo": "pipeline",
                 "stars": 998
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2398,7 +2545,8 @@
                 "owner": "K-Phoen",
                 "repo": "rulerz",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2413,7 +2561,8 @@
                 "owner": "ScriptFUSION",
                 "repo": "Porter",
                 "stars": 611
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2428,7 +2577,8 @@
                 "owner": "markrogoyski",
                 "repo": "itertools-php",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries related to design patterns, programming approaches and ways to organize code.",
@@ -2450,7 +2600,8 @@
                 "owner": "filp",
                 "repo": "whoops",
                 "stars": 13235
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2461,11 +2612,12 @@
                 "archived": false,
                 "id": 24498056,
                 "language": "PHP",
-                "last_commit": "2026-08-22T13:47:13Z",
+                "last_commit": "2026-08-28T15:07:37Z",
                 "owner": "symfony",
                 "repo": "var-dumper",
                 "stars": 7428
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2480,7 +2632,8 @@
                 "owner": "xdebug",
                 "repo": "xdebug",
                 "stars": 3414
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2494,8 +2647,9 @@
                 "last_commit": "2026-01-18T13:55:48Z",
                 "owner": "kint-php",
                 "repo": "kint",
-                "stars": 2818
-              }
+                "stars": 2819
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2510,7 +2664,8 @@
                 "owner": "phacility",
                 "repo": "xhprof",
                 "stars": 2596
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2525,7 +2680,8 @@
                 "owner": "phpbench",
                 "repo": "phpbench",
                 "stars": 2018
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2540,7 +2696,8 @@
                 "owner": "nette",
                 "repo": "tracy",
                 "stars": 1837
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2555,7 +2712,8 @@
                 "owner": "adsr",
                 "repo": "phpspy",
                 "stars": 1500
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2570,7 +2728,8 @@
                 "owner": "barbushin",
                 "repo": "php-console",
                 "stars": 1332
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2585,7 +2744,8 @@
                 "owner": "laradumps",
                 "repo": "laradumps",
                 "stars": 1269
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2600,7 +2760,8 @@
                 "owner": "krakjoe",
                 "repo": "pcov",
                 "stars": 789
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2615,7 +2776,8 @@
                 "owner": "Seldaek",
                 "repo": "php-console",
                 "stars": 525
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2626,11 +2788,12 @@
                 "archived": false,
                 "id": 4423633,
                 "language": "PHP",
-                "last_commit": "2026-08-27T14:39:28Z",
+                "last_commit": "2026-08-28T14:51:01Z",
                 "owner": "beberlei",
                 "repo": "metrics",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2645,7 +2808,8 @@
                 "owner": "buggregator",
                 "repo": "trap",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and tools for debugging errors and profiling code.",
@@ -2667,7 +2831,8 @@
                 "owner": "box-project",
                 "repo": "box",
                 "stars": 1320
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2682,7 +2847,8 @@
                 "owner": "liip",
                 "repo": "RMT",
                 "stars": 459
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2697,7 +2863,8 @@
                 "owner": "phpacker",
                 "repo": "phpacker",
                 "stars": 422
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Project build and automation tools.",
@@ -2719,7 +2886,8 @@
                 "owner": "consolidation",
                 "repo": "robo",
                 "stars": 2709
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2734,7 +2902,8 @@
                 "owner": "jobbyphp",
                 "repo": "jobby",
                 "stars": 1048
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for automating and running tasks.",
@@ -2756,7 +2925,8 @@
                 "owner": "KnpLabs",
                 "repo": "KnpMenu",
                 "stars": 1394
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2771,7 +2941,8 @@
                 "owner": "spatie",
                 "repo": "menu",
                 "stars": 754
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Tools for building navigation structures.",
@@ -2793,7 +2964,8 @@
                 "owner": "laravel-mix",
                 "repo": "laravel-mix",
                 "stars": 5220
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2808,7 +2980,8 @@
                 "owner": "symfony",
                 "repo": "asset",
                 "stars": 3148
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2823,7 +2996,8 @@
                 "owner": "symfony",
                 "repo": "webpack-encore",
                 "stars": 2220
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2838,7 +3012,8 @@
                 "owner": "tedious",
                 "repo": "JShrink",
                 "stars": 763
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Tools for managing, compressing and minifying website assets.",
@@ -2859,8 +3034,9 @@
                 "last_commit": "2026-04-17T11:29:45Z",
                 "owner": "umpirsky",
                 "repo": "country-list",
-                "stars": 5253
-              }
+                "stars": 5252
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2875,7 +3051,8 @@
                 "owner": "mjaschen",
                 "repo": "phpgeo",
                 "stars": 1612
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2890,7 +3067,8 @@
                 "owner": "thephpleague",
                 "repo": "geotools",
                 "stars": 1406
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2905,7 +3083,8 @@
                 "owner": "jmikola",
                 "repo": "geojson",
                 "stars": 307
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for geocoding addresses and working with latitudes and longitudes.",
@@ -2927,7 +3106,8 @@
                 "owner": "briannesbitt",
                 "repo": "Carbon",
                 "stars": 16599
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2942,7 +3122,8 @@
                 "owner": "cakephp",
                 "repo": "chronos",
                 "stars": 1362
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2953,11 +3134,12 @@
                 "archived": false,
                 "id": 32797151,
                 "language": "PHP",
-                "last_commit": "2026-08-27T12:03:57Z",
+                "last_commit": "2026-08-28T12:49:09Z",
                 "owner": "azuyalabs",
                 "repo": "yasumi",
                 "stars": 1098
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2972,7 +3154,8 @@
                 "owner": "fightbulc",
                 "repo": "moment.php",
                 "stars": 967
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -2987,7 +3170,8 @@
                 "owner": "rlanvin",
                 "repo": "php-rrule",
                 "stars": 710
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3002,7 +3186,8 @@
                 "owner": "yohang",
                 "repo": "CalendR",
                 "stars": 467
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3017,7 +3202,8 @@
                 "owner": "kylekatarnls",
                 "repo": "business-time",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with dates and times.",
@@ -3038,8 +3224,9 @@
                 "last_commit": "2026-08-17T02:38:55Z",
                 "owner": "swoole",
                 "repo": "swoole-src",
-                "stars": 18915
-              }
+                "stars": 18916
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3050,11 +3237,12 @@
                 "archived": false,
                 "id": 15020102,
                 "language": "PHP",
-                "last_commit": "2026-08-24T13:42:06Z",
+                "last_commit": "2026-08-28T01:20:59Z",
                 "owner": "walkor",
                 "repo": "workerman",
-                "stars": 11546
-              }
+                "stars": 11547
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3069,7 +3257,8 @@
                 "owner": "reactphp",
                 "repo": "reactphp",
                 "stars": 9092
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3083,8 +3272,9 @@
                 "last_commit": "2026-06-14T13:01:18Z",
                 "owner": "ratchetphp",
                 "repo": "Ratchet",
-                "stars": 6437
-              }
+                "stars": 6436
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3099,7 +3289,8 @@
                 "owner": "amphp",
                 "repo": "amp",
                 "stars": 4432
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3114,7 +3305,8 @@
                 "owner": "ReactiveX",
                 "repo": "RxPHP",
                 "stars": 1732
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3129,7 +3321,8 @@
                 "owner": "thephpleague",
                 "repo": "event",
                 "stars": 1571
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3144,7 +3337,8 @@
                 "owner": "broadway",
                 "repo": "broadway",
                 "stars": 1509
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3159,7 +3353,8 @@
                 "owner": "igorw",
                 "repo": "evenement",
                 "stars": 1357
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3174,7 +3369,8 @@
                 "owner": "ratchetphp",
                 "repo": "Pawl",
                 "stars": 616
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3189,7 +3385,8 @@
                 "owner": "hollodotme",
                 "repo": "fast-cgi-client",
                 "stars": 564
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3204,7 +3401,8 @@
                 "owner": "prooph",
                 "repo": "event-store",
                 "stars": 548
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3219,7 +3417,8 @@
                 "owner": "php-defer",
                 "repo": "php-defer",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3234,7 +3433,8 @@
                 "owner": "ElephantIO",
                 "repo": "elephant.io",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3249,7 +3449,8 @@
                 "owner": "cakephp",
                 "repo": "event",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries that are event-driven or implement non-blocking event loops.",
@@ -3267,11 +3468,12 @@
                 "archived": false,
                 "id": 1376664,
                 "language": "PHP",
-                "last_commit": "2026-08-24T08:18:08Z",
+                "last_commit": "2026-08-28T12:10:21Z",
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21402
-              }
+                "stars": 21403
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for generating and working with log files.",
@@ -3293,7 +3495,8 @@
                 "owner": "thephpleague",
                 "repo": "omnipay",
                 "stars": 6056
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3308,7 +3511,8 @@
                 "owner": "moneyphp",
                 "repo": "money",
                 "stars": 4862
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3319,11 +3523,12 @@
                 "archived": false,
                 "id": 131995661,
                 "language": "PHP",
-                "last_commit": "2026-08-27T15:25:09Z",
+                "last_commit": "2026-08-28T16:48:08Z",
                 "owner": "shopware",
                 "repo": "shopware",
                 "stars": 3408
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3337,8 +3542,9 @@
                 "last_commit": "2026-07-30T22:34:03Z",
                 "owner": "brick",
                 "repo": "money",
-                "stars": 1926
-              }
+                "stars": 1925
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3349,11 +3555,12 @@
                 "archived": false,
                 "id": 6825542,
                 "language": "PHP",
-                "last_commit": "2026-08-26T12:52:01Z",
+                "last_commit": "2026-08-28T11:00:49Z",
                 "owner": "Payum",
                 "repo": "Payum",
                 "stars": 1924
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3368,7 +3575,8 @@
                 "owner": "florianv",
                 "repo": "swap",
                 "stars": 1339
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3379,11 +3587,12 @@
                 "archived": false,
                 "id": 119832166,
                 "language": "PHP",
-                "last_commit": "2026-08-27T14:38:43Z",
+                "last_commit": "2026-08-28T15:39:19Z",
                 "owner": "shopsys",
                 "repo": "shopsys",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and applications for taking payments and building online e-commerce stores.",
@@ -3405,7 +3614,8 @@
                 "owner": "dompdf",
                 "repo": "dompdf",
                 "stars": 11178
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3420,7 +3630,8 @@
                 "owner": "spatie",
                 "repo": "browsershot",
                 "stars": 5242
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3435,7 +3646,8 @@
                 "owner": "KnpLabs",
                 "repo": "snappy",
                 "stars": 4476
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3450,7 +3662,8 @@
                 "owner": "gotenberg",
                 "repo": "gotenberg-php",
                 "stars": 393
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and software for working with PDF files.",
@@ -3471,8 +3684,9 @@
                 "last_commit": "2026-08-22T05:04:56Z",
                 "owner": "PHPOffice",
                 "repo": "PhpSpreadsheet",
-                "stars": 13978
-              }
+                "stars": 13979
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3487,7 +3701,8 @@
                 "owner": "PHPOffice",
                 "repo": "PHPWord",
                 "stars": 7585
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3502,7 +3717,8 @@
                 "owner": "PHPOffice",
                 "repo": "PHPPresentation",
                 "stars": 1373
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3513,11 +3729,12 @@
                 "archived": false,
                 "id": 464890769,
                 "language": "PHP",
-                "last_commit": "2026-08-27T10:34:06Z",
+                "last_commit": "2026-08-28T02:28:42Z",
                 "owner": "openspout",
                 "repo": "openspout",
                 "stars": 1225
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with office suite documents.",
@@ -3535,11 +3752,12 @@
                 "archived": false,
                 "id": 8875190,
                 "language": "PHP",
-                "last_commit": "2026-08-26T16:56:30Z",
+                "last_commit": "2026-08-28T13:15:30Z",
                 "owner": "Ocramius",
                 "repo": "ProxyManager",
                 "stars": 4943
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3553,8 +3771,9 @@
                 "last_commit": "2026-08-10T17:08:40Z",
                 "owner": "doctrine-extensions",
                 "repo": "DoctrineExtensions",
-                "stars": 4140
-              }
+                "stars": 4139
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3565,11 +3784,12 @@
                 "archived": false,
                 "id": 4554599,
                 "language": "PHP",
-                "last_commit": "2026-08-25T20:57:49Z",
+                "last_commit": "2026-08-28T00:00:13Z",
                 "owner": "illuminate",
                 "repo": "database",
                 "stars": 2770
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3584,7 +3804,8 @@
                 "owner": "etrepat",
                 "repo": "baum",
                 "stars": 2223
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3599,7 +3820,8 @@
                 "owner": "cycle",
                 "repo": "orm",
                 "stars": 1328
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3614,7 +3836,8 @@
                 "owner": "spotorm",
                 "repo": "spot2",
                 "stars": 597
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3629,7 +3852,8 @@
                 "owner": "auraphp",
                 "repo": "Aura.Sql",
                 "stars": 566
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3644,7 +3868,8 @@
                 "owner": "auraphp",
                 "repo": "Aura.SqlQuery",
                 "stars": 457
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3659,7 +3884,8 @@
                 "owner": "atlasphp",
                 "repo": "Atlas.Orm",
                 "stars": 429
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3674,7 +3900,8 @@
                 "owner": "webfactory",
                 "repo": "slimdump",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3685,11 +3912,12 @@
                 "archived": false,
                 "id": 30712982,
                 "language": "PHP",
-                "last_commit": "2026-08-24T11:35:19Z",
+                "last_commit": "2026-08-28T02:53:55Z",
                 "owner": "cakephp",
                 "repo": "orm",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.",
@@ -3711,7 +3939,8 @@
                 "owner": "cakephp",
                 "repo": "phinx",
                 "stars": 4539
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3726,7 +3955,8 @@
                 "owner": "davedevelopment",
                 "repo": "phpmig",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3741,7 +3971,8 @@
                 "owner": "ruckus",
                 "repo": "ruckusing-migrations",
                 "stars": 499
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries to help manage database schemas and migrations.",
@@ -3763,7 +3994,8 @@
                 "owner": "predis",
                 "repo": "predis",
                 "stars": 7781
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3774,11 +4006,12 @@
                 "archived": false,
                 "id": 27557391,
                 "language": "PHP",
-                "last_commit": "2026-08-27T15:15:20Z",
+                "last_commit": "2026-08-28T09:40:43Z",
                 "owner": "mongodb",
                 "repo": "mongo-php-library",
                 "stars": 1612
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3789,11 +4022,12 @@
                 "archived": false,
                 "id": 19514152,
                 "language": "PHP",
-                "last_commit": "2026-08-27T14:32:42Z",
+                "last_commit": "2026-08-28T09:49:54Z",
                 "owner": "mongodb",
                 "repo": "mongo-php-driver",
                 "stars": 923
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with \"NoSQL\" backends.",
@@ -3815,7 +4049,8 @@
                 "owner": "php-amqplib",
                 "repo": "php-amqplib",
                 "stars": 4602
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3830,7 +4065,8 @@
                 "owner": "php-enqueue",
                 "repo": "enqueue-dev",
                 "stars": 2220
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3845,7 +4081,8 @@
                 "owner": "pheanstalk",
                 "repo": "pheanstalk",
                 "stars": 1922
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3860,7 +4097,8 @@
                 "owner": "jakubkulhan",
                 "repo": "bunny",
                 "stars": 749
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3875,7 +4113,8 @@
                 "owner": "php-amqplib",
                 "repo": "Thumper",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3890,7 +4129,8 @@
                 "owner": "tarantool-php",
                 "repo": "queue",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with event and task queues.",
@@ -3912,7 +4152,8 @@
                 "owner": "elastic",
                 "repo": "elasticsearch-php",
                 "stars": 5339
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3927,7 +4168,8 @@
                 "owner": "ruflin",
                 "repo": "Elastica",
                 "stars": 2269
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and software for indexing and performing search queries on data.",
@@ -3949,7 +4191,8 @@
                 "owner": "bobthecow",
                 "repo": "psysh",
                 "stars": 9831
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3964,7 +4207,8 @@
                 "owner": "mtdowling",
                 "repo": "cron-expression",
                 "stars": 4861
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3979,7 +4223,8 @@
                 "owner": "php-school",
                 "repo": "cli-menu",
                 "stars": 1943
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -3994,7 +4239,8 @@
                 "owner": "thephpleague",
                 "repo": "climate",
                 "stars": 1895
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4009,7 +4255,8 @@
                 "owner": "nategood",
                 "repo": "commando",
                 "stars": 801
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4024,7 +4271,8 @@
                 "owner": "MrRio",
                 "repo": "shellwrap",
                 "stars": 739
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4039,7 +4287,8 @@
                 "owner": "c9s",
                 "repo": "CLIFramework",
                 "stars": 435
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4054,7 +4303,8 @@
                 "owner": "getopt-php",
                 "repo": "getopt-php",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4069,7 +4319,8 @@
                 "owner": "c9s",
                 "repo": "GetOptionKit",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4084,7 +4335,8 @@
                 "owner": "auraphp",
                 "repo": "Aura.Cli",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries related to the command line.",
@@ -4102,11 +4354,12 @@
                 "archived": false,
                 "id": 17452080,
                 "language": "PHP",
-                "last_commit": "2026-08-27T15:14:52Z",
+                "last_commit": "2026-08-28T01:54:58Z",
                 "owner": "lcobucci",
                 "repo": "jwt",
                 "stars": 7483
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4121,7 +4374,8 @@
                 "owner": "abraham",
                 "repo": "twitteroauth",
                 "stars": 4302
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4136,7 +4390,8 @@
                 "owner": "thephpleague",
                 "repo": "oauth2-client",
                 "stars": 3817
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4151,7 +4406,8 @@
                 "owner": "paragonie",
                 "repo": "paseto",
                 "stars": 3398
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4166,7 +4422,8 @@
                 "owner": "daviddesberg",
                 "repo": "PHPoAuthLib",
                 "stars": 1077
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4181,7 +4438,8 @@
                 "owner": "thephpleague",
                 "repo": "oauth1-client",
                 "stars": 995
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4196,7 +4454,8 @@
                 "owner": "SocialConnect",
                 "repo": "auth",
                 "stars": 564
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4211,7 +4470,8 @@
                 "owner": "auraphp",
                 "repo": "Aura.Auth",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for implementing user authentication and authorization.",
@@ -4232,8 +4492,9 @@
                 "last_commit": "2026-02-18T15:50:34Z",
                 "owner": "erusev",
                 "repo": "parsedown",
-                "stars": 15058
-              }
+                "stars": 15059
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4248,7 +4509,8 @@
                 "owner": "michelf",
                 "repo": "php-markdown",
                 "stars": 3463
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4259,11 +4521,12 @@
                 "archived": false,
                 "id": 23768977,
                 "language": "PHP",
-                "last_commit": "2026-08-27T01:12:30Z",
+                "last_commit": "2026-08-28T02:34:51Z",
                 "owner": "thephpleague",
                 "repo": "commonmark",
                 "stars": 2971
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4277,8 +4540,9 @@
                 "last_commit": "2026-08-10T14:24:22Z",
                 "owner": "thephpleague",
                 "repo": "html-to-markdown",
-                "stars": 1903
-              }
+                "stars": 1904
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4289,11 +4553,12 @@
                 "archived": false,
                 "id": 858754,
                 "language": "PHP",
-                "last_commit": "2026-08-27T11:10:52Z",
+                "last_commit": "2026-08-28T15:37:58Z",
                 "owner": "MyIntervals",
                 "repo": "PHP-CSS-Parser",
                 "stars": 1826
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4308,7 +4573,8 @@
                 "owner": "Masterminds",
                 "repo": "html5-php",
                 "stars": 1782
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4323,7 +4589,8 @@
                 "owner": "cebe",
                 "repo": "markdown",
                 "stars": 1012
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4338,7 +4605,8 @@
                 "owner": "essence",
                 "repo": "essence",
                 "stars": 769
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4352,8 +4620,9 @@
                 "last_commit": "2026-08-02T14:42:39Z",
                 "owner": "sabre-io",
                 "repo": "vobject",
-                "stars": 601
-              }
+                "stars": 603
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4368,7 +4637,8 @@
                 "owner": "mpratt",
                 "repo": "Embera",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4383,7 +4653,8 @@
                 "owner": "spatie",
                 "repo": "shiki-php",
                 "stars": 312
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4398,7 +4669,8 @@
                 "owner": "milesj",
                 "repo": "decoda",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4413,7 +4685,8 @@
                 "owner": "php-collective",
                 "repo": "djot-php",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with markup and CSS formats.",
@@ -4435,7 +4708,8 @@
                 "owner": "Seldaek",
                 "repo": "jsonlint",
                 "stars": 1325
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4450,7 +4724,8 @@
                 "owner": "cerbero90",
                 "repo": "lazy-json",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4461,11 +4736,12 @@
                 "archived": false,
                 "id": 245258310,
                 "language": "PHP",
-                "last_commit": "2026-04-18T20:30:43Z",
+                "last_commit": "2026-08-28T13:39:04Z",
                 "owner": "JsonMapper",
                 "repo": "JsonMapper",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with JSON.",
@@ -4487,7 +4763,8 @@
                 "owner": "ramsey",
                 "repo": "uuid",
                 "stars": 12633
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4502,7 +4779,8 @@
                 "owner": "serbanghita",
                 "repo": "Mobile-Detect",
                 "stars": 10680
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4516,8 +4794,9 @@
                 "last_commit": "2024-08-05T12:34:44Z",
                 "owner": "jenssegers",
                 "repo": "agent",
-                "stars": 4849
-              }
+                "stars": 4850
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4532,7 +4811,8 @@
                 "owner": "jdorn",
                 "repo": "sql-formatter",
                 "stars": 3846
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4546,8 +4826,9 @@
                 "last_commit": "2026-08-24T06:03:39Z",
                 "owner": "matomo-org",
                 "repo": "device-detector",
-                "stars": 3519
-              }
+                "stars": 3520
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4562,7 +4843,8 @@
                 "owner": "cocur",
                 "repo": "slugify",
                 "stars": 2899
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4576,8 +4858,9 @@
                 "last_commit": "2025-12-16T03:39:39Z",
                 "owner": "fukuball",
                 "repo": "jieba-php",
-                "stars": 1376
-              }
+                "stars": 1377
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4592,7 +4875,8 @@
                 "owner": "jbroadway",
                 "repo": "urlify",
                 "stars": 674
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4607,7 +4891,8 @@
                 "owner": "voku",
                 "repo": "portable-ascii",
                 "stars": 577
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4622,7 +4907,8 @@
                 "owner": "voku",
                 "repo": "portable-utf8",
                 "stars": 518
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4637,7 +4923,8 @@
                 "owner": "mikeemoo",
                 "repo": "ColorJizz-PHP",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4652,7 +4939,8 @@
                 "owner": "sensiolabs",
                 "repo": "ansi-to-html",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4667,7 +4955,8 @@
                 "owner": "voku",
                 "repo": "Stringy",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4682,7 +4971,8 @@
                 "owner": "vstelmakh",
                 "repo": "url-highlight",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4697,7 +4987,8 @@
                 "owner": "nicolas-grekas",
                 "repo": "Patchwork-UTF8",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4712,7 +5003,8 @@
                 "owner": "heiglandreas",
                 "repo": "Org_Heigl_Hyphenator",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for parsing and manipulating strings.",
@@ -4734,7 +5026,8 @@
                 "owner": "markrogoyski",
                 "repo": "math-php",
                 "stars": 2410
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4745,11 +5038,12 @@
                 "archived": false,
                 "id": 23512728,
                 "language": "PHP",
-                "last_commit": "2026-08-26T23:16:59Z",
+                "last_commit": "2026-08-27T23:22:44Z",
                 "owner": "brick",
                 "repo": "math",
                 "stars": 2162
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4764,7 +5058,8 @@
                 "owner": "darsyn",
                 "repo": "ip",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4779,7 +5074,8 @@
                 "owner": "gabrielelana",
                 "repo": "byte-units",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4794,7 +5090,8 @@
                 "owner": "cniska",
                 "repo": "php-conversion",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4809,7 +5106,8 @@
                 "owner": "php-collective",
                 "repo": "decimal-object",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4824,7 +5122,8 @@
                 "owner": "triplepoint",
                 "repo": "php-units-of-measure",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with numbers.",
@@ -4842,11 +5141,12 @@
                 "archived": false,
                 "id": 931033,
                 "language": "PHP",
-                "last_commit": "2026-08-27T01:33:30Z",
+                "last_commit": "2026-08-28T02:47:00Z",
                 "owner": "Respect",
                 "repo": "Validation",
                 "stars": 6028
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4861,7 +5161,8 @@
                 "owner": "giggsey",
                 "repo": "libphonenumber-for-php",
                 "stars": 5050
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4875,8 +5176,9 @@
                 "last_commit": "2026-08-21T11:30:43Z",
                 "owner": "jsonrainbow",
                 "repo": "json-schema",
-                "stars": 3629
-              }
+                "stars": 3630
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4891,7 +5193,8 @@
                 "owner": "ezyang",
                 "repo": "htmlpurifier",
                 "stars": 3350
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4906,7 +5209,8 @@
                 "owner": "beberlei",
                 "repo": "assert",
                 "stars": 2432
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4921,7 +5225,8 @@
                 "owner": "vlucas",
                 "repo": "valitron",
                 "stars": 1604
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4936,7 +5241,8 @@
                 "owner": "CuyZ",
                 "repo": "Valinor",
                 "stars": 1526
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4951,7 +5257,8 @@
                 "owner": "ronanguilloux",
                 "repo": "IsoCodes",
                 "stars": 803
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4966,7 +5273,8 @@
                 "owner": "ircmaxell",
                 "repo": "filterus",
                 "stars": 442
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4977,11 +5285,12 @@
                 "archived": false,
                 "id": 442404126,
                 "language": "PHP",
-                "last_commit": "2026-08-27T12:17:24Z",
+                "last_commit": "2026-08-28T16:04:52Z",
                 "owner": "symfony",
                 "repo": "html-sanitizer",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -4996,7 +5305,8 @@
                 "owner": "auraphp",
                 "repo": "Aura.Filter",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5011,7 +5321,8 @@
                 "owner": "romaricdrigon",
                 "repo": "MetaYaml",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5026,7 +5337,8 @@
                 "owner": "serkin",
                 "repo": "volan",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5041,7 +5353,8 @@
                 "owner": "cakephp",
                 "repo": "validation",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for filtering, sanitizing and validating data.",
@@ -5063,7 +5376,8 @@
                 "owner": "willdurand",
                 "repo": "Negotiation",
                 "stars": 1419
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5078,7 +5392,8 @@
                 "owner": "Luracast",
                 "repo": "Restler",
                 "stars": 1382
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5093,7 +5408,8 @@
                 "owner": "willdurand",
                 "repo": "Hateoas",
                 "stars": 1042
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5104,11 +5420,12 @@
                 "archived": false,
                 "id": 112939070,
                 "language": "PHP",
-                "last_commit": "2026-08-27T15:18:29Z",
+                "last_commit": "2026-08-28T14:01:58Z",
                 "owner": "janephp",
                 "repo": "janephp",
                 "stars": 689
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5123,7 +5440,8 @@
                 "owner": "WsdlToPhp",
                 "repo": "PackageGenerator",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5138,7 +5456,8 @@
                 "owner": "blongden",
                 "repo": "hal",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5153,7 +5472,8 @@
                 "owner": "laminas-api-tools",
                 "repo": "api-tools-skeleton",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and web tools for developing APIs.",
@@ -5175,7 +5495,8 @@
                 "owner": "doctrine",
                 "repo": "cache",
                 "stars": 7855
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5189,8 +5510,9 @@
                 "last_commit": "2026-01-28T21:42:28Z",
                 "owner": "gordalina",
                 "repo": "cachetool",
-                "stars": 1827
-              }
+                "stars": 1826
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5205,7 +5527,8 @@
                 "owner": "tedious",
                 "repo": "Stash",
                 "stars": 963
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5220,7 +5543,8 @@
                 "owner": "php-lock",
                 "repo": "lock",
                 "stars": 948
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5235,7 +5559,8 @@
                 "owner": "apix",
                 "repo": "cache",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5250,7 +5575,8 @@
                 "owner": "laminas",
                 "repo": "laminas-cache",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5265,7 +5591,8 @@
                 "owner": "sobstel",
                 "repo": "metaphore",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5280,7 +5607,8 @@
                 "owner": "cakephp",
                 "repo": "cache",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for caching data and acquiring locks.",
@@ -5302,7 +5630,8 @@
                 "owner": "thephpleague",
                 "repo": "fractal",
                 "stars": 3544
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5317,7 +5646,8 @@
                 "owner": "schmittjoh",
                 "repo": "serializer",
                 "stars": 2343
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5332,7 +5662,8 @@
                 "owner": "cweiske",
                 "repo": "jsonmapper",
                 "stars": 1573
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5347,7 +5678,8 @@
                 "owner": "halaxa",
                 "repo": "json-machine",
                 "stars": 1326
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5362,7 +5694,8 @@
                 "owner": "Athari",
                 "repo": "YaLinqo",
                 "stars": 453
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5377,7 +5710,8 @@
                 "owner": "rybakit",
                 "repo": "msgpack.php",
                 "stars": 408
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5392,7 +5726,8 @@
                 "owner": "cakephp",
                 "repo": "collection",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5407,7 +5742,8 @@
                 "owner": "laminas",
                 "repo": "laminas-serializer",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries that implement data structure or storage techniques.",
@@ -5429,7 +5765,8 @@
                 "owner": "jolicode",
                 "repo": "JoliNotif",
                 "stars": 1443
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with notification software.",
@@ -5451,7 +5788,8 @@
                 "owner": "deployphp",
                 "repo": "deployer",
                 "stars": 11099
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5466,7 +5804,8 @@
                 "owner": "laravel",
                 "repo": "envoy",
                 "stars": 1615
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for project deployment.",
@@ -5488,7 +5827,8 @@
                 "owner": "auraphp",
                 "repo": "Aura.Intl",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5503,7 +5843,8 @@
                 "owner": "cakephp",
                 "repo": "i18n",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for Internationalization (I18n) and Localization (L10n).",
@@ -5524,8 +5865,9 @@
                 "last_commit": "2026-08-24T18:09:11Z",
                 "owner": "vlucas",
                 "repo": "phpdotenv",
-                "stars": 13550
-              }
+                "stars": 13551
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5540,7 +5882,8 @@
                 "owner": "symfony",
                 "repo": "dotenv",
                 "stars": 3788
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5555,7 +5898,8 @@
                 "owner": "php-collective",
                 "repo": "toml",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries and tools for configuration.",
@@ -5576,8 +5920,9 @@
                 "last_commit": "2026-08-18T10:19:11Z",
                 "owner": "openai-php",
                 "repo": "client",
-                "stars": 5829
-              }
+                "stars": 5830
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5592,7 +5937,8 @@
                 "owner": "openai-php",
                 "repo": "laravel",
                 "stars": 3751
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5607,7 +5953,8 @@
                 "owner": "LLPhant",
                 "repo": "LLPhant",
                 "stars": 1708
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5618,11 +5965,12 @@
                 "archived": false,
                 "id": 763463572,
                 "language": "PHP",
-                "last_commit": "2026-08-27T06:33:02Z",
+                "last_commit": "2026-08-28T09:47:00Z",
                 "owner": "cognesy",
                 "repo": "instructor-php",
                 "stars": 326
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5633,11 +5981,12 @@
                 "archived": false,
                 "id": 794590471,
                 "language": "PHP",
-                "last_commit": "2026-08-07T00:52:49Z",
+                "last_commit": "2026-08-28T00:52:52Z",
                 "owner": "mozex",
                 "repo": "anthropic-laravel",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5652,7 +6001,8 @@
                 "owner": "mozex",
                 "repo": "anthropic-php",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5667,7 +6017,8 @@
                 "owner": "SoftCreatR",
                 "repo": "php-mistral-ai-sdk",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for working with Large Language Models.",
@@ -5685,11 +6036,12 @@
                 "archived": false,
                 "id": 6269013,
                 "language": "PHP",
-                "last_commit": "2026-08-26T18:40:37Z",
+                "last_commit": "2026-08-27T19:02:56Z",
                 "owner": "aws",
                 "repo": "aws-sdk-php",
                 "stars": 6203
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5700,11 +6052,12 @@
                 "archived": false,
                 "id": 1953386,
                 "language": "PHP",
-                "last_commit": "2026-08-27T12:57:28Z",
+                "last_commit": "2026-08-28T00:35:20Z",
                 "owner": "stripe",
                 "repo": "stripe-php",
                 "stars": 4021
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5719,7 +6072,8 @@
                 "owner": "KnpLabs",
                 "repo": "php-github-api",
                 "stars": 2207
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5734,7 +6088,8 @@
                 "owner": "twilio",
                 "repo": "twilio-php",
                 "stars": 1635
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5749,7 +6104,8 @@
                 "owner": "mailgun",
                 "repo": "mailgun-php",
                 "stars": 1138
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries for accessing third party APIs.",
@@ -5767,11 +6123,12 @@
                 "archived": false,
                 "id": 11478636,
                 "language": "PHP",
-                "last_commit": "2026-08-27T14:41:34Z",
+                "last_commit": "2026-08-28T16:27:27Z",
                 "owner": "zephir-lang",
                 "repo": "zephir",
                 "stars": 3386
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Libraries to help build PHP extensions.",
@@ -5793,7 +6150,8 @@
                 "owner": "doctrine",
                 "repo": "annotations",
                 "stars": 6731
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5807,8 +6165,9 @@
                 "last_commit": "2026-04-03T05:14:36Z",
                 "owner": "botman",
                 "repo": "botman",
-                "stars": 6161
-              }
+                "stars": 6162
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5823,7 +6182,8 @@
                 "owner": "thecodingmachine",
                 "repo": "safe",
                 "stars": 2496
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5838,7 +6198,8 @@
                 "owner": "hprose",
                 "repo": "hprose-php",
                 "stars": 1981
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5853,7 +6214,8 @@
                 "owner": "whiteoctober",
                 "repo": "Pagerfanta",
                 "stars": 1572
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5868,7 +6230,8 @@
                 "owner": "ackintosh",
                 "repo": "ganesha",
                 "stars": 670
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5883,7 +6246,8 @@
                 "owner": "laravel",
                 "repo": "serializable-closure",
                 "stars": 608
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5898,7 +6262,8 @@
                 "owner": "ClassPreloader",
                 "repo": "ClassPreloader",
                 "stars": 376
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5913,7 +6278,8 @@
                 "owner": "ARCANEDEV",
                 "repo": "noCAPTCHA",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Useful libraries or utilities that don't fit into the categories above.",
@@ -5941,7 +6307,8 @@
                 "owner": "phpbrew",
                 "repo": "phpbrew",
                 "stars": 5525
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5955,8 +6322,9 @@
                 "last_commit": "2026-08-22T18:34:45Z",
                 "owner": "crazywhalecc",
                 "repo": "static-php-cli",
-                "stars": 1927
-              }
+                "stars": 1928
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5971,7 +6339,8 @@
                 "owner": "php-build",
                 "repo": "php-build",
                 "stars": 1049
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -5986,7 +6355,8 @@
                 "owner": "philcook",
                 "repo": "brew-php-switcher",
                 "stars": 1007
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Tools to help install and manage PHP on your computer.",
@@ -6004,11 +6374,12 @@
                 "archived": false,
                 "id": 129089460,
                 "language": "Shell",
-                "last_commit": "2026-08-26T12:09:27Z",
+                "last_commit": "2026-08-28T16:08:48Z",
                 "owner": "mlocati",
                 "repo": "docker-php-extension-installer",
                 "stars": 4964
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6023,7 +6394,8 @@
                 "owner": "exposedev",
                 "repo": "expose",
                 "stars": 4568
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6034,11 +6406,12 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-27T15:19:17Z",
+                "last_commit": "2026-08-28T10:11:48Z",
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3759
-              }
+                "stars": 3813
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6053,7 +6426,8 @@
                 "owner": "tighten",
                 "repo": "takeout",
                 "stars": 1653
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6068,7 +6442,8 @@
                 "owner": "soloterm",
                 "repo": "solo",
                 "stars": 1286
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6083,7 +6458,8 @@
                 "owner": "docksal",
                 "repo": "docksal",
                 "stars": 719
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Software and tools for creating and sharing a development environment.",
@@ -6101,11 +6477,12 @@
                 "archived": false,
                 "id": 455600,
                 "language": "C++",
-                "last_commit": "2026-08-27T14:29:13Z",
+                "last_commit": "2026-08-28T16:45:01Z",
                 "owner": "facebook",
                 "repo": "hhvm",
-                "stars": 18656
-              }
+                "stars": 18655
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6119,8 +6496,9 @@
                 "last_commit": "2026-06-09T10:51:03Z",
                 "owner": "peachpiecompiler",
                 "repo": "peachpie",
-                "stars": 2485
-              }
+                "stars": 2483
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Alternative PHP virtual machines.",
@@ -6141,8 +6519,9 @@
                 "last_commit": "2026-08-24T07:09:48Z",
                 "owner": "cachethq",
                 "repo": "cachet",
-                "stars": 15230
-              }
+                "stars": 15229
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6156,8 +6535,9 @@
                 "last_commit": "2026-08-21T23:59:24Z",
                 "owner": "axllent",
                 "repo": "mailpit",
-                "stars": 10212
-              }
+                "stars": 10218
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6168,11 +6548,12 @@
                 "archived": false,
                 "id": 3217621,
                 "language": "PHP",
-                "last_commit": "2026-08-26T13:17:18Z",
+                "last_commit": "2026-08-27T19:52:27Z",
                 "owner": "phpmyadmin",
                 "repo": "phpmyadmin",
-                "stars": 7915
-              }
+                "stars": 7916
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6183,11 +6564,12 @@
                 "archived": false,
                 "id": 1021040,
                 "language": "Ruby",
-                "last_commit": "2026-08-26T05:43:19Z",
+                "last_commit": "2026-08-28T12:06:13Z",
                 "owner": "sj26",
                 "repo": "mailcatcher",
                 "stars": 6778
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6202,7 +6584,8 @@
                 "owner": "electerious",
                 "repo": "Lychee",
                 "stars": 6357
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6216,8 +6599,9 @@
                 "last_commit": "2025-12-22T14:53:41Z",
                 "owner": "erikdubbelboer",
                 "repo": "phpRedisAdmin",
-                "stars": 3179
-              }
+                "stars": 3180
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6232,7 +6616,8 @@
                 "owner": "CoderKungfu",
                 "repo": "php-queue",
                 "stars": 664
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Web-based applications and tools.",
@@ -6253,8 +6638,9 @@
                 "last_commit": "2026-08-24T22:04:05Z",
                 "owner": "roadrunner-server",
                 "repo": "roadrunner",
-                "stars": 8499
-              }
+                "stars": 8500
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6268,8 +6654,9 @@
                 "last_commit": "2023-12-08T21:41:22Z",
                 "owner": "php-pm",
                 "repo": "php-pm",
-                "stars": 6548
-              }
+                "stars": 6547
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
@@ -6284,7 +6671,8 @@
                 "owner": "appserver-io",
                 "repo": "appserver",
                 "stars": 960
-              }
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
             }
           ],
           "description": "Infrastructure for providing PHP applications and services.",
@@ -6296,7 +6684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:30:15.228Z",
+    "last_updated": "2026-08-28T16:55:19.837Z",
     "original_repository_info": {
       "archived": false,
       "id": 14705691,
@@ -6304,7 +6692,7 @@
       "last_commit": "2026-07-13T19:44:57Z",
       "owner": "ziadoz",
       "repo": "awesome-php",
-      "stars": 32668
+      "stars": 32670
     },
     "original_repository_sha": "426f5688a47f3130ccdb396c534aca5f035f3e75",
     "enhanced_repository": "enhansome/enhansome-php",

@@ -107,7 +107,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for dependency and package management.*
 
-* [Pie](https://github.com/php/pie) ⭐ 2,037 | 🐛 28 | 🌐 PHP | 📅 2026-10-01 - The official PHP installer for extensions.
+* [Pie](https://github.com/php/pie) ⭐ 2,037 | 🐛 28 | 🌐 PHP | 📅 2026-10-07 - The official PHP installer for extensions.
 * [Pickle](https://github.com/FriendsOfPHP/pickle) ⭐ 1,652 | 🐛 39 | 🌐 PHP | 📅 2023-09-29 - A PHP extension installer.
 * [Composer Installers](https://github.com/composer/installers) ⭐ 1,440 | 🐛 26 | 🌐 PHP | 📅 2026-07-01 - A multi-framework Composer library installer.
 * [Composer](https://getcomposer.org/) - A package and dependency manager.
@@ -117,12 +117,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Extras related to dependency management.*
 
-* [Satis](https://github.com/composer/satis) ⭐ 3,305 | 🐛 101 | 🌐 PHP | 📅 2026-10-06 - A static Composer repository generator.
+* [Satis](https://github.com/composer/satis) ⭐ 3,306 | 🐛 101 | 🌐 PHP | 📅 2026-10-08 - A static Composer repository generator.
 * [Composer Patches](https://github.com/cweagans/composer-patches) ⭐ 1,732 | 🐛 57 | 🌐 PHP | 📅 2026-08-31 - A plugin for Composer to apply patches.
-* [Composer Unused](https://github.com/composer-unused/composer-unused) ⭐ 1,692 | 🐛 16 | 🌐 PHP | 📅 2026-09-04 - A CLI Tool to scan for unused composer packages.
+* [Composer Unused](https://github.com/composer-unused/composer-unused) ⭐ 1,693 | 🐛 16 | 🌐 PHP | 📅 2026-09-04 - A CLI Tool to scan for unused composer packages.
 * [Composer Normalize](https://github.com/ergebnis/composer-normalize) ⭐ 1,126 | 🐛 7 | 🌐 PHP | 📅 2026-10-04 - A plugin for normalizing `composer.json` files.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) ⭐ 1,017 | 🐛 72 | 🌐 PHP | 📅 2026-02-17 - A composer plugin to merge several `composer.json` files.
-* [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) ⭐ 1,012 | 🐛 46 | 🌐 PHP | 📅 2026-10-05 - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+* [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) ⭐ 1,012 | 🐛 47 | 🌐 PHP | 📅 2026-10-07 - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 * [Composer Prefer Lowest Validator](https://github.com/dereuromark/composer-prefer-lowest) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - A plugin to check if minimum dependencies can be installed and tested.
 * [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
 
@@ -130,7 +130,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Web development frameworks.*
 
-* [Yii2](https://github.com/yiisoft/yii2/) ⭐ 14,282 | 🐛 306 | 🌐 PHP | 📅 2026-10-07 - A fast, secure, and efficient web framework.
+* [Yii2](https://github.com/yiisoft/yii2/) ⭐ 14,283 | 🐛 309 | 🌐 PHP | 📅 2026-10-07 - A fast, secure, and efficient web framework.
 * [Tempest](https://github.com/tempestphp/tempest-framework) ⭐ 2,273 | 🐛 31 | 🌐 PHP | 📅 2026-10-02 - A framework that gets out of your way.
 * [CakePHP](https://cakephp.org/) - A rapid application development framework.
 * [CodeIgniter](https://codeigniter.com/) - A powerful PHP framework with a very small footprint.
@@ -156,10 +156,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Tools for managing digital content.*
 
-* [WordPress](https://github.com/WordPress/WordPress) ⭐ 21,455 | 🐛 3 | 🌐 PHP | 📅 2026-10-07 - A blogging platform and CMS.
-* [Grav](https://github.com/getgrav/grav) ⭐ 15,682 | 🐛 417 | 🌐 PHP | 📅 2026-10-06 - A modern flat-file CMS.
-* [Magento](https://github.com/magento/magento2) ⭐ 12,197 | 🐛 2,323 | 🌐 PHP | 📅 2026-10-01 - A widely used open-source e-commerce platform.
-* [CraftCMS](https://github.com/craftcms/cms) ⭐ 3,611 | 🐛 523 | 🌐 PHP | 📅 2026-10-07 - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
+* [WordPress](https://github.com/WordPress/WordPress) ⭐ 21,459 | 🐛 3 | 🌐 PHP | 📅 2026-10-08 - A blogging platform and CMS.
+* [Grav](https://github.com/getgrav/grav) ⭐ 15,683 | 🐛 416 | 🌐 PHP | 📅 2026-10-07 - A modern flat-file CMS.
+* [Magento](https://github.com/magento/magento2) ⭐ 12,197 | 🐛 2,325 | 🌐 PHP | 📅 2026-10-07 - A widely used open-source e-commerce platform.
+* [CraftCMS](https://github.com/craftcms/cms) ⭐ 3,611 | 🐛 524 | 🌐 PHP | 📅 2026-10-08 - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 * [OpenMage](https://github.com/OpenMage/magento-lts) ⭐ 932 | 🐛 282 | 🌐 PHP | 📅 2026-10-06 - Fork of EoL Magento 1 e-commerce platform.
 * [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 * [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
@@ -191,7 +191,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Micro frameworks and routers.*
 
-* [Minicli](https://github.com/minicli/minicli) ⭐ 1,084 | 🐛 0 | 🌐 PHP | 📅 2026-02-13 - Minimalist, dependency-free framework for building CLI-centric PHP applications.
+* [Minicli](https://github.com/minicli/minicli) ⭐ 1,085 | 🐛 0 | 🌐 PHP | 📅 2026-02-13 - Minimalist, dependency-free framework for building CLI-centric PHP applications.
 * [Silly](https://github.com/mnapoli/silly) ⭐ 932 | 🐛 4 | 🌐 PHP | 📅 2026-06-29 - A micro-framework for CLI applications.
 * [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
@@ -238,13 +238,13 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for working with HTTP.*
 
-* [Guzzle](https://github.com/guzzle/guzzle) ⭐ 23,450 | 🐛 1 | 🌐 PHP | 📅 2026-09-06 - A comprehensive HTTP client.
+* [Guzzle](https://github.com/guzzle/guzzle) ⭐ 23,448 | 🐛 3 | 🌐 PHP | 📅 2026-09-06 - A comprehensive HTTP client.
 * [Requests](https://github.com/WordPress/Requests) ⭐ 3,574 | 🐛 130 | 🌐 PHP | 📅 2026-10-05 - A simple HTTP library.
-* [Saloon](https://github.com/saloonphp/saloon) ⭐ 2,443 | 🐛 5 | 🌐 PHP | 📅 2026-10-03 - A framework for building beautiful API integrations and SDKs.
-* [Symfony HTTP Client](https://github.com/symfony/http-client) ⭐ 2,030 | 🐛 0 | 🌐 PHP | 📅 2026-10-04 - A component to fetch HTTP resources synchronously or asynchronously.
+* [Saloon](https://github.com/saloonphp/saloon) ⭐ 2,444 | 🐛 5 | 🌐 PHP | 📅 2026-10-03 - A framework for building beautiful API integrations and SDKs.
+* [Symfony HTTP Client](https://github.com/symfony/http-client) ⭐ 2,030 | 🐛 0 | 🌐 PHP | 📅 2026-10-07 - A component to fetch HTTP resources synchronously or asynchronously.
 * [Buzz](https://github.com/kriswallsmith/Buzz) ⭐ 1,916 | 🐛 9 | 🌐 PHP | 📅 2026-05-15 - Another HTTP client.
 * [Nyholm PSR-7](https://github.com/Nyholm/psr7) ⭐ 1,279 | 🐛 5 | 🌐 PHP | 📅 2025-11-28 - A super lightweight PSR-7 implementation. Very strict and very fast.
-* [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 33 | 🌐 PHP | 📅 2026-10-03 - PSR-7 HTTP Message implementation.
+* [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 30 | 🌐 PHP | 📅 2026-10-08 - PSR-7 HTTP Message implementation.
 * [Retrofit](https://github.com/tebru/retrofit-php) ⭐ 154 | 🐛 5 | 🌐 PHP | 📅 2024-07-12 - A library to ease creation of REST API clients.
 * [HTTPlug](https://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
 * [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
@@ -253,9 +253,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for scraping websites and detecting crawlers.*
 
-* [Symfony Panther](https://github.com/symfony/panther) ⭐ 3,069 | 🐛 213 | 🌐 PHP | 📅 2026-10-03 - A browser testing and web crawling library for PHP and Symfony.
-* [Chrome PHP](https://github.com/chrome-php/chrome) ⭐ 2,680 | 🐛 0 | 🌐 PHP | 📅 2026-07-06 - Instrument headless Chrome/Chromium instances from PHP.
-* [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) ⭐ 2,407 | 🐛 1 | 🌐 PHP | 📅 2026-10-04 - A PHP class for detecting bots/crawlers/spiders via the user agent.
+* [Symfony Panther](https://github.com/symfony/panther) ⭐ 3,070 | 🐛 213 | 🌐 PHP | 📅 2026-10-03 - A browser testing and web crawling library for PHP and Symfony.
+* [Chrome PHP](https://github.com/chrome-php/chrome) ⭐ 2,681 | 🐛 0 | 🌐 PHP | 📅 2026-07-06 - Instrument headless Chrome/Chromium instances from PHP.
+* [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) ⭐ 2,408 | 🐛 1 | 🌐 PHP | 📅 2026-10-04 - A PHP class for detecting bots/crawlers/spiders via the user agent.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) ⭐ 2,196 | 🐛 27 | 🌐 PHP | 📅 2026-01-28 - A super-fast HTML scrapper and parser.
 * [Embed](https://github.com/php-embed/Embed) ⭐ 2,139 | 🐛 74 | 🌐 PHP | 📅 2026-07-08 - An information extractor from any web service or page.
 * [PHP Spider](https://github.com/mvdbos/php-spider) ⭐ 1,341 | 🐛 4 | 🌐 PHP | 📅 2026-08-04 - A configurable and extensible PHP web spider.
@@ -273,7 +273,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for parsing URLs.*
 
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) ⭐ 1,244 | 🐛 0 | 🌐 PHP | 📅 2026-01-30 - A domain suffix parser library.
-* [Uri](https://github.com/thephpleague/uri) ⭐ 1,130 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - Another URL manipulation library.
+* [Uri](https://github.com/thephpleague/uri) ⭐ 1,130 | 🐛 0 | 🌐 PHP | 📅 2026-10-08 - Another URL manipulation library.
 * [sabre/uri](https://github.com/sabre-io/uri) ⭐ 297 | 🐛 6 | 🌐 PHP | 📅 2026-10-01 - A functional URI manipulation library.
 
 ### Email
@@ -281,10 +281,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for sending and parsing email.*
 
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) ⭐ 22,306 | 🐛 26 | 🌐 PHP | 📅 2026-10-06 - Another mailer solution.
-* [Mautic](https://github.com/mautic/mautic) ⭐ 10,720 | 🐛 224 | 🌐 PHP | 📅 2026-10-07 - Email marketing automation.
-* [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) ⭐ 5,822 | 🐛 32 | 🌐 PHP | 📅 2026-01-06 - A library to inline CSS in email templates.
+* [Mautic](https://github.com/mautic/mautic) ⭐ 10,729 | 🐛 227 | 🌐 PHP | 📅 2026-10-08 - Email marketing automation.
+* [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) ⭐ 5,821 | 🐛 32 | 🌐 PHP | 📅 2026-01-06 - A library to inline CSS in email templates.
 * [Symfony Mailer](https://github.com/symfony/mailer) ⭐ 1,596 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 - A powerful library for creating and sending emails.
-* [ddeboer/imap](https://github.com/ddeboer/imap) ⭐ 920 | 🐛 73 | 🌐 PHP | 📅 2026-06-22 - Object-oriented, fully tested PHP IMAP library.
+* [ddeboer/imap](https://github.com/ddeboer/imap) ⭐ 919 | 🐛 73 | 🌐 PHP | 📅 2026-06-22 - Object-oriented, fully tested PHP IMAP library.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) ⭐ 651 | 🐛 11 | 🌐 PHP | 📅 2022-09-20 - An email reply parser library.
 * [Fetch](https://github.com/tedious/Fetch) ⭐ 505 | 🐛 75 | 🌐 PHP | 📅 2024-01-11 - An IMAP library.
 * [Stampie](https://github.com/Stampie/Stampie) ⚠️ Archived - A library for email services such as [SendGrid](https://www.twilio.com/en-us/sendgrid), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
@@ -293,10 +293,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for file manipulation and MIME type detection.*
 
-* [Flysystem](https://github.com/thephpleague/Flysystem) ⭐ 13,588 | 🐛 106 | 🌐 PHP | 📅 2026-10-03 - Abstraction for local and remote filesystems.
+* [Flysystem](https://github.com/thephpleague/Flysystem) ⭐ 13,587 | 🐛 106 | 🌐 PHP | 📅 2026-10-03 - Abstraction for local and remote filesystems.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) ⭐ 5,019 | 🐛 327 | 🌐 PHP | 📅 2026-01-19 - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
-* [CSV](https://github.com/thephpleague/csv) ⭐ 3,483 | 🐛 2 | 🌐 PHP | 📅 2026-10-04 - A CSV data manipulation library.
-* [Gaufrette](https://github.com/KnpLabs/Gaufrette) ⭐ 2,465 | 🐛 81 | 🌐 PHP | 📅 2026-07-22 - A filesystem abstraction layer.
+* [CSV](https://github.com/thephpleague/csv) ⭐ 3,482 | 🐛 2 | 🌐 PHP | 📅 2026-10-04 - A CSV data manipulation library.
+* [Gaufrette](https://github.com/KnpLabs/Gaufrette) ⭐ 2,466 | 🐛 81 | 🌐 PHP | 📅 2026-07-22 - A filesystem abstraction layer.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) ⭐ 282 | 🐛 7 | 🌐 PHP | 📅 2026-08-19 - A unified reader and writer of compressed archives.
 * [Parquet](https://github.com/flow-php/parquet) ⭐ 63 | 🐛 0 | 🌐 PHP | 📅 2026-10-04 - PHP implementation of Parquet file format.
 
@@ -310,7 +310,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries that implement the dependency injection design pattern.*
 
-* [Symfony DI](https://github.com/symfony/dependency-injection) ⭐ 4,166 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - A dependency injection container component.
+* [Symfony DI](https://github.com/symfony/dependency-injection) ⭐ 4,167 | 🐛 0 | 🌐 PHP | 📅 2026-10-07 - A dependency injection container component.
 * [Pimple](https://github.com/silexphp/Pimple) ⭐ 2,662 | 🐛 0 | 🌐 PHP | 📅 2026-03-02 - A tiny dependency injection container.
 * [Container](https://github.com/thephpleague/container) ⭐ 866 | 🐛 5 | 🌐 PHP | 📅 2026-07-24 - Another flexible dependency injection container.
 * [Auryn](https://github.com/rdlowrey/Auryn) ⭐ 724 | 🐛 3 | 🌐 PHP | 📅 2025-03-02 - A recursive dependency injector.
@@ -324,7 +324,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for manipulating images.*
 
 * [Intervention Image](https://github.com/Intervention/image) ⭐ 14,378 | 🐛 20 | 🌐 PHP | 📅 2026-10-05 - Another image manipulation library.
-* [Glide](https://github.com/thephpleague/glide) ⭐ 2,631 | 🐛 38 | 🌐 PHP | 📅 2026-10-01 - An on-demand image manipulation library.
+* [Glide](https://github.com/thephpleague/glide) ⭐ 2,631 | 🐛 38 | 🌐 PHP | 📅 2026-10-07 - An on-demand image manipulation library.
 * [PHP QR Code](https://github.com/chillerlan/php-qrcode/) ⭐ 2,391 | 🐛 2 | 🌐 PHP | 📅 2026-08-31 - QR Code generator and reader.
 * [Image Hash](https://github.com/jenssegers/imagehash) ⭐ 2,063 | 🐛 39 | 🌐 PHP | 📅 2025-09-17 - A library for generating perceptual image hashes.
 * [Color Extractor](https://github.com/thephpleague/color-extractor) ⭐ 1,324 | 🐛 3 | 🌐 PHP | 📅 2026-08-31 - A library for extracting colours from images.
@@ -336,18 +336,18 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for testing codebases and generating test data.*
 
-* [PHPUnit](https://github.com/sebastianbergmann/phpunit) ⭐ 20,060 | 🐛 21 | 🌐 PHP | 📅 2026-10-06 - A unit testing framework.
+* [PHPUnit](https://github.com/sebastianbergmann/phpunit) ⭐ 20,060 | 🐛 21 | 🌐 PHP | 📅 2026-10-08 - A unit testing framework.
 * [Mockery](https://github.com/mockery/mockery) ⭐ 10,723 | 🐛 99 | 🌐 PHP | 📅 2026-09-11 - A mock object library for testing.
-* [Prophecy](https://github.com/phpspec/prophecy) ⭐ 8,466 | 🐛 103 | 🌐 PHP | 📅 2026-04-13 - A highly opinionated mocking framework.
-* [Codeception](https://github.com/Codeception/Codeception) ⭐ 4,857 | 🐛 169 | 🌐 PHP | 📅 2026-10-03 - A full stack testing framework.
-* [Faker](https://github.com/fakerphp/faker) ⭐ 3,996 | 🐛 40 | 🌐 PHP | 📅 2026-05-02 - A fake data generator library.
+* [Prophecy](https://github.com/phpspec/prophecy) ⭐ 8,467 | 🐛 103 | 🌐 PHP | 📅 2026-04-13 - A highly opinionated mocking framework.
+* [Codeception](https://github.com/Codeception/Codeception) ⭐ 4,858 | 🐛 169 | 🌐 PHP | 📅 2026-10-03 - A full stack testing framework.
+* [Faker](https://github.com/fakerphp/faker) ⭐ 3,997 | 🐛 41 | 🌐 PHP | 📅 2026-05-02 - A fake data generator library.
 * [Alice](https://github.com/nelmio/alice) ⭐ 2,539 | 🐛 52 | 🌐 PHP | 📅 2026-06-15 - An expressive fixture generation library.
-* [ParaTest](https://github.com/paratestphp/paratest) ⭐ 2,510 | 🐛 9 | 🌐 PHP | 📅 2026-10-05 - A parallel testing library for PHPUnit.
-* [Infection](https://github.com/infection/infection) ⭐ 2,254 | 🐛 226 | 🌐 PHP | 📅 2026-10-06 - An AST-based PHP Mutation testing framework.
-* [PHPSpec](https://github.com/phpspec/phpspec) ⭐ 1,903 | 🐛 137 | 🌐 PHP | 📅 2026-10-05 - A design by specification unit testing library.
+* [ParaTest](https://github.com/paratestphp/paratest) ⭐ 2,510 | 🐛 10 | 🌐 PHP | 📅 2026-10-08 - A parallel testing library for PHPUnit.
+* [Infection](https://github.com/infection/infection) ⭐ 2,255 | 🐛 226 | 🌐 PHP | 📅 2026-10-06 - An AST-based PHP Mutation testing framework.
+* [PHPSpec](https://github.com/phpspec/phpspec) ⭐ 1,905 | 🐛 137 | 🌐 PHP | 📅 2026-10-07 - A design by specification unit testing library.
 * [VFS Stream](https://github.com/bovigo/vfsStream) ⭐ 1,440 | 🐛 40 | 🌐 PHP | 📅 2024-08-29 - A virtual filesystem stream wrapper for testing.
 * [Kahlan](https://github.com/kahlan/kahlan) ⭐ 1,146 | 🐛 8 | 🌐 PHP | 📅 2026-09-28 - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
-* [Foundry](https://github.com/zenstruck/foundry) ⭐ 802 | 🐛 26 | 🌐 PHP | 📅 2026-10-07 - A fixture factory generation library for Doctrine.
+* [Foundry](https://github.com/zenstruck/foundry) ⭐ 802 | 🐛 26 | 🌐 PHP | 📅 2026-10-08 - A fixture factory generation library for Doctrine.
 * [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) ⭐ 563 | 🐛 11 | 🌐 PHP | 📅 2026-07-17 - A MySQL engine written in pure PHP.
 * [Nette Tester](https://github.com/nette/tester) ⭐ 487 | 🐛 18 | 🌐 PHP | 📅 2026-09-26 - A productive and enjoyable parallel unit testing framework.
 * [Phake](https://github.com/phake/phake) ⭐ 477 | 🐛 19 | 🌐 PHP | 📅 2026-02-10 - Another mock object library for testing.
@@ -362,7 +362,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries and applications for continuous integration.*
 
-* [Setup PHP](https://github.com/shivammathur/setup-php) ⭐ 3,263 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-05 - A GitHub Action for PHP.
+* [Setup PHP](https://github.com/shivammathur/setup-php) ⭐ 3,262 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-08 - A GitHub Action for PHP.
 * [CircleCI](https://circleci.com) - A continuous integration platform.
 * [GitLab CI](https://about.gitlab.com/solutions/continuous-integration/) - A continuous integration platform.
 * [Jenkins](https://www.jenkins.io/) - A continuous integration platform with [PHP support](https://www.jenkins.io/solutions/php/).
@@ -374,7 +374,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for generating project documentation.*
 
 * [zircote/swagger-php](https://github.com/zircote/swagger-php) ⭐ 5,309 | 🐛 11 | 🌐 PHP | 📅 2026-10-07 - Generate OpenAPI documentation for your RESTful API.
-* [Scramble](https://github.com/dedoc/scramble) ⭐ 2,218 | 🐛 16 | 🌐 PHP | 📅 2026-10-07 - Automatically generates OpenAPI documentation from your code without annotations.
+* [Scramble](https://github.com/dedoc/scramble) ⭐ 2,218 | 🐛 15 | 🌐 PHP | 📅 2026-10-07 - Automatically generates OpenAPI documentation from your code without annotations.
 * [APIGen](https://github.com/apigen/apigen) ⭐ 2,168 | 🐛 24 | 🌐 PHP | 📅 2025-02-21 - Another API documentation generator.
 * [daux.io](https://github.com/dauxio/daux.io) ⭐ 829 | 🐛 7 | 🌐 PHP | 📅 2026-10-05 - A documentation generator that uses Markdown files.
 * [phpDocumentor](https://phpdoc.org/) - A documentation generator.
@@ -383,15 +383,15 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
 
-* [SQLMap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,616 | 🐛 33 | 🌐 Python | 📅 2026-10-05 - An automatic SQL injection and database takeover tool.
-* [Zap](https://github.com/zaproxy/zaproxy) ⭐ 15,885 | 🐛 864 | 🌐 Java | 📅 2026-10-06 - An integrated penetration testing tool for web applications.
-* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,978 | 🐛 1 | 🌐 C | 📅 2026-09-28.
-* [PHPSecLib](https://github.com/phpseclib/phpseclib) ⭐ 5,597 | 🐛 209 | 🌐 PHP | 📅 2026-10-07 - A pure PHP secure communications library.
-* [PHPGGC](https://github.com/ambionics/phpggc) ⭐ 3,895 | 🐛 22 | 🌐 PHP | 📅 2025-09-29 - A library of PHP unserializable payloads along with a tool to generate them.
+* [SQLMap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,630 | 🐛 31 | 🌐 Python | 📅 2026-10-05 - An automatic SQL injection and database takeover tool.
+* [Zap](https://github.com/zaproxy/zaproxy) ⭐ 15,896 | 🐛 863 | 🌐 Java | 📅 2026-10-08 - An integrated penetration testing tool for web applications.
+* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,980 | 🐛 1 | 🌐 C | 📅 2026-10-07.
+* [PHPSecLib](https://github.com/phpseclib/phpseclib) ⭐ 5,598 | 🐛 208 | 🌐 PHP | 📅 2026-10-07 - A pure PHP secure communications library.
+* [PHPGGC](https://github.com/ambionics/phpggc) ⭐ 3,896 | 🐛 22 | 🌐 PHP | 📅 2025-09-29 - A library of PHP unserializable payloads along with a tool to generate them.
 * [PHP Encryption](https://github.com/defuse/php-encryption) ⭐ 3,878 | 🐛 11 | 🌐 PHP | 📅 2024-01-02 - Secure PHP Encryption Library.
-* [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) ⭐ 2,920 | 🐛 1 | 📅 2026-10-05 - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
+* [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) ⭐ 2,920 | 🐛 1 | 📅 2026-10-07 - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 * [Optimus](https://github.com/jenssegers/optimus) ⭐ 1,276 | 🐛 14 | 🌐 PHP | 📅 2024-03-27 - Id obfuscation based on Knuth's multiplicative hashing method.
-* [AntiXSS](https://github.com/voku/anti-xss) ⭐ 710 | 🐛 2 | 🌐 PHP | 📅 2026-10-04 - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
+* [AntiXSS](https://github.com/voku/anti-xss) ⭐ 710 | 🐛 4 | 🌐 PHP | 📅 2026-10-08 - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) ⭐ 550 | 🐛 2 | 🌐 PHP | 📅 2026-07-21 - A package that adds security related headers to HTTP response.
 * [OWASP](https://owasp.org/) - Explore the world of cyber security.
 
@@ -411,9 +411,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [PHP Parser](https://github.com/nikic/PHP-Parser) ⭐ 17,466 | 🐛 75 | 🌐 PHP | 📅 2026-10-05 - A PHP parser written in PHP.
 * [Rector](https://github.com/rectorphp/rector) ⭐ 10,434 | 🐛 1 | 🌐 PHP | 📅 2026-10-07 - A tool to upgrade and refactor code.
-* [GrumPHP](https://github.com/phpro/grumphp) ⭐ 4,316 | 🐛 6 | 🌐 PHP | 📅 2026-10-03 - A PHP code-quality tool.
-* [Phpactor](https://github.com/phpactor/phpactor) ⭐ 1,926 | 🐛 293 | 🌐 PHP | 📅 2026-09-24 - PHP completion, refactoring and introspection tool.
-* [Better Reflection](https://github.com/Roave/BetterReflection) ⭐ 1,247 | 🐛 19 | 🌐 PHP | 📅 2026-10-07 - An AST-based reflection library that allows analysis and manipulation of code.
+* [GrumPHP](https://github.com/phpro/grumphp) ⭐ 4,317 | 🐛 6 | 🌐 PHP | 📅 2026-10-03 - A PHP code-quality tool.
+* [Phpactor](https://github.com/phpactor/phpactor) ⭐ 1,926 | 🐛 294 | 🌐 PHP | 📅 2026-10-07 - PHP completion, refactoring and introspection tool.
+* [Better Reflection](https://github.com/Roave/BetterReflection) ⭐ 1,248 | 🐛 19 | 🌐 PHP | 📅 2026-10-08 - An AST-based reflection library that allows analysis and manipulation of code.
 * [PHP Magic Number Detector](https://github.com/povils/phpmnd) ⭐ 586 | 🐛 21 | 🌐 PHP | 📅 2026-10-06 - A library that detects magic numbers in code.
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) ⭐ 566 | 🐛 4 | 🌐 XSLT | 📅 2025-11-22 - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 * [UBench](https://github.com/devster/ubench) ⭐ 563 | 🐛 3 | 🌐 PHP | 📅 2023-09-14 - A simple micro-benchmark library.
@@ -428,9 +428,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for managing code quality, formatting and linting.*
 
-* [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ⭐ 13,560 | 🐛 94 | 🌐 PHP | 📅 2026-10-05 - A coding standards fixer library.
+* [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ⭐ 13,560 | 🐛 94 | 🌐 PHP | 📅 2026-10-07 - A coding standards fixer library.
 * [Laravel Pint](https://github.com/laravel/pint) ⭐ 3,168 | 🐛 9 | 🌐 PHP | 📅 2026-09-10 - A coding standards fixer library for Laravel.
-* [PHP Mess Detector](https://github.com/phpmd/phpmd) ⭐ 2,461 | 🐛 57 | 🌐 PHP | 📅 2026-10-04 - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+* [PHP Mess Detector](https://github.com/phpmd/phpmd) ⭐ 2,463 | 🐛 57 | 🌐 PHP | 📅 2026-10-04 - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 * [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) ⭐ 1,560 | 🐛 204 | 🌐 PHP | 📅 2026-09-26 - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 * [CaptainHook](https://github.com/captainhook-git/captainhook) ⭐ 1,123 | 🐛 12 | 🌐 PHP | 📅 2026-03-25 - An easy-to-use and flexible Git hook library.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) ⭐ 166 | 🐛 18 | 🌐 PHP | 📅 2022-12-09 - A tool to help adhere to certain coding conventions.
@@ -440,31 +440,31 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for performing static analysis of PHP code.*
 
-* [PHPStan](https://github.com/phpstan/phpstan) ⭐ 14,124 | 🐛 1,134 | 🌐 PHP | 📅 2026-10-07 - A PHP Static Analysis Tool.
-* [Larastan](https://github.com/larastan/larastan) ⭐ 6,533 | 🐛 97 | 🌐 PHP | 📅 2026-10-07 - A PHPStan wrapper for Laravel that adds static analysis to Laravel projects.
-* [Psalm](https://github.com/vimeo/psalm) ⭐ 5,895 | 🐛 2,110 | 🌐 PHP | 📅 2026-10-07 - A static analysis tool for finding errors in PHP applications.
-* [phan](https://github.com/phan/phan) ⭐ 5,625 | 🐛 796 | 🌐 PHP | 📅 2026-10-07 - A static analyzer based on PHP 7+ and the php-ast extension.
-* [Mago](https://github.com/carthage-software/mago) ⭐ 3,488 | 🐛 91 | 🌐 Rust | 📅 2026-10-07 - A toolchain for PHP that aims to improve the developer experience.
-* [Deptrac](https://github.com/deptrac/deptrac) ⭐ 3,033 | 🐛 35 | 🌐 PHP | 📅 2026-09-20 - A static analysis tool for enforcing dependency rules between architectural layers.
+* [PHPStan](https://github.com/phpstan/phpstan) ⭐ 14,124 | 🐛 1,144 | 🌐 PHP | 📅 2026-10-08 - A PHP Static Analysis Tool.
+* [Larastan](https://github.com/larastan/larastan) ⭐ 6,532 | 🐛 99 | 🌐 PHP | 📅 2026-10-07 - A PHPStan wrapper for Laravel that adds static analysis to Laravel projects.
+* [Psalm](https://github.com/vimeo/psalm) ⭐ 5,895 | 🐛 2,134 | 🌐 PHP | 📅 2026-10-08 - A static analysis tool for finding errors in PHP applications.
+* [phan](https://github.com/phan/phan) ⭐ 5,625 | 🐛 797 | 🌐 PHP | 📅 2026-10-07 - A static analyzer based on PHP 7+ and the php-ast extension.
+* [Mago](https://github.com/carthage-software/mago) ⭐ 3,488 | 🐛 93 | 🌐 Rust | 📅 2026-10-08 - A toolchain for PHP that aims to improve the developer experience.
+* [Deptrac](https://github.com/deptrac/deptrac) ⭐ 3,034 | 🐛 35 | 🌐 PHP | 📅 2026-09-20 - A static analysis tool for enforcing dependency rules between architectural layers.
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) ⭐ 2,618 | 🐛 4 | 🌐 PHP | 📅 2026-08-21 - A static metric library.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) ⭐ 2,302 | 🐛 91 | 🌐 PHP | 📅 2026-09-25 - A PHP compatibility checker for PHP CodeSniffer.
 * [PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) ⭐ 1,537 | 🐛 24 | 🌐 PHP | 📅 2026-10-03 - Next-gen phpDoc parser with support for intersection types and generics.
 * [PHP Architecture Tester](https://github.com/carlosas/phpat) ⭐ 1,283 | 🐛 11 | 🌐 PHP | 📅 2026-09-16 - Easy-to-use architecture testing tool for PHP.
-* [Dead Code Detector](https://github.com/shipmonk-rnd/dead-code-detector) ⭐ 521 | 🐛 21 | 🌐 PHP | 📅 2026-10-07 - A PHPStan extension for finding unused PHP code.
+* [Dead Code Detector](https://github.com/shipmonk-rnd/dead-code-detector) ⭐ 525 | 🐛 21 | 🌐 PHP | 📅 2026-10-07 - A PHPStan extension for finding unused PHP code.
 * [Exakat](https://github.com/exakat/exakat) ⭐ 380 | 🐛 47 | 🌐 PHP | 📅 2022-03-24 - A static analysis engine for PHP.
 
 ### Architectural
 
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
-* [Design Patterns PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) ⭐ 22,193 | 🐛 0 | 🌐 PHP | 📅 2025-02-03 - A repository of software patterns implemented in PHP.
+* [Design Patterns PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) ⭐ 22,191 | 🐛 0 | 🌐 PHP | 📅 2025-02-03 - A repository of software patterns implemented in PHP.
 * [Functional PHP](https://github.com/lstrojny/functional-php) ⭐ 1,983 | 🐛 16 | 🌐 PHP | 📅 2026-03-21 - A functional programming library.
 * [Finite](https://github.com/yohang/Finite) ⭐ 1,351 | 🐛 0 | 🌐 PHP | 📅 2025-12-01 - A simple PHP finite state machine.
 * [Iter](https://github.com/nikic/iter) ⭐ 1,144 | 🐛 15 | 🌐 PHP | 📅 2026-09-23 - A library that provides iteration primitives using generators.
 * [Pipeline](https://github.com/thephpleague/pipeline) ⭐ 997 | 🐛 4 | 🌐 PHP | 📅 2025-02-06 - A pipeline pattern implementation.
 * [RulerZ](https://github.com/K-Phoen/rulerz) ⭐ 876 | 🐛 26 | 🌐 PHP | 📅 2022-09-02 - A powerful rule engine and implementation of the Specification pattern.
 * [Porter](https://github.com/ScriptFUSION/Porter) ⭐ 611 | 🐛 11 | 🌐 PHP | 📅 2026-03-10 - Data import abstraction library for consuming Web APIs and other data sources.
-* [IterTools PHP](https://github.com/markrogoyski/itertools-php) ⭐ 152 | 🐛 1 | 🌐 PHP | 📅 2026-09-22 - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
+* [IterTools PHP](https://github.com/markrogoyski/itertools-php) ⭐ 152 | 🐛 1 | 🌐 PHP | 📅 2026-10-08 - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
 
 ### Debugging and Profiling
 
@@ -477,9 +477,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [XHProf](https://github.com/phacility/xhprof) ⭐ 2,595 | 🐛 34 | 🌐 PHP | 📅 2019-05-28 - A profiling tool originally developed by Facebook.
 * [PHPBench](https://github.com/phpbench/phpbench) ⭐ 2,029 | 🐛 39 | 🌐 PHP | 📅 2026-06-14 - A benchmarking framework.
 * [Tracy](https://github.com/nette/tracy) ⭐ 1,838 | 🐛 27 | 🌐 PHP | 📅 2026-08-18 - A simple error detection, logging and time measuring library.
-* [PHPSpy](https://github.com/adsr/phpspy) ⭐ 1,500 | 🐛 26 | 🌐 C | 📅 2026-10-07 - A low-overhead sampling profiler.
+* [PHPSpy](https://github.com/adsr/phpspy) ⭐ 1,501 | 🐛 26 | 🌐 C | 📅 2026-10-07 - A low-overhead sampling profiler.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) ⭐ 1,331 | 🐛 56 | 🌐 PHP | 📅 2024-02-07 - Another web debugging console using Google Chrome.
-* [LaraDumps](https://github.com/laradumps/laradumps) ⭐ 1,272 | 🐛 3 | 🌐 PHP | 📅 2026-09-24 - A debugging tool for Laravel with a dedicated desktop application.
+* [LaraDumps](https://github.com/laradumps/laradumps) ⭐ 1,270 | 🐛 3 | 🌐 PHP | 📅 2026-09-24 - A debugging tool for Laravel with a dedicated desktop application.
 * [PCOV](https://github.com/krakjoe/pcov) ⭐ 792 | 🐛 36 | 🌐 C | 📅 2026-07-21 - A self-contained code coverage compatible driver.
 * [PHP Console](https://github.com/Seldaek/php-console) ⭐ 524 | 🐛 6 | 🌐 PHP | 📅 2021-03-14 - A web debugging console.
 * [Metrics](https://github.com/beberlei/metrics) ⭐ 338 | 🐛 0 | 🌐 PHP | 📅 2026-10-05 - A simple metrics API library.
@@ -527,7 +527,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Tools for managing, compressing and minifying website assets.*
 
-* [Laravel Mix](https://github.com/laravel-mix/laravel-mix) ⭐ 5,216 | 🐛 269 | 🌐 JavaScript | 📅 2024-01-24 - An elegant wrapper around Webpack for the 80% use case.
+* [Laravel Mix](https://github.com/laravel-mix/laravel-mix) ⭐ 5,215 | 🐛 270 | 🌐 JavaScript | 📅 2024-01-24 - An elegant wrapper around Webpack for the 80% use case.
 * [Symfony Asset](https://github.com/symfony/asset) ⭐ 3,146 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 - Manages URL generation and versioning of web assets.
 * [Symfony Encore](https://github.com/symfony/webpack-encore) ⭐ 2,220 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-01 - A simple but powerful API for processing and compiling assets built around Webpack.
 * [JShrink](https://github.com/tedious/JShrink) ⭐ 766 | 🐛 14 | 🌐 PHP | 📅 2025-11-20 - A JavaScript minifier library.
@@ -546,9 +546,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for working with dates and times.*
 
-* [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,593 | 🐛 10 | 🌐 PHP | 📅 2026-10-02 - A simple DateTime API extension.
+* [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,592 | 🐛 10 | 🌐 PHP | 📅 2026-10-02 - A simple DateTime API extension.
 * [Chronos](https://github.com/cakephp/chronos) ⭐ 1,362 | 🐛 4 | 🌐 PHP | 📅 2026-09-16 - A DateTime API extension supporting both mutable and immutable date/time.
-* [Yasumi](https://github.com/azuyalabs/yasumi) ⭐ 1,105 | 🐛 8 | 🌐 PHP | 📅 2026-09-30 - A library to help you calculate the dates and names of holidays.
+* [Yasumi](https://github.com/azuyalabs/yasumi) ⭐ 1,105 | 🐛 9 | 🌐 PHP | 📅 2026-09-30 - A library to help you calculate the dates and names of holidays.
 * [Moment.php](https://github.com/fightbulc/moment.php) ⭐ 967 | 🐛 21 | 🌐 PHP | 📅 2025-07-27 - Moment.js inspired PHP DateTime handler with i18n support.
 * [PHP RRule](https://github.com/rlanvin/php-rrule) ⭐ 711 | 🐛 11 | 🌐 PHP | 📅 2026-07-29 - A library for working with recurring dates and times based on the iCalendar RRule spec.
 * [CalendR](https://github.com/yohang/CalendR) ⭐ 467 | 🐛 11 | 🌐 PHP | 📅 2025-12-02 - A calendar management library.
@@ -558,10 +558,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries that are event-driven or implement non-blocking event loops.*
 
-* [Swoole](https://github.com/swoole/swoole-src) ⭐ 18,921 | 🐛 46 | 🌐 C++ | 📅 2026-10-05 - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
-* [Workerman](https://github.com/walkor/Workerman) ⭐ 11,551 | 🐛 109 | 🌐 PHP | 📅 2026-08-29 - An event-driven non-blocking I/O library.
+* [Swoole](https://github.com/swoole/swoole-src) ⭐ 18,923 | 🐛 55 | 🌐 C++ | 📅 2026-10-05 - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
+* [Workerman](https://github.com/walkor/Workerman) ⭐ 11,551 | 🐛 109 | 🌐 PHP | 📅 2026-10-07 - An event-driven non-blocking I/O library.
 * [ReactPHP](https://github.com/reactphp/reactphp) ⭐ 9,089 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - An event-driven non-blocking I/O library.
-* [Ratchet](https://github.com/ratchetphp/Ratchet) ⭐ 6,435 | 🐛 9 | 🌐 PHP | 📅 2026-06-14 - A web socket library.
+* [Ratchet](https://github.com/ratchetphp/Ratchet) ⭐ 6,436 | 🐛 9 | 🌐 PHP | 📅 2026-06-14 - A web socket library.
 * [Amp](https://github.com/amphp/amp) ⭐ 4,434 | 🐛 20 | 🌐 PHP | 📅 2026-07-26 - An event-driven non-blocking I/O library.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) ⭐ 1,732 | 🐛 15 | 🌐 PHP | 📅 2026-04-08 - A reactive extension library.
 * [Event](https://github.com/thephpleague/event) ⭐ 1,571 | 🐛 2 | 🌐 PHP | 📅 2025-03-14 - An event library with a focus on domain events.
@@ -579,7 +579,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for generating and working with log files.*
 
-* [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,402 | 🐛 5 | 🌐 PHP | 📅 2026-10-05 - A comprehensive logger.
+* [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,401 | 🐛 6 | 🌐 PHP | 📅 2026-10-05 - A comprehensive logger.
 
 ### E-commerce
 
@@ -587,20 +587,20 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [OmniPay](https://github.com/thephpleague/omnipay) ⭐ 6,064 | 🐛 110 | 🌐 PHP | 📅 2026-07-10 - A framework agnostic multi-gateway payment processing library.
 * [Money](https://github.com/moneyphp/money) ⭐ 4,869 | 🐛 8 | 🌐 PHP | 📅 2026-07-07 - A PHP implementation of Fowler's money pattern.
-* [Shopware](https://github.com/shopware/shopware) ⭐ 3,441 | 🐛 1,486 | 🌐 PHP | 📅 2026-10-07 - Highly customizable e-commerce software.
+* [Shopware](https://github.com/shopware/shopware) ⭐ 3,444 | 🐛 1,494 | 🌐 PHP | 📅 2026-10-08 - Highly customizable e-commerce software.
 * [Brick Money](https://github.com/brick/money) ⭐ 1,930 | 🐛 5 | 🌐 PHP | 📅 2026-10-06 - A money library for PHP, with support for contexts, cash roundings, currency conversion.
-* [Payum](https://github.com/payum/payum) ⭐ 1,926 | 🐛 99 | 🌐 PHP | 📅 2026-09-06 - A payment abstraction library.
+* [Payum](https://github.com/payum/payum) ⭐ 1,927 | 🐛 99 | 🌐 PHP | 📅 2026-09-06 - A payment abstraction library.
 * [Swap](https://github.com/florianv/swap) ⭐ 1,340 | 🐛 0 | 🌐 PHP | 📅 2026-06-17 - An exchange rates library.
-* [Shopsys Framework](https://github.com/shopsys/shopsys/) ⭐ 350 | 🐛 109 | 🌐 PHP | 📅 2026-10-07 - An open source e-commerce platform for in-house development teams.
+* [Shopsys Framework](https://github.com/shopsys/shopsys/) ⭐ 350 | 🐛 105 | 🌐 PHP | 📅 2026-10-08 - An open source e-commerce platform for in-house development teams.
 * [Sylius](https://sylius.com/) - An open source e-commerce solution.
 
 ### PDF
 
 *Libraries and software for working with PDF files.*
 
-* [Dompdf](https://github.com/dompdf/dompdf) ⭐ 11,195 | 🐛 563 | 🌐 PHP | 📅 2026-10-02 - A HTML to PDF converter.
-* [Browsershot](https://github.com/spatie/browsershot) ⭐ 5,247 | 🐛 0 | 🌐 PHP | 📅 2026-07-09 - Convert HTML to an image, PDF or string.
-* [Snappy](https://github.com/KnpLabs/snappy) ⭐ 4,474 | 🐛 18 | 🌐 PHP | 📅 2026-07-29 - A PDF and image generation library.
+* [Dompdf](https://github.com/dompdf/dompdf) ⭐ 11,196 | 🐛 562 | 🌐 PHP | 📅 2026-10-02 - A HTML to PDF converter.
+* [Browsershot](https://github.com/spatie/browsershot) ⭐ 5,248 | 🐛 0 | 🌐 PHP | 📅 2026-07-09 - Convert HTML to an image, PDF or string.
+* [Snappy](https://github.com/KnpLabs/snappy) ⭐ 4,475 | 🐛 18 | 🌐 PHP | 📅 2026-07-29 - A PDF and image generation library.
 * [Gotenberg](https://github.com/gotenberg/gotenberg-php) ⭐ 399 | 🐛 0 | 🌐 PHP | 📅 2026-08-14 - A PHP client for interacting with Gotenberg.
 * [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
 
@@ -608,10 +608,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for working with office suite documents.*
 
-* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ⭐ 13,994 | 🐛 108 | 🌐 PHP | 📅 2026-10-04 - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
-* [PHPWord](https://github.com/PHPOffice/PHPWord) ⭐ 7,591 | 🐛 1,240 | 🌐 PHP | 📅 2026-10-01 - A library for working with Microsoft Word documents.
-* [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) ⭐ 1,372 | 🐛 235 | 🌐 PHP | 📅 2026-10-01 - A library for working with Microsoft PowerPoint Presentations.
-* [OpenSpout](https://github.com/openspout/openspout) ⭐ 1,255 | 🐛 8 | 🌐 PHP | 📅 2026-10-06 - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ⭐ 13,994 | 🐛 106 | 🌐 PHP | 📅 2026-10-08 - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
+* [PHPWord](https://github.com/PHPOffice/PHPWord) ⭐ 7,591 | 🐛 1,236 | 🌐 PHP | 📅 2026-10-08 - A library for working with Microsoft Word documents.
+* [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) ⭐ 1,373 | 🐛 236 | 🌐 PHP | 📅 2026-10-08 - A library for working with Microsoft PowerPoint Presentations.
+* [OpenSpout](https://github.com/openspout/openspout) ⭐ 1,259 | 🐛 8 | 🌐 PHP | 📅 2026-10-06 - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
 ### Database
 
@@ -619,9 +619,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) ⭐ 4,942 | 🐛 55 | 🌐 PHP | 📅 2026-09-25 - A set of utilities to generate proxy objects for data mappers.
 * [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions) ⭐ 4,137 | 🐛 55 | 🌐 PHP | 📅 2026-09-29 - A collection of Doctrine behavioural extensions.
-* [Laravel Eloquent](https://github.com/illuminate/database) ⭐ 2,773 | 🐛 7 | 🌐 PHP | 📅 2026-10-07 - A simple ORM.
+* [Laravel Eloquent](https://github.com/illuminate/database) ⭐ 2,773 | 🐛 7 | 🌐 PHP | 📅 2026-10-08 - A simple ORM.
 * [Baum](https://github.com/etrepat/baum) ⭐ 2,222 | 🐛 161 | 🌐 PHP | 📅 2024-06-11 - A nested set implementation for Eloquent.
-* [Cycle ORM](https://github.com/cycle/orm) ⭐ 1,330 | 🐛 64 | 🌐 PHP | 📅 2026-10-04 - PHP DataMapper, ORM.
+* [Cycle ORM](https://github.com/cycle/orm) ⭐ 1,331 | 🐛 64 | 🌐 PHP | 📅 2026-10-04 - PHP DataMapper, ORM.
 * [Spot2](https://github.com/spotorm/spot2) ⭐ 597 | 🐛 64 | 🌐 PHP | 📅 2026-03-19 - A MySQL datamapper ORM.
 * [Aura.Sql](https://github.com/auraphp/Aura.Sql) ⭐ 567 | 🐛 0 | 🌐 PHP | 📅 2026-09-29 - Provides an extension to the native PDO along with a profiler and connection locator.
 * [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) ⭐ 456 | 🐛 0 | 🌐 PHP | 📅 2026-10-07 - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
@@ -644,16 +644,16 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for working with "NoSQL" backends.*
 
-* [Predis](https://github.com/predis/predis) ⭐ 7,778 | 🐛 27 | 🌐 PHP | 📅 2026-10-07 - A feature-complete Redis library.
-* [MongoDB PHP Library](https://github.com/mongodb/mongo-php-library) ⭐ 1,612 | 🐛 7 | 🌐 PHP | 📅 2026-10-07 - The official high-level MongoDB PHP library built on top of the MongoDB PHP Driver.
+* [Predis](https://github.com/predis/predis) ⭐ 7,778 | 🐛 25 | 🌐 PHP | 📅 2026-10-08 - A feature-complete Redis library.
+* [MongoDB PHP Library](https://github.com/mongodb/mongo-php-library) ⭐ 1,612 | 🐛 5 | 🌐 PHP | 📅 2026-10-07 - The official high-level MongoDB PHP library built on top of the MongoDB PHP Driver.
 * [MongoDB](https://github.com/mongodb/mongo-php-driver) ⭐ 924 | 🐛 2 | 🌐 PHP | 📅 2026-10-07 - MongoDB PHP Driver.
 
 ### Queue
 
 *Libraries for working with event and task queues.*
 
-* [PHP AMQP](https://github.com/php-amqplib/php-amqplib) ⭐ 4,602 | 🐛 23 | 🌐 PHP | 📅 2026-09-28 - A pure PHP AMQP library.
-* [Enqueue](https://github.com/php-enqueue/enqueue-dev) ⭐ 2,220 | 🐛 61 | 🌐 PHP | 📅 2026-08-30 - A message queue package for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
+* [PHP AMQP](https://github.com/php-amqplib/php-amqplib) ⭐ 4,603 | 🐛 23 | 🌐 PHP | 📅 2026-09-28 - A pure PHP AMQP library.
+* [Enqueue](https://github.com/php-enqueue/enqueue-dev) ⭐ 2,221 | 🐛 61 | 🌐 PHP | 📅 2026-08-30 - A message queue package for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 * [Pheanstalk](https://github.com/pheanstalk/pheanstalk) ⭐ 1,920 | 🐛 6 | 🌐 PHP | 📅 2026-09-28 - A Beanstalkd client library.
 * [BunnyPHP](https://github.com/jakubkulhan/bunny) ⭐ 749 | 🐛 44 | 🌐 PHP | 📅 2026-09-30 - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
 * [Thumper](https://github.com/php-amqplib/Thumper) ⭐ 277 | 🐛 8 | 🌐 PHP | 📅 2021-12-21 - A RabbitMQ pattern library.
@@ -664,7 +664,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and software for indexing and performing search queries on data.*
 
 * [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) ⭐ 5,337 | 🐛 22 | 🌐 PHP | 📅 2026-10-05 - The official client library for [ElasticSearch](https://www.elastic.co/).
-* [Elastica](https://github.com/ruflin/Elastica) ⭐ 2,269 | 🐛 106 | 🌐 PHP | 📅 2026-09-07 - A client library for ElasticSearch.
+* [Elastica](https://github.com/ruflin/Elastica) ⭐ 2,270 | 🐛 106 | 🌐 PHP | 📅 2026-09-07 - A client library for ElasticSearch.
 * [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
 * [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 
@@ -687,7 +687,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for implementing user authentication and authorization.*
 
-* [Json Web Token](https://github.com/lcobucci/jwt) ⭐ 7,479 | 🐛 8 | 🌐 PHP | 📅 2026-10-07 - Json Tokens to authenticate and transmit information.
+* [Json Web Token](https://github.com/lcobucci/jwt) ⭐ 7,480 | 🐛 8 | 🌐 PHP | 📅 2026-10-07 - Json Tokens to authenticate and transmit information.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) ⭐ 4,298 | 🐛 10 | 🌐 PHP | 📅 2026-10-05 - A Twitter OAuth library.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) ⭐ 3,820 | 🐛 61 | 🌐 PHP | 📅 2026-09-16 - An OAuth 2.0 client library.
 * [Paseto](https://github.com/paragonie/paseto) ⭐ 3,398 | 🐛 4 | 🌐 PHP | 📅 2025-07-19 - Platform-Agnostic Security Tokens.
@@ -704,18 +704,18 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Parsedown](https://github.com/erusev/parsedown) ⭐ 15,054 | 🐛 179 | 🌐 PHP | 📅 2026-02-18 - Another Markdown parser.
 * [PHP Markdown](https://github.com/michelf/php-markdown) ⭐ 3,460 | 🐛 98 | 🌐 PHP | 📅 2025-06-17 - A Markdown parser.
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) ⭐ 2,981 | 🐛 23 | 🌐 PHP | 📅 2026-10-07 - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
-* [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) ⭐ 1,906 | 🐛 25 | 🌐 PHP | 📅 2026-10-06 - Converts HTML into Markdown.
-* [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) ⭐ 1,827 | 🐛 162 | 🌐 PHP | 📅 2026-10-07 - A Parser for CSS Files written in PHP.
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) ⭐ 2,981 | 🐛 23 | 🌐 PHP | 📅 2026-10-08 - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
+* [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) ⭐ 1,907 | 🐛 25 | 🌐 PHP | 📅 2026-10-06 - Converts HTML into Markdown.
+* [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) ⭐ 1,828 | 🐛 162 | 🌐 PHP | 📅 2026-10-07 - A Parser for CSS Files written in PHP.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) ⭐ 1,787 | 🐛 39 | 🌐 HTML | 📅 2026-08-18 - An HTML5 parser and serializer library.
-* [Cebe Markdown](https://github.com/cebe/markdown) ⭐ 1,011 | 🐛 45 | 🌐 HTML | 📅 2022-10-04 - A fast and extensible Markdown parser.
+* [Cebe Markdown](https://github.com/cebe/markdown) ⭐ 1,012 | 🐛 45 | 🌐 HTML | 📅 2022-10-04 - A fast and extensible Markdown parser.
 * [Essence](https://github.com/essence/essence) ⭐ 769 | 🐛 24 | 🌐 PHP | 📅 2023-03-29 - A library for extracting web media.
 * [VObject](https://github.com/sabre-io/vobject) ⭐ 603 | 🐛 112 | 🌐 PHP | 📅 2026-10-05 - A library for parsing VCard and iCalendar objects.
 * [Embera](https://github.com/mpratt/Embera) ⭐ 354 | 🐛 6 | 🌐 PHP | 📅 2025-10-07 - An Oembed consumer library.
-* [Shiki PHP](https://github.com/spatie/shiki-php) ⭐ 315 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-27 - A [Shiki](https://github.com/shikijs/shiki) ⭐ 13,853 | 🐛 105 | 🌐 TypeScript | 📅 2026-10-01 code highlighting package in PHP.
+* [Shiki PHP](https://github.com/spatie/shiki-php) ⭐ 315 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-27 - A [Shiki](https://github.com/shikijs/shiki) ⭐ 13,854 | 🐛 106 | 🌐 TypeScript | 📅 2026-10-01 code highlighting package in PHP.
 * [Decoda](https://github.com/milesj/decoda) ⭐ 192 | 🐛 9 | 🌐 PHP | 📅 2022-11-10 - A lightweight markup parser library.
 * [Djot](https://github.com/php-collective/djot-php) ⭐ 25 | 🐛 1 | 🌐 PHP | 📅 2026-10-05 - A PHP parser for [Djot](https://djot.net/), a modern light markup language (successor of Markdown).
-* [Carve](https://github.com/markup-carve/carve-php) ⭐ 6 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - A PHP parser for [Carve](https://markup-carve.github.io/carve/), a lightweight markup language derived from Markdown and Djot.
+* [Carve](https://github.com/markup-carve/carve-php) ⭐ 6 | 🐛 1 | 🌐 PHP | 📅 2026-10-08 - A PHP parser for [Carve](https://markup-carve.github.io/carve/), a lightweight markup language derived from Markdown and Djot.
 
 ### JSON
 
@@ -731,17 +731,17 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [UUID](https://github.com/ramsey/uuid) ⭐ 12,632 | 🐛 26 | 🌐 PHP | 📅 2026-09-17 - A library for generating UUIDs.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) ⭐ 10,677 | 🐛 18 | 🌐 PHP | 📅 2026-08-11 - A lightweight PHP class for detecting mobile devices (including tablets).
-* [Agent](https://github.com/jenssegers/agent) ⭐ 4,873 | 🐛 87 | 🌐 PHP | 📅 2024-08-05 - A PHP desktop/mobile user agent parser, based on Mobiledetect.
+* [Agent](https://github.com/jenssegers/agent) ⭐ 4,872 | 🐛 87 | 🌐 PHP | 📅 2024-08-05 - A PHP desktop/mobile user agent parser, based on Mobiledetect.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) ⭐ 3,842 | 🐛 36 | 🌐 HTML | 📅 2023-05-26 - A library for formatting SQL statements.
-* [Device Detector](https://github.com/matomo-org/device-detector) ⭐ 3,531 | 🐛 76 | 🌐 PHP | 📅 2026-09-29 - Another library for parsing user agent strings.
+* [Device Detector](https://github.com/matomo-org/device-detector) ⭐ 3,532 | 🐛 76 | 🌐 PHP | 📅 2026-09-29 - Another library for parsing user agent strings.
 * [Slugify](https://github.com/cocur/slugify) ⭐ 2,897 | 🐛 32 | 🌐 PHP | 📅 2025-11-27 - A library to convert strings to slugs.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) ⭐ 1,379 | 🐛 4 | 🌐 PHP | 📅 2025-12-16 - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 * [URLify](https://github.com/jbroadway/urlify) ⭐ 674 | 🐛 6 | 🌐 PHP | 📅 2025-04-03 - A PHP port of Django's URLify.js.
-* [Portable ASCII](https://github.com/voku/portable-ascii) ⭐ 578 | 🐛 24 | 🌐 PHP | 📅 2026-08-14 - A library to convert strings to ASCII.
-* [Portable UTF-8](https://github.com/voku/portable-utf8) ⭐ 519 | 🐛 2 | 🌐 PHP | 📅 2026-10-04 - A string manipulation library with UTF-8 safe replacement methods.
+* [Portable ASCII](https://github.com/voku/portable-ascii) ⭐ 578 | 🐛 25 | 🌐 PHP | 📅 2026-10-08 - A library to convert strings to ASCII.
+* [Portable UTF-8](https://github.com/voku/portable-utf8) ⭐ 519 | 🐛 2 | 🌐 PHP | 📅 2026-10-08 - A string manipulation library with UTF-8 safe replacement methods.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) ⭐ 285 | 🐛 7 | 🌐 PHP | 📅 2024-11-22 - A library for manipulating and converting colors.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) ⭐ 253 | 🐛 12 | 🌐 PHP | 📅 2025-05-02 - An ANSI to HTML5 converter library.
-* [Stringy](https://github.com/voku/Stringy) ⭐ 180 | 🐛 7 | 🌐 PHP | 📅 2026-10-06 - A string manipulation library with multibyte support.
+* [Stringy](https://github.com/voku/Stringy) ⭐ 180 | 🐛 8 | 🌐 PHP | 📅 2026-10-08 - A string manipulation library with multibyte support.
 * [Url highlight](https://github.com/vstelmakh/url-highlight) ⭐ 103 | 🐛 0 | 🌐 PHP | 📅 2026-10-05 - A library for parsing URLs from text and converting them into clickable links.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) ⭐ 79 | 🐛 1 | 🌐 PHP | 📅 2022-07-12 - A portable library for working with UTF-8 strings.
 * [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) ⭐ 54 | 🐛 2 | 🌐 PHP | 📅 2026-09-09 - Text hyphenation based on the TeX hyphenation algorithm.
@@ -750,8 +750,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for working with numbers.*
 
-* [MathPHP](https://github.com/markrogoyski/math-php) ⭐ 2,411 | 🐛 58 | 🌐 PHP | 📅 2026-03-09 - A math library for PHP.
-* [Brick Math](https://github.com/brick/math) ⭐ 2,176 | 🐛 0 | 🌐 PHP | 📅 2026-09-25 - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
+* [MathPHP](https://github.com/markrogoyski/math-php) ⭐ 2,410 | 🐛 58 | 🌐 PHP | 📅 2026-03-09 - A math library for PHP.
+* [Brick Math](https://github.com/brick/math) ⭐ 2,175 | 🐛 0 | 🌐 PHP | 📅 2026-09-25 - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 * [IP](https://github.com/darsyn/ip) ⭐ 257 | 🐛 3 | 🌐 PHP | 📅 2026-09-16 - An immutable value object for working with IPv4 and IPv6 addresses.
 * [ByteUnits](https://github.com/gabrielelana/byte-units) ⭐ 168 | 🐛 6 | 🌐 PHP | 📅 2021-01-16 - A library to parse, format and convert byte units in binary and metric systems.
 * [PHP Conversion](https://github.com/cniska/php-conversion) ⭐ 132 | 🐛 5 | 🌐 PHP | 📅 2022-06-15 - Another library for converting between units of measure.
@@ -762,12 +762,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for filtering, sanitizing and validating data.*
 
-* [Respect Validation](https://github.com/Respect/Validation) ⭐ 6,031 | 🐛 18 | 🌐 PHP | 📅 2026-10-07 - A simple validation library.
-* [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,065 | 🐛 1 | 🌐 PHP | 📅 2026-10-02 - A PHP implementation of Google's phone number handling library.
+* [Respect Validation](https://github.com/Respect/Validation) ⭐ 6,031 | 🐛 19 | 🌐 PHP | 📅 2026-10-08 - A simple validation library.
+* [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,067 | 🐛 1 | 🌐 PHP | 📅 2026-10-08 - A PHP implementation of Google's phone number handling library.
 * [JSON Schema](https://github.com/jsonrainbow/json-schema) ⭐ 3,627 | 🐛 23 | 🌐 PHP | 📅 2026-10-01 - A [JSON Schema](https://json-schema.org/) validation library.
-* [HTML Purifier](https://github.com/ezyang/htmlpurifier) ⭐ 3,350 | 🐛 130 | 🌐 PHP | 📅 2026-10-05 - A standards compliant HTML filter.
+* [HTML Purifier](https://github.com/ezyang/htmlpurifier) ⭐ 3,350 | 🐛 129 | 🌐 PHP | 📅 2026-10-05 - A standards compliant HTML filter.
 * [Assert](https://github.com/beberlei/assert) ⭐ 2,434 | 🐛 50 | 🌐 PHP | 📅 2026-06-10 - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
-* [Valitron](https://github.com/vlucas/valitron) ⭐ 1,599 | 🐛 55 | 🌐 PHP | 📅 2024-04-16 - Another validation library.
+* [Valitron](https://github.com/vlucas/valitron) ⭐ 1,600 | 🐛 55 | 🌐 PHP | 📅 2024-04-16 - Another validation library.
 * [Valinor](https://github.com/CuyZ/Valinor) ⭐ 1,531 | 🐛 33 | 🌐 PHP | 📅 2026-09-21 - A library for mapping to strongly typed value objects.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) ⭐ 803 | 🐛 5 | 🌐 PHP | 📅 2026-03-20 - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 * [Filterus](https://github.com/ircmaxell/filterus) ⭐ 443 | 🐛 8 | 🌐 PHP | 📅 2018-11-21 - A simple PHP filtering library.
@@ -784,7 +784,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Negotiation](https://github.com/willdurand/Negotiation) ⭐ 1,421 | 🐛 11 | 🌐 PHP | 📅 2023-08-03 - A content negotiation library.
 * [Restler](https://github.com/Luracast/Restler) ⭐ 1,385 | 🐛 33 | 🌐 PHP | 📅 2026-08-22 - A lightweight framework to expose PHP methods as RESTful web API.
 * [Hateoas](https://github.com/willdurand/Hateoas) ⭐ 1,041 | 🐛 33 | 🌐 PHP | 📅 2026-01-10 - A HATEOAS REST web service library.
-* [Jane](https://github.com/janephp/janephp/) ⭐ 692 | 🐛 13 | 🌐 PHP | 📅 2026-10-06 - An OpenApi client generator with validation support.
+* [Jane](https://github.com/janephp/janephp/) ⭐ 692 | 🐛 13 | 🌐 PHP | 📅 2026-10-07 - An OpenApi client generator with validation support.
 * [PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) ⭐ 434 | 🐛 26 | 🌐 PHP | 📅 2026-06-30 - Package Generator generates a PHP SDK from any WSDL.
 * [HAL](https://github.com/blongden/hal) ⭐ 201 | 🐛 2 | 🌐 PHP | 📅 2026-01-05 - A Hypertext Application Language (HAL) builder library.
 * [Laminas API Tool Skeleton](https://github.com/laminas-api-tools/api-tools-skeleton) ⭐ 53 | 🐛 28 | 🌐 PHP | 📅 2024-04-18 - An API builder built with the Laminas Framework.
@@ -799,7 +799,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Stash](https://github.com/tedious/Stash) ⭐ 964 | 🐛 34 | 🌐 PHP | 📅 2025-12-27 - Another library for caching.
 * [Lock](https://github.com/php-lock/lock) ⭐ 948 | 🐛 3 | 🌐 PHP | 📅 2026-02-19 - A lock library to provide exclusive execution.
 * [APIx Cache](https://github.com/apix/cache) ⭐ 114 | 🐛 4 | 🌐 PHP | 📅 2022-07-26 - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
-* [Laminas Cache](https://github.com/laminas/laminas-cache) ⭐ 107 | 🐛 16 | 🌐 PHP | 📅 2026-10-06 - Another caching library.
+* [Laminas Cache](https://github.com/laminas/laminas-cache) ⭐ 107 | 🐛 15 | 🌐 PHP | 📅 2026-10-08 - Another caching library.
 * [Metaphore](https://github.com/sobstel/metaphore) ⭐ 99 | 🐛 2 | 🌐 PHP | 📅 2024-02-24 - Cache slam defense using a semaphore to prevent dogpile effect.
 * [CakePHP Cache](https://github.com/cakephp/cache) ⭐ 50 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 - A caching library.
 
@@ -820,13 +820,13 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for working with notification software.*
 
-* [JoliNotif](https://github.com/jolicode/JoliNotif) ⭐ 1,441 | 🐛 2 | 🌐 PHP | 📅 2026-09-29 - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc).
+* [JoliNotif](https://github.com/jolicode/JoliNotif) ⭐ 1,442 | 🐛 2 | 🌐 PHP | 📅 2026-09-29 - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc).
 
 ### Deployment
 
 *Libraries for project deployment.*
 
-* [Deployer](https://github.com/deployphp/deployer) ⭐ 11,113 | 🐛 19 | 🌐 PHP | 📅 2026-08-26 - A deployment tool.
+* [Deployer](https://github.com/deployphp/deployer) ⭐ 11,114 | 🐛 20 | 🌐 PHP | 📅 2026-08-26 - A deployment tool.
 * [Envoy](https://github.com/laravel/envoy) ⭐ 1,615 | 🐛 2 | 🌐 PHP | 📅 2026-09-11 - A tool to run SSH tasks with PHP.
 
 ### Internationalisation and Localisation
@@ -849,7 +849,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries and tools for configuration.*
 
-* [PHP Dotenv](https://github.com/vlucas/phpdotenv) ⭐ 13,549 | 🐛 5 | 🌐 PHP | 📅 2026-08-24 - Parse and load environment variables from `.env` files.
+* [PHP Dotenv](https://github.com/vlucas/phpdotenv) ⭐ 13,550 | 🐛 5 | 🌐 PHP | 📅 2026-08-24 - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv](https://github.com/symfony/dotenv) ⭐ 3,789 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 - Parse and load environment variables from `.env` files.
 * [Toml](https://github.com/php-collective/toml) ⭐ 17 | 🐛 2 | 🌐 PHP | 📅 2026-05-31 - A TOML parser and encoder with AST access and error recovery.
 
@@ -858,9 +858,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for working with Large Language Models.*
 
 * [OpenAI Client](https://github.com/openai-php/client) ⭐ 5,835 | 🐛 24 | 🌐 PHP | 📅 2026-10-07 - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
-* [OpenAI Client for Laravel](https://github.com/openai-php/laravel) ⭐ 3,755 | 🐛 14 | 🌐 PHP | 📅 2026-09-26 - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
-* [LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,714 | 🐛 35 | 🌐 PHP | 📅 2026-10-06 - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
-* [Instructor for PHP](https://github.com/cognesy/instructor-php) ⭐ 328 | 🐛 2 | 🌐 PHP | 📅 2026-10-06 - Structured data outputs with LLMs, in PHP.
+* [OpenAI Client for Laravel](https://github.com/openai-php/laravel) ⭐ 3,754 | 🐛 14 | 🌐 PHP | 📅 2026-09-26 - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
+* [LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,715 | 🐛 35 | 🌐 PHP | 📅 2026-10-06 - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+* [Instructor for PHP](https://github.com/cognesy/instructor-php) ⭐ 328 | 🐛 2 | 🌐 PHP | 📅 2026-10-08 - Structured data outputs with LLMs, in PHP.
 * [Anthropic for Laravel](https://github.com/mozex/anthropic-laravel) ⭐ 74 | 🐛 0 | 🌐 PHP | 📅 2026-10-04 - A Laravel wrapper for the Anthropic PHP client with Facades, config publishing, and testing fakes.
 * [Anthropic](https://github.com/mozex/anthropic-php) ⭐ 47 | 🐛 0 | 🌐 PHP | 📅 2026-09-13 - A PHP client for the Anthropic API, supporting messages, streaming, tool use, and batch processing.
 * [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) ⭐ 19 | 🐛 0 | 🌐 PHP | 📅 2026-09-12 - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
@@ -869,9 +869,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries for accessing third party APIs.*
 
-* [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) ⭐ 6,206 | 🐛 26 | 🌐 PHP | 📅 2026-10-06 - The official PHP AWS SDK library.
-* [Stripe](https://github.com/stripe/stripe-php) ⭐ 4,024 | 🐛 19 | 🌐 PHP | 📅 2026-10-07 - The official Stripe PHP library.
-* [Github](https://github.com/KnpLabs/php-github-api) ⭐ 2,206 | 🐛 53 | 🌐 PHP | 📅 2026-08-18 - A library to interface with the Github API.
+* [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) ⭐ 6,206 | 🐛 27 | 🌐 PHP | 📅 2026-10-06 - The official PHP AWS SDK library.
+* [Stripe](https://github.com/stripe/stripe-php) ⭐ 4,023 | 🐛 18 | 🌐 PHP | 📅 2026-10-08 - The official Stripe PHP library.
+* [Github](https://github.com/KnpLabs/php-github-api) ⭐ 2,207 | 🐛 53 | 🌐 PHP | 📅 2026-08-18 - A library to interface with the Github API.
 * [Twilio](https://github.com/twilio/twilio-php) ⭐ 1,636 | 🐛 64 | 🌐 PHP | 📅 2026-10-06 - The official Twilio PHP REST API.
 * [Mailgun](https://github.com/mailgun/mailgun-php) ⭐ 1,137 | 🐛 1 | 🌐 PHP | 📅 2026-09-02 - The official Mailgun PHP API.
 * [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
@@ -881,20 +881,20 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Libraries to help build PHP extensions.*
 
-* [Zephir](https://github.com/zephir-lang/zephir) ⭐ 3,383 | 🐛 51 | 🌐 PHP | 📅 2026-10-07 - A compiled language between PHP and C++ for developing PHP extensions.
+* [Zephir](https://github.com/zephir-lang/zephir) ⭐ 3,384 | 🐛 49 | 🌐 PHP | 📅 2026-10-08 - A compiled language between PHP and C++ for developing PHP extensions.
 * [PHP CPP](https://www.php-cpp.com/) - A C++ library for developing PHP extensions.
 
 ### Miscellaneous
 
 *Useful libraries or utilities that don't fit into the categories above.*
 
-* [Annotations](https://github.com/doctrine/annotations) ⭐ 6,727 | 🐛 26 | 🌐 PHP | 📅 2025-12-11 - An annotation library (part of Doctrine).
-* [BotMan](https://github.com/botman/botman) ⭐ 6,157 | 🐛 10 | 🌐 PHP | 📅 2026-04-03 - A framework agnostic PHP library to build cross-platform chatbots.
+* [Annotations](https://github.com/doctrine/annotations) ⭐ 6,728 | 🐛 26 | 🌐 PHP | 📅 2025-12-11 - An annotation library (part of Doctrine).
+* [BotMan](https://github.com/botman/botman) ⭐ 6,156 | 🐛 10 | 🌐 PHP | 📅 2026-04-03 - A framework agnostic PHP library to build cross-platform chatbots.
 * [Safe](https://github.com/thecodingmachine/safe) ⭐ 2,496 | 🐛 36 | 🌐 PHP | 📅 2026-10-04 - All PHP functions, rewritten to throw exceptions instead of returning false.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) ⭐ 1,978 | 🐛 42 | 🌐 PHP | 📅 2024-02-06 - A cross-language RPC.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) ⭐ 1,573 | 🐛 35 | 🌐 PHP | 📅 2020-06-09 - A pagination library.
 * [Ganesha](https://github.com/ackintosh/ganesha) ⭐ 671 | 🐛 15 | 🌐 PHP | 📅 2026-06-20 - A PHP implementation of Circuit Breaker pattern.
-* [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) ⭐ 609 | 🐛 2 | 🌐 PHP | 📅 2026-09-22 - A library that allows Closures to be serialized.
+* [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) ⭐ 609 | 🐛 1 | 🌐 PHP | 📅 2026-09-22 - A library that allows Closures to be serialized.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) ⭐ 376 | 🐛 1 | 🌐 PHP | 📅 2025-01-13 - A library for optimizing autoloading.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) ⭐ 364 | 🐛 5 | 🌐 PHP | 📅 2024-04-13 - Helper for Google's noCAPTCHA (reCAPTCHA).
 
@@ -907,8 +907,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Tools to help install and manage PHP on your computer.*
 
 * [PHP Brew](https://github.com/phpbrew/phpbrew) ⭐ 5,523 | 🐛 100 | 🌐 Makefile | 📅 2026-01-28 - A PHP version manager and installer.
-* [Static PHP CLI](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,949 | 🐛 40 | 🌐 PHP | 📅 2026-10-07 - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
-* [PHP Build](https://github.com/php-build/php-build) ⭐ 1,048 | 🐛 32 | 🌐 Shell | 📅 2026-10-07 - Another PHP version installer.
+* [Static PHP CLI](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,949 | 🐛 39 | 🌐 PHP | 📅 2026-10-07 - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
+* [PHP Build](https://github.com/php-build/php-build) ⭐ 1,049 | 🐛 32 | 🌐 Shell | 📅 2026-10-07 - Another PHP version installer.
 * [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher) ⭐ 1,006 | 🐛 18 | 🌐 Shell | 📅 2026-07-15 - Brew PHP switcher.
 * [Homebrew](https://brew.sh/) - A package manager for macOS.
 
@@ -916,10 +916,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Software and tools for creating and sharing a development environment.*
 
-* [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) ⭐ 4,978 | 🐛 10 | 🌐 Shell | 📅 2026-10-06 - Easily install PHP extensions in Docker containers.
+* [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) ⭐ 4,980 | 🐛 10 | 🌐 Shell | 📅 2026-10-07 - Easily install PHP extensions in Docker containers.
 * [Expose](https://github.com/exposedev/expose) ⭐ 4,573 | 🐛 29 | 🌐 PHP | 📅 2026-10-07 - An open-source PHP tunneling service.
-* [DDEV](https://github.com/ddev/ddev) ⭐ 3,906 | 🐛 180 | 🌐 Go | 📅 2026-10-07 - A local web development environment system for PHP.
-* [Takeout](https://github.com/tighten/takeout) ⭐ 1,654 | 🐛 6 | 🌐 PHP | 📅 2026-04-09 - A Docker-based development-only dependency manager.
+* [DDEV](https://github.com/ddev/ddev) ⭐ 3,905 | 🐛 179 | 🌐 Go | 📅 2026-10-08 - A local web development environment system for PHP.
+* [Takeout](https://github.com/tighten/takeout) ⭐ 1,655 | 🐛 6 | 🌐 PHP | 📅 2026-04-09 - A Docker-based development-only dependency manager.
 * [Solo](https://github.com/soloterm/solo) ⭐ 1,288 | 🐛 28 | 🌐 PHP | 📅 2026-03-17 - A terminal application to manage processes for a Laravel application.
 * [Docksal](https://github.com/docksal/docksal) ⭐ 721 | 🐛 175 | 🌐 Shell | 📅 2025-12-19 - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 * [Ansible](https://www.redhat.com/en/ansible-collaborative) - A radically simple orchestration framework.
@@ -936,7 +936,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Alternative PHP virtual machines.*
 
-* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,664 | 🐛 551 | 🌐 C++ | 📅 2026-10-07 - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,665 | 🐛 550 | 🌐 C++ | 📅 2026-10-08 - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [PeachPie](https://github.com/peachpiecompiler/peachpie) ⭐ 2,482 | 🐛 90 | 🌐 C# | 📅 2026-10-03 - PHP compiler and runtime for .NET and .NET Core.
 * [Hack](https://hacklang.org/) - A programming language for HHVM.
 
@@ -954,12 +954,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Web-based applications and tools.*
 
-* [Cachet](https://github.com/cachethq/cachet) ⭐ 15,257 | 🐛 6 | 🌐 PHP | 📅 2026-10-05 - The open source status page system.
-* [Mailpit](https://github.com/axllent/mailpit) ⭐ 10,561 | 🐛 0 | 🌐 Go | 📅 2026-10-07 - An email and SMTP testing tool for developers.
-* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) ⭐ 7,948 | 🐛 932 | 🌐 PHP | 📅 2026-10-06 - A web interface for MySQL/MariaDB.
-* [MailCatcher](https://github.com/sj26/mailcatcher) ⭐ 6,780 | 🐛 43 | 🌐 Ruby | 📅 2026-09-16 - A web tool for capturing and viewing emails.
+* [Cachet](https://github.com/cachethq/cachet) ⭐ 15,256 | 🐛 6 | 🌐 PHP | 📅 2026-10-05 - The open source status page system.
+* [Mailpit](https://github.com/axllent/mailpit) ⭐ 10,567 | 🐛 1 | 🌐 Go | 📅 2026-10-07 - An email and SMTP testing tool for developers.
+* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) ⭐ 7,950 | 🐛 931 | 🌐 PHP | 📅 2026-10-07 - A web interface for MySQL/MariaDB.
+* [MailCatcher](https://github.com/sj26/mailcatcher) ⭐ 6,779 | 🐛 43 | 🌐 Ruby | 📅 2026-09-16 - A web tool for capturing and viewing emails.
 * [Lychee](https://github.com/electerious/Lychee) ⭐ 6,362 | 🐛 0 | 🌐 PHP | 📅 2022-01-08 - An easy to use and great looking photo-management-system.
-* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) ⭐ 3,181 | 🐛 12 | 🌐 PHP | 📅 2025-12-22 - A simple web interface to manage [Redis](https://redis.io/) databases.
+* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) ⭐ 3,182 | 🐛 12 | 🌐 PHP | 📅 2025-12-22 - A simple web interface to manage [Redis](https://redis.io/) databases.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) ⭐ 665 | 🐛 5 | 🌐 PHP | 📅 2026-05-06 - An application for managing queueing backends.
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 * [Adminer](https://www.adminer.org/en/) - Database management in a single PHP file.
@@ -970,7 +970,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 *Infrastructure for providing PHP applications and services.*
 
-* [RoadRunner](https://github.com/roadrunner-server/roadrunner) ⭐ 8,510 | 🐛 39 | 🌐 Go | 📅 2026-10-06 - High-performance PHP application server, load-balancer and process manager.
+* [RoadRunner](https://github.com/roadrunner-server/roadrunner) ⭐ 8,511 | 🐛 39 | 🌐 Go | 📅 2026-10-06 - High-performance PHP application server, load-balancer and process manager.
 * [php-pm](https://github.com/php-pm/php-pm) ⭐ 6,546 | 🐛 33 | 🌐 PHP | 📅 2023-12-08 - A process manager, supercharger and load balancer for PHP applications.
 * [appserver.io](https://github.com/appserver-io/appserver) ⭐ 960 | 🐛 90 | 🌐 JavaScript | 📅 2023-04-15 - A multithreaded application server for PHP, written in PHP.
 
@@ -1065,4 +1065,4 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

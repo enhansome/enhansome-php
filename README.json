@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "php",
                 "repo": "pie",
-                "stars": 2115,
+                "stars": 2118,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -66,11 +66,11 @@
                 "id": 3192821,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T10:20:42Z",
+                "last_commit": "2026-11-19T14:22:09Z",
                 "open_issues": 10,
                 "owner": "composer",
                 "repo": "satis",
-                "stars": 3308,
+                "stars": 3307,
                 "topics": [
                   "composer",
                   "hacktoberfest",
@@ -97,7 +97,7 @@
                 "open_issues": 63,
                 "owner": "cweagans",
                 "repo": "composer-patches",
-                "stars": 1740,
+                "stars": 1739,
                 "topics": [
                   "composer",
                   "php"
@@ -117,11 +117,11 @@
                 "id": 176938195,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-02T02:02:49Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-20T13:02:59Z",
+                "open_issues": 13,
                 "owner": "composer-unused",
                 "repo": "composer-unused",
-                "stars": 1693,
+                "stars": 1694,
                 "topics": [
                   "composer",
                   "hacktoberfest",
@@ -147,7 +147,7 @@
                 "open_issues": 7,
                 "owner": "ergebnis",
                 "repo": "composer-normalize",
-                "stars": 1127,
+                "stars": 1129,
                 "topics": [
                   "composer",
                   "composer-plugin",
@@ -173,7 +173,7 @@
                 "open_issues": 72,
                 "owner": "wikimedia",
                 "repo": "composer-merge-plugin",
-                "stars": 1017,
+                "stars": 1016,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -190,11 +190,11 @@
                 "id": 46859018,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T05:27:22Z",
-                "open_issues": 48,
+                "last_commit": "2026-11-20T05:54:08Z",
+                "open_issues": 50,
                 "owner": "maglnet",
                 "repo": "ComposerRequireChecker",
-                "stars": 1012,
+                "stars": 1011,
                 "topics": [
                   "ci-tools",
                   "code-quality"
@@ -247,8 +247,8 @@
                 "id": 3431193,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-19T12:32:32Z",
-                "open_issues": 293,
+                "last_commit": "2026-11-19T14:19:19Z",
+                "open_issues": 296,
                 "owner": "yiisoft",
                 "repo": "yii2",
                 "stars": 14280,
@@ -279,7 +279,7 @@
                 "open_issues": 30,
                 "owner": "tempestphp",
                 "repo": "tempest-framework",
-                "stars": 2284,
+                "stars": 2283,
                 "topics": [
                   "framework",
                   "mvc",
@@ -311,7 +311,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3879,
+                "stars": 3878,
                 "topics": [
                   "async",
                   "http",
@@ -346,7 +346,7 @@
                 "open_issues": 11,
                 "owner": "FriendsOfCake",
                 "repo": "crud",
-                "stars": 378,
+                "stars": 377,
                 "topics": [
                   "cakephp",
                   "cakephp-plugin",
@@ -375,7 +375,7 @@
                 "id": 2889328,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T13:16:07Z",
+                "last_commit": "2026-11-19T23:35:06Z",
                 "open_issues": 3,
                 "owner": "WordPress",
                 "repo": "WordPress",
@@ -400,7 +400,7 @@
                 "open_issues": 420,
                 "owner": "getgrav",
                 "repo": "grav",
-                "stars": 15731,
+                "stars": 15732,
                 "topics": [
                   "cms",
                   "content",
@@ -434,10 +434,10 @@
                 "language": "PHP",
                 "license": "OSL-3.0",
                 "last_commit": "2026-11-19T11:47:18Z",
-                "open_issues": 2626,
+                "open_issues": 2634,
                 "owner": "magento",
                 "repo": "magento2",
-                "stars": 12241,
+                "stars": 12242,
                 "topics": [
                   "ecommerce",
                   "ecommerce-platform",
@@ -482,11 +482,11 @@
                 "id": 80249302,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T13:53:17Z",
-                "open_issues": 548,
+                "last_commit": "2026-11-20T13:23:31Z",
+                "open_issues": 543,
                 "owner": "craftcms",
                 "repo": "cms",
-                "stars": 3633,
+                "stars": 3632,
                 "topics": [
                   "cms",
                   "content-management",
@@ -515,11 +515,11 @@
                 "id": 25361672,
                 "language": "PHP",
                 "license": "OSL-3.0",
-                "last_commit": "2026-11-19T01:25:26Z",
-                "open_issues": 322,
+                "last_commit": "2026-11-20T09:54:25Z",
+                "open_issues": 320,
                 "owner": "OpenMage",
                 "repo": "magento-lts",
-                "stars": 938,
+                "stars": 937,
                 "topics": [
                   "composer",
                   "ecommerce",
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "minicli",
                 "repo": "minicli",
-                "stars": 1081,
+                "stars": 1080,
                 "topics": [
                   "cli",
                   "command-line",
@@ -585,7 +585,7 @@
                 "open_issues": 4,
                 "owner": "mnapoli",
                 "repo": "silly",
-                "stars": 933,
+                "stars": 932,
                 "topics": [
                   "cli",
                   "micro-framework",
@@ -663,11 +663,11 @@
                 "id": 16896584,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-09T19:39:51Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-19T22:13:56Z",
+                "open_issues": 27,
                 "owner": "nikic",
                 "repo": "FastRoute",
-                "stars": 5273,
+                "stars": 5272,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -715,7 +715,7 @@
                 "open_issues": 5,
                 "owner": "thephpleague",
                 "repo": "route",
-                "stars": 670,
+                "stars": 669,
                 "topics": [
                   "fastroute",
                   "php",
@@ -740,7 +740,7 @@
                 "open_issues": 3,
                 "owner": "auraphp",
                 "repo": "Aura.Router",
-                "stars": 500,
+                "stars": 499,
                 "topics": [
                   "aura",
                   "php",
@@ -773,7 +773,7 @@
                 "open_issues": 4,
                 "owner": "bobthecow",
                 "repo": "mustache.php",
-                "stars": 3283,
+                "stars": 3282,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -794,7 +794,7 @@
                 "open_issues": 28,
                 "owner": "arnaud-lb",
                 "repo": "MtHaml",
-                "stars": 360,
+                "stars": 359,
                 "topics": [
                   "haml",
                   "haml-php",
@@ -823,11 +823,11 @@
                 "id": 1420053,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:48:44Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-20T02:24:42Z",
+                "open_issues": 10,
                 "owner": "guzzle",
                 "repo": "guzzle",
-                "stars": 23443,
+                "stars": 23442,
                 "topics": [
                   "curl",
                   "guzzle",
@@ -857,7 +857,7 @@
                 "open_issues": 134,
                 "owner": "WordPress",
                 "repo": "Requests",
-                "stars": 3567,
+                "stars": 3566,
                 "topics": [
                   "curl",
                   "http",
@@ -884,7 +884,7 @@
                 "open_issues": 2,
                 "owner": "saloonphp",
                 "repo": "saloon",
-                "stars": 2453,
+                "stars": 2452,
                 "topics": [
                   "api",
                   "api-integrations",
@@ -915,7 +915,7 @@
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "http-client",
-                "stars": 2030,
+                "stars": 2029,
                 "topics": [
                   "component",
                   "http",
@@ -942,7 +942,7 @@
                 "open_issues": 9,
                 "owner": "kriswallsmith",
                 "repo": "Buzz",
-                "stars": 1915,
+                "stars": 1916,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -983,7 +983,7 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T22:29:00Z",
+                "last_commit": "2026-11-20T04:00:12Z",
                 "open_issues": 39,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
@@ -1040,7 +1040,7 @@
                 "open_issues": 215,
                 "owner": "symfony",
                 "repo": "panther",
-                "stars": 3075,
+                "stars": 3074,
                 "topics": [
                   "chromedriver",
                   "e2e-testing",
@@ -1071,7 +1071,7 @@
                 "open_issues": 0,
                 "owner": "chrome-php",
                 "repo": "chrome",
-                "stars": 2681,
+                "stars": 2682,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -1094,7 +1094,7 @@
                 "open_issues": 18,
                 "owner": "JayBizzle",
                 "repo": "Crawler-Detect",
-                "stars": 2411,
+                "stars": 2410,
                 "topics": [
                   "bots",
                   "crawler",
@@ -1123,7 +1123,7 @@
                 "open_issues": 27,
                 "owner": "Imangazaliev",
                 "repo": "DiDOM",
-                "stars": 2191,
+                "stars": 2190,
                 "topics": [
                   "dom",
                   "html",
@@ -1152,7 +1152,7 @@
                 "open_issues": 19,
                 "owner": "php-embed",
                 "repo": "Embed",
-                "stars": 2141,
+                "stars": 2140,
                 "topics": [
                   "embeds",
                   "oembed",
@@ -1179,7 +1179,7 @@
                 "open_issues": 5,
                 "owner": "mvdbos",
                 "repo": "php-spider",
-                "stars": 1339,
+                "stars": 1338,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -1263,7 +1263,7 @@
                 "open_issues": 0,
                 "owner": "jeremykendall",
                 "repo": "php-domain-parser",
-                "stars": 1248,
+                "stars": 1247,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -1280,11 +1280,11 @@
                 "id": 39096416,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-04T13:02:18Z",
+                "last_commit": "2026-11-20T07:59:13Z",
                 "open_issues": 0,
                 "owner": "thephpleague",
                 "repo": "uri",
-                "stars": 1132,
+                "stars": 1131,
                 "topics": [
                   "expansion",
                   "extraction",
@@ -1352,7 +1352,7 @@
                 "open_issues": 28,
                 "owner": "PHPMailer",
                 "repo": "PHPMailer",
-                "stars": 22342,
+                "stars": 22341,
                 "topics": [
                   "attachment",
                   "email",
@@ -1379,11 +1379,11 @@
                 "id": 12204147,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T13:33:25Z",
-                "open_issues": 359,
+                "last_commit": "2026-11-19T22:39:10Z",
+                "open_issues": 374,
                 "owner": "mautic",
                 "repo": "mautic",
-                "stars": 11029,
+                "stars": 11055,
                 "topics": [
                   "digital-experience-platform",
                   "digitalexperienceplatform",
@@ -1438,7 +1438,7 @@
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "mailer",
-                "stars": 1599,
+                "stars": 1598,
                 "topics": [
                   "component",
                   "php",
@@ -1464,7 +1464,7 @@
                 "open_issues": 74,
                 "owner": "ddeboer",
                 "repo": "imap",
-                "stars": 921,
+                "stars": 919,
                 "topics": [
                   "email",
                   "imap",
@@ -1489,7 +1489,7 @@
                 "open_issues": 11,
                 "owner": "willdurand",
                 "repo": "EmailReplyParser",
-                "stars": 652,
+                "stars": 651,
                 "topics": [
                   "email",
                   "parser",
@@ -1511,7 +1511,7 @@
                 "language": "PHP",
                 "license": "NOASSERTION",
                 "last_commit": "2024-01-11T18:25:13Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "tedious",
                 "repo": "Fetch",
                 "stars": 503,
@@ -1568,7 +1568,7 @@
                 "open_issues": 327,
                 "owner": "PHP-FFMpeg",
                 "repo": "PHP-FFMpeg",
-                "stars": 5015,
+                "stars": 5014,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -1585,11 +1585,11 @@
                 "id": 14875475,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-17T18:01:45Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-19T21:21:56Z",
+                "open_issues": 5,
                 "owner": "thephpleague",
                 "repo": "csv",
-                "stars": 3479,
+                "stars": 3478,
                 "topics": [
                   "csv",
                   "csv-converter",
@@ -1614,7 +1614,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-07-22T20:52:59Z",
-                "open_issues": 83,
+                "open_issues": 85,
                 "owner": "KnpLabs",
                 "repo": "Gaufrette",
                 "stars": 2463,
@@ -1702,11 +1702,11 @@
                 "id": 1398636,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-17T17:55:29Z",
+                "last_commit": "2026-11-19T16:36:46Z",
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "dependency-injection",
-                "stars": 4166,
+                "stars": 4165,
                 "topics": [
                   "component",
                   "php",
@@ -1732,7 +1732,7 @@
                 "open_issues": 0,
                 "owner": "silexphp",
                 "repo": "Pimple",
-                "stars": 2661,
+                "stars": 2660,
                 "topics": [
                   "dependency-injection",
                   "php",
@@ -1758,7 +1758,7 @@
                 "open_issues": 5,
                 "owner": "thephpleague",
                 "repo": "container",
-                "stars": 865,
+                "stars": 864,
                 "topics": [
                   "dependency-injection",
                   "php"
@@ -1803,7 +1803,7 @@
                 "open_issues": 2,
                 "owner": "auraphp",
                 "repo": "Aura.Di",
-                "stars": 353,
+                "stars": 351,
                 "topics": [
                   "aura",
                   "container-interop",
@@ -1888,7 +1888,7 @@
                 "open_issues": 24,
                 "owner": "Intervention",
                 "repo": "image",
-                "stars": 14390,
+                "stars": 14389,
                 "topics": [
                   "gd",
                   "image",
@@ -1933,10 +1933,10 @@
                 "language": "PHP",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T14:46:01Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "chillerlan",
                 "repo": "php-qrcode",
-                "stars": 2391,
+                "stars": 2389,
                 "topics": [
                   "imagemagick",
                   "let-php5-die",
@@ -1975,7 +1975,7 @@
                 "open_issues": 39,
                 "owner": "jenssegers",
                 "repo": "imagehash",
-                "stars": 2061,
+                "stars": 2060,
                 "topics": [
                   "hash",
                   "image",
@@ -2001,7 +2001,7 @@
                 "open_issues": 3,
                 "owner": "thephpleague",
                 "repo": "color-extractor",
-                "stars": 1325,
+                "stars": 1324,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -2022,7 +2022,7 @@
                 "open_issues": 10,
                 "owner": "psliwa",
                 "repo": "image-optimizer",
-                "stars": 917,
+                "stars": 916,
                 "topics": [
                   "gif",
                   "image",
@@ -2078,11 +2078,11 @@
                 "id": 448045,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-19T12:18:21Z",
+                "last_commit": "2026-11-20T09:57:56Z",
                 "open_issues": 5,
                 "owner": "sebastianbergmann",
                 "repo": "phpunit",
-                "stars": 20077,
+                "stars": 20075,
                 "topics": [
                   "php",
                   "phpunit",
@@ -2107,7 +2107,7 @@
                 "open_issues": 96,
                 "owner": "mockery",
                 "repo": "mockery",
-                "stars": 10724,
+                "stars": 10723,
                 "topics": [
                   "mock",
                   "mockery",
@@ -2136,7 +2136,7 @@
                 "open_issues": 104,
                 "owner": "phpspec",
                 "repo": "prophecy",
-                "stars": 8461,
+                "stars": 8460,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -2154,10 +2154,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-11-19T06:58:57Z",
-                "open_issues": 164,
+                "open_issues": 169,
                 "owner": "Codeception",
                 "repo": "Codeception",
-                "stars": 4853,
+                "stars": 4852,
                 "topics": [
                   "acceptance-testing",
                   "bdd",
@@ -2210,7 +2210,7 @@
                 "open_issues": 52,
                 "owner": "nelmio",
                 "repo": "alice",
-                "stars": 2537,
+                "stars": 2536,
                 "topics": [
                   "alice",
                   "expression-language",
@@ -2237,11 +2237,11 @@
                 "id": 6266214,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-16T07:52:30Z",
+                "last_commit": "2026-11-20T09:38:15Z",
                 "open_issues": 4,
                 "owner": "paratestphp",
                 "repo": "paratest",
-                "stars": 2518,
+                "stars": 2517,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -2262,7 +2262,7 @@
                 "open_issues": 228,
                 "owner": "infection",
                 "repo": "infection",
-                "stars": 2277,
+                "stars": 2276,
                 "topics": [
                   "ast",
                   "coverage",
@@ -2294,7 +2294,7 @@
                 "open_issues": 135,
                 "owner": "phpspec",
                 "repo": "phpspec",
-                "stars": 1904,
+                "stars": 1903,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2317,7 +2317,7 @@
                 "open_issues": 40,
                 "owner": "bovigo",
                 "repo": "vfsStream",
-                "stars": 1439,
+                "stars": 1438,
                 "topics": [
                   "filesystem",
                   "php",
@@ -2343,7 +2343,7 @@
                 "open_issues": 8,
                 "owner": "kahlan",
                 "repo": "kahlan",
-                "stars": 1147,
+                "stars": 1146,
                 "topics": [
                   "bdd",
                   "coverage",
@@ -2400,7 +2400,7 @@
                 "open_issues": 14,
                 "owner": "vimeo",
                 "repo": "php-mysql-engine",
-                "stars": 563,
+                "stars": 562,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -2421,7 +2421,7 @@
                 "open_issues": 1,
                 "owner": "nette",
                 "repo": "tester",
-                "stars": 487,
+                "stars": 486,
                 "topics": [
                   "assertions",
                   "code-coverage",
@@ -2454,7 +2454,7 @@
                 "open_issues": 19,
                 "owner": "phake",
                 "repo": "phake",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "framework",
                   "mock",
@@ -2484,7 +2484,7 @@
                 "open_issues": 3,
                 "owner": "php-mock",
                 "repo": "php-mock",
-                "stars": 371,
+                "stars": 369,
                 "topics": [
                   "builtin-functions",
                   "mock",
@@ -2539,11 +2539,11 @@
                 "id": 206578964,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T02:08:34Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-20T08:10:33Z",
+                "open_issues": 14,
                 "owner": "shivammathur",
                 "repo": "setup-php",
-                "stars": 3280,
+                "stars": 3279,
                 "topics": [
                   "code-coverage",
                   "composer",
@@ -2576,11 +2576,11 @@
                 "id": 3817881,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T02:33:55Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-19T23:35:13Z",
+                "open_issues": 4,
                 "owner": "zircote",
                 "repo": "swagger-php",
-                "stars": 5302,
+                "stars": 5301,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -2628,7 +2628,7 @@
                 "open_issues": 24,
                 "owner": "ApiGen",
                 "repo": "ApiGen",
-                "stars": 2167,
+                "stars": 2166,
                 "topics": [
                   "apidoc",
                   "apigen",
@@ -2652,7 +2652,7 @@
                 "id": 103440723,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-15T05:56:43Z",
+                "last_commit": "2026-11-19T19:55:23Z",
                 "open_issues": 8,
                 "owner": "dauxio",
                 "repo": "daux.io",
@@ -2685,11 +2685,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T19:53:44Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-19T14:06:33Z",
+                "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38987,
+                "stars": 38996,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -2722,11 +2722,11 @@
                 "id": 36817565,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T11:14:46Z",
-                "open_issues": 890,
+                "last_commit": "2026-11-20T11:32:34Z",
+                "open_issues": 889,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 16226,
+                "stars": 16235,
                 "topics": [
                   "appsec",
                   "dast",
@@ -2779,8 +2779,8 @@
                 "id": 4565995,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-18T18:52:39Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-20T07:46:14Z",
+                "open_issues": 107,
                 "owner": "phpseclib",
                 "repo": "phpseclib",
                 "stars": 5609,
@@ -2856,11 +2856,11 @@
                 "id": 26223397,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-18T23:16:44Z",
+                "last_commit": "2026-11-20T05:52:44Z",
                 "open_issues": 1,
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
-                "stars": 2931,
+                "stars": 2932,
                 "topics": [
                   "composer",
                   "infosec",
@@ -2888,7 +2888,7 @@
                 "open_issues": 14,
                 "owner": "jenssegers",
                 "repo": "optimus",
-                "stars": 1273,
+                "stars": 1272,
                 "topics": [
                   "hashids",
                   "ids",
@@ -2912,11 +2912,11 @@
                 "id": 32098440,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-18T06:49:01Z",
+                "last_commit": "2026-11-19T22:28:26Z",
                 "open_issues": 2,
                 "owner": "voku",
                 "repo": "anti-xss",
-                "stars": 712,
+                "stars": 711,
                 "topics": [
                   "composer",
                   "hacktoberfest",
@@ -2944,7 +2944,7 @@
                 "open_issues": 2,
                 "owner": "bepsvpt",
                 "repo": "secure-headers",
-                "stars": 551,
+                "stars": 550,
                 "topics": [
                   "clear-site-data",
                   "content-security-policy",
@@ -2984,7 +2984,7 @@
                 "open_issues": 25,
                 "owner": "bjeavons",
                 "repo": "zxcvbn-php",
-                "stars": 869,
+                "stars": 868,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -3005,7 +3005,7 @@
                 "open_issues": 5,
                 "owner": "hackzilla",
                 "repo": "password-generator",
-                "stars": 307,
+                "stars": 306,
                 "topics": [
                   "composer",
                   "password-generator",
@@ -3078,10 +3078,10 @@
                 "language": "PHP",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-05T11:53:56Z",
-                "open_issues": 84,
+                "open_issues": 83,
                 "owner": "nikic",
                 "repo": "PHP-Parser",
-                "stars": 17484,
+                "stars": 17483,
                 "topics": [
                   "ast",
                   "parser",
@@ -3103,11 +3103,11 @@
                 "id": 97311017,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-18T15:38:17Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-19T14:19:15Z",
+                "open_issues": 6,
                 "owner": "rectorphp",
                 "repo": "rector",
-                "stars": 10517,
+                "stars": 10516,
                 "topics": [
                   "ast",
                   "automated-upgrades",
@@ -3131,11 +3131,11 @@
                 "id": 32482750,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-04T02:32:03Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-20T12:01:28Z",
+                "open_issues": 4,
                 "owner": "phpro",
                 "repo": "grumphp",
-                "stars": 4319,
+                "stars": 4318,
                 "topics": [
                   "code-quality",
                   "composer-plugin",
@@ -3158,11 +3158,11 @@
                 "id": 43064439,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-06T21:22:10Z",
-                "open_issues": 297,
+                "last_commit": "2026-11-19T14:00:22Z",
+                "open_issues": 295,
                 "owner": "phpactor",
                 "repo": "phpactor",
-                "stars": 1934,
+                "stars": 1932,
                 "topics": [
                   "completion",
                   "php",
@@ -3188,7 +3188,7 @@
                 "open_issues": 19,
                 "owner": "Roave",
                 "repo": "BetterReflection",
-                "stars": 1248,
+                "stars": 1247,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -3211,7 +3211,7 @@
                 "open_issues": 21,
                 "owner": "povils",
                 "repo": "phpmnd",
-                "stars": 586,
+                "stars": 585,
                 "topics": [
                   "analysis",
                   "automation",
@@ -3223,27 +3223,6 @@
                   "php",
                   "static-analysis"
                 ]
-              },
-              "first_seen": "2026-08-28T16:55:19.837Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PHPQA",
-              "description": "A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Analyze PHP code with one command",
-                "homepage": "https://edgedesigncz.github.io/phpqa",
-                "id": 36415342,
-                "language": "XSLT",
-                "license": "MIT",
-                "last_commit": "2025-11-22T07:45:23Z",
-                "open_issues": 4,
-                "owner": "EdgedesignCZ",
-                "repo": "phpqa",
-                "stars": 564,
-                "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
             },
@@ -3263,28 +3242,28 @@
                 "open_issues": 3,
                 "owner": "devster",
                 "repo": "ubench",
-                "stars": 564,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
             },
             {
               "node_type": "item",
-              "title": "Scrutinizer",
-              "description": "A web tool to scrutinise PHP code.",
+              "title": "PHPQA",
+              "description": "A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Performs advanced static analysis on PHP code",
-                "homepage": "https://scrutinizer-ci.com/docs/tools/php/php-analyzer/",
-                "id": 8551546,
-                "language": null,
-                "license": null,
-                "last_commit": "2021-10-03T18:09:07Z",
-                "open_issues": 414,
-                "owner": "scrutinizer-ci",
-                "repo": "php-analyzer",
-                "stars": 440,
+                "description": "Analyze PHP code with one command",
+                "homepage": "https://edgedesigncz.github.io/phpqa",
+                "id": 36415342,
+                "language": "XSLT",
+                "license": "MIT",
+                "last_commit": "2026-11-20T08:27:51Z",
+                "open_issues": 0,
+                "owner": "EdgedesignCZ",
+                "repo": "phpqa",
+                "stars": 562,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -3305,7 +3284,7 @@
                 "open_issues": 39,
                 "owner": "tomzx",
                 "repo": "php-semver-checker",
-                "stars": 439,
+                "stars": 438,
                 "topics": [
                   "analyzer",
                   "inspection",
@@ -3313,6 +3292,27 @@
                   "ruleset",
                   "semver"
                 ]
+              },
+              "first_seen": "2026-08-28T16:55:19.837Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Scrutinizer",
+              "description": "A web tool to scrutinise PHP code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Performs advanced static analysis on PHP code",
+                "homepage": "https://scrutinizer-ci.com/docs/tools/php/php-analyzer/",
+                "id": 8551546,
+                "language": null,
+                "license": null,
+                "last_commit": "2021-10-03T18:09:07Z",
+                "open_issues": 414,
+                "owner": "scrutinizer-ci",
+                "repo": "php-analyzer",
+                "stars": 438,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
             },
@@ -3387,11 +3387,11 @@
                 "id": 4344257,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T10:03:43Z",
-                "open_issues": 119,
+                "last_commit": "2026-11-20T12:07:01Z",
+                "open_issues": 123,
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
-                "stars": 13582,
+                "stars": 13581,
                 "topics": [
                   "code-standards",
                   "code-style",
@@ -3444,7 +3444,7 @@
                 "open_issues": 51,
                 "owner": "phpmd",
                 "repo": "phpmd",
-                "stars": 2465,
+                "stars": 2464,
                 "topics": [
                   "clean-code",
                   "hacktoberfest",
@@ -3473,7 +3473,7 @@
                 "open_issues": 222,
                 "owner": "PHPCSStandards",
                 "repo": "PHP_CodeSniffer",
-                "stars": 1575,
+                "stars": 1574,
                 "topics": [
                   "automation",
                   "cli",
@@ -3506,7 +3506,7 @@
                 "open_issues": 12,
                 "owner": "captainhook-git",
                 "repo": "captainhook",
-                "stars": 1129,
+                "stars": 1128,
                 "topics": [
                   "automation",
                   "code-quality",
@@ -3563,8 +3563,8 @@
                 "id": 49014795,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:09:14Z",
-                "open_issues": 1082,
+                "last_commit": "2026-11-20T13:04:17Z",
+                "open_issues": 1085,
                 "owner": "phpstan",
                 "repo": "phpstan",
                 "stars": 14162,
@@ -3592,8 +3592,8 @@
                 "id": 139191005,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-17T13:32:14Z",
-                "open_issues": 76,
+                "last_commit": "2026-11-19T15:06:30Z",
+                "open_issues": 75,
                 "owner": "larastan",
                 "repo": "larastan",
                 "stars": 6555,
@@ -3618,11 +3618,11 @@
                 "id": 74386167,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:53:26Z",
-                "open_issues": 1487,
+                "last_commit": "2026-11-20T12:39:18Z",
+                "open_issues": 1492,
                 "owner": "vimeo",
                 "repo": "psalm",
-                "stars": 5933,
+                "stars": 5932,
                 "topics": [
                   "hacktoberfest",
                   "php",
@@ -3646,7 +3646,7 @@
                 "id": 44751102,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T02:53:27Z",
+                "last_commit": "2026-11-20T12:37:19Z",
                 "open_issues": 798,
                 "owner": "phan",
                 "repo": "phan",
@@ -3675,7 +3675,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T22:12:58Z",
-                "open_issues": 132,
+                "open_issues": 137,
                 "owner": "carthage-software",
                 "repo": "mago",
                 "stars": 3563,
@@ -3710,7 +3710,7 @@
                 "open_issues": 38,
                 "owner": "deptrac",
                 "repo": "deptrac",
-                "stars": 3055,
+                "stars": 3056,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -3735,7 +3735,7 @@
                 "open_issues": 6,
                 "owner": "phpmetrics",
                 "repo": "PhpMetrics",
-                "stars": 2620,
+                "stars": 2619,
                 "topics": [
                   "ci",
                   "metrics",
@@ -3796,7 +3796,7 @@
                 "open_issues": 21,
                 "owner": "phpstan",
                 "repo": "phpdoc-parser",
-                "stars": 1544,
+                "stars": 1543,
                 "topics": [
                   "php",
                   "php7",
@@ -3826,7 +3826,7 @@
                 "open_issues": 13,
                 "owner": "carlosas",
                 "repo": "phpat",
-                "stars": 1292,
+                "stars": 1291,
                 "topics": [
                   "architecture",
                   "linter",
@@ -3854,7 +3854,7 @@
                 "open_issues": 35,
                 "owner": "shipmonk-rnd",
                 "repo": "dead-code-detector",
-                "stars": 540,
+                "stars": 539,
                 "topics": [
                   "dead",
                   "dead-code-removal",
@@ -3884,7 +3884,7 @@
                 "open_issues": 47,
                 "owner": "exakat",
                 "repo": "exakat",
-                "stars": 381,
+                "stars": 379,
                 "topics": [
                   "analysis",
                   "analysis-framework",
@@ -3925,7 +3925,7 @@
                 "open_issues": 1,
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22180,
+                "stars": 22181,
                 "topics": [
                   "code-examples",
                   "design-pattern",
@@ -3956,7 +3956,7 @@
                 "open_issues": 16,
                 "owner": "lstrojny",
                 "repo": "functional-php",
-                "stars": 1980,
+                "stars": 1979,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -3977,7 +3977,7 @@
                 "open_issues": 0,
                 "owner": "yohang",
                 "repo": "Finite",
-                "stars": 1349,
+                "stars": 1348,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4019,7 +4019,7 @@
                 "open_issues": 4,
                 "owner": "thephpleague",
                 "repo": "pipeline",
-                "stars": 995,
+                "stars": 994,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4145,7 +4145,7 @@
                 "open_issues": 0,
                 "owner": "filp",
                 "repo": "whoops",
-                "stars": 13231,
+                "stars": 13230,
                 "topics": [
                   "error-handling",
                   "errors",
@@ -4173,7 +4173,7 @@
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "var-dumper",
-                "stars": 7428,
+                "stars": 7427,
                 "topics": [
                   "component",
                   "debug",
@@ -4201,7 +4201,7 @@
                 "open_issues": 10,
                 "owner": "xdebug",
                 "repo": "xdebug",
-                "stars": 3419,
+                "stars": 3418,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4218,11 +4218,11 @@
                 "id": 4351207,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-18T17:29:36Z",
+                "last_commit": "2026-11-19T20:55:16Z",
                 "open_issues": 4,
                 "owner": "kint-php",
                 "repo": "kint",
-                "stars": 2815,
+                "stars": 2814,
                 "topics": [
                   "debug",
                   "dev",
@@ -4249,7 +4249,7 @@
                 "open_issues": 40,
                 "owner": "phpbench",
                 "repo": "phpbench",
-                "stars": 2028,
+                "stars": 2026,
                 "topics": [
                   "benchmark-framework",
                   "benchmarking",
@@ -4275,7 +4275,7 @@
                 "open_issues": 9,
                 "owner": "nette",
                 "repo": "tracy",
-                "stars": 1837,
+                "stars": 1836,
                 "topics": [
                   "ajax",
                   "debugger",
@@ -4308,7 +4308,7 @@
                 "open_issues": 22,
                 "owner": "adsr",
                 "repo": "phpspy",
-                "stars": 1498,
+                "stars": 1497,
                 "topics": [
                   "hacktoberfest",
                   "performance",
@@ -4334,7 +4334,7 @@
                 "open_issues": 56,
                 "owner": "barbushin",
                 "repo": "php-console",
-                "stars": 1330,
+                "stars": 1329,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4355,7 +4355,7 @@
                 "open_issues": 1,
                 "owner": "laradumps",
                 "repo": "laradumps",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": [
                   "debug",
                   "laravel",
@@ -4406,7 +4406,7 @@
                 "open_issues": 37,
                 "owner": "krakjoe",
                 "repo": "pcov",
-                "stars": 794,
+                "stars": 793,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4427,7 +4427,7 @@
                 "open_issues": 6,
                 "owner": "Seldaek",
                 "repo": "php-console",
-                "stars": 525,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4465,8 +4465,8 @@
                 "id": 640186206,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-19T13:00:04Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-20T10:38:29Z",
+                "open_issues": 14,
                 "owner": "buggregator",
                 "repo": "trap",
                 "stars": 276,
@@ -4594,11 +4594,11 @@
                 "id": 16185196,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T19:22:26Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-20T07:53:04Z",
+                "open_issues": 28,
                 "owner": "consolidation",
                 "repo": "robo",
-                "stars": 2703,
+                "stars": 2702,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4671,7 +4671,7 @@
                 "open_issues": 0,
                 "owner": "spatie",
                 "repo": "menu",
-                "stars": 755,
+                "stars": 754,
                 "topics": [
                   "html",
                   "menus",
@@ -4727,7 +4727,7 @@
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "asset",
-                "stars": 3146,
+                "stars": 3145,
                 "topics": [
                   "component",
                   "php",
@@ -4749,7 +4749,7 @@
                 "id": 94120285,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T13:24:17Z",
+                "last_commit": "2026-11-20T13:23:26Z",
                 "open_issues": 8,
                 "owner": "symfony",
                 "repo": "webpack-encore",
@@ -4782,7 +4782,7 @@
                 "open_issues": 14,
                 "owner": "tedious",
                 "repo": "JShrink",
-                "stars": 768,
+                "stars": 767,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -4812,7 +4812,7 @@
                 "open_issues": 12,
                 "owner": "umpirsky",
                 "repo": "country-list",
-                "stars": 5254,
+                "stars": 5253,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4833,7 +4833,7 @@
                 "open_issues": 21,
                 "owner": "mjaschen",
                 "repo": "phpgeo",
-                "stars": 1613,
+                "stars": 1611,
                 "topics": [
                   "area-calculator",
                   "coordinates",
@@ -4868,7 +4868,7 @@
                 "open_issues": 26,
                 "owner": "thephpleague",
                 "repo": "geotools",
-                "stars": 1406,
+                "stars": 1405,
                 "topics": [
                   "geo",
                   "geolocation",
@@ -4895,7 +4895,7 @@
                 "open_issues": 10,
                 "owner": "jmikola",
                 "repo": "geojson",
-                "stars": 307,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4919,11 +4919,11 @@
                 "id": 5724990,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-15T10:12:49Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-20T12:31:34Z",
+                "open_issues": 4,
                 "owner": "briannesbitt",
                 "repo": "Carbon",
-                "stars": 16585,
+                "stars": 16584,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -4944,7 +4944,7 @@
                 "open_issues": 4,
                 "owner": "cakephp",
                 "repo": "chronos",
-                "stars": 1362,
+                "stars": 1361,
                 "topics": [
                   "calendar-dates",
                   "datetime-objects",
@@ -5006,7 +5006,7 @@
                 "open_issues": 21,
                 "owner": "fightbulc",
                 "repo": "moment.php",
-                "stars": 966,
+                "stars": 965,
                 "topics": [
                   "calendar",
                   "date",
@@ -5037,7 +5037,7 @@
                 "open_issues": 12,
                 "owner": "rlanvin",
                 "repo": "php-rrule",
-                "stars": 715,
+                "stars": 714,
                 "topics": [
                   "dates",
                   "icalendar",
@@ -5064,7 +5064,7 @@
                 "open_issues": 11,
                 "owner": "yohang",
                 "repo": "CalendR",
-                "stars": 468,
+                "stars": 467,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -5109,11 +5109,11 @@
                 "id": 5133949,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T12:05:43Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-20T13:06:09Z",
+                "open_issues": 6,
                 "owner": "swoole",
                 "repo": "swoole-src",
-                "stars": 18938,
+                "stars": 18940,
                 "topics": [
                   "concurrency",
                   "coroutines",
@@ -5137,11 +5137,11 @@
                 "id": 15020102,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-13T12:04:11Z",
+                "last_commit": "2026-11-20T01:36:55Z",
                 "open_issues": 107,
                 "owner": "walkor",
                 "repo": "workerman",
-                "stars": 11553,
+                "stars": 11552,
                 "topics": [
                   "asynchronous",
                   "event-driven",
@@ -5198,7 +5198,7 @@
                 "open_issues": 10,
                 "owner": "ratchetphp",
                 "repo": "Ratchet",
-                "stars": 6435,
+                "stars": 6432,
                 "topics": [
                   "async",
                   "php",
@@ -5221,11 +5221,11 @@
                 "id": 11907506,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-13T09:53:58Z",
+                "last_commit": "2026-11-20T09:54:05Z",
                 "open_issues": 24,
                 "owner": "amphp",
                 "repo": "amp",
-                "stars": 4432,
+                "stars": 4430,
                 "topics": [
                   "amphp",
                   "async",
@@ -5256,7 +5256,7 @@
                 "open_issues": 14,
                 "owner": "ReactiveX",
                 "repo": "RxPHP",
-                "stars": 1732,
+                "stars": 1731,
                 "topics": [
                   "asynchronous",
                   "observables",
@@ -5303,7 +5303,7 @@
                 "open_issues": 3,
                 "owner": "igorw",
                 "repo": "evenement",
-                "stars": 1363,
+                "stars": 1362,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -5349,7 +5349,7 @@
                 "open_issues": 1,
                 "owner": "hollodotme",
                 "repo": "fast-cgi-client",
-                "stars": 567,
+                "stars": 566,
                 "topics": [
                   "fastcgi",
                   "loop",
@@ -5380,7 +5380,7 @@
                 "open_issues": 1,
                 "owner": "prooph",
                 "repo": "event-store",
-                "stars": 546,
+                "stars": 545,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -5408,7 +5408,7 @@
                 "open_issues": 0,
                 "owner": "php-defer",
                 "repo": "php-defer",
-                "stars": 310,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -5485,7 +5485,7 @@
                 "open_issues": 3,
                 "owner": "Seldaek",
                 "repo": "monolog",
-                "stars": 21408,
+                "stars": 21407,
                 "topics": [
                   "hacktoberfest",
                   "logger",
@@ -5519,7 +5519,7 @@
                 "open_issues": 113,
                 "owner": "thephpleague",
                 "repo": "omnipay",
-                "stars": 6067,
+                "stars": 6066,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -5540,7 +5540,7 @@
                 "open_issues": 9,
                 "owner": "moneyphp",
                 "repo": "money",
-                "stars": 4872,
+                "stars": 4871,
                 "topics": [
                   "currency",
                   "currency-converter",
@@ -5564,8 +5564,8 @@
                 "id": 131995661,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:52:45Z",
-                "open_issues": 1626,
+                "last_commit": "2026-11-20T13:34:30Z",
+                "open_issues": 1617,
                 "owner": "shopware",
                 "repo": "shopware",
                 "stars": 3475,
@@ -5610,7 +5610,7 @@
                 "open_issues": 6,
                 "owner": "brick",
                 "repo": "money",
-                "stars": 1942,
+                "stars": 1941,
                 "topics": [
                   "currency",
                   "currency-converter",
@@ -5633,11 +5633,11 @@
                 "id": 6825542,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:29:41Z",
-                "open_issues": 110,
+                "last_commit": "2026-11-20T12:55:14Z",
+                "open_issues": 111,
                 "owner": "Payum",
                 "repo": "Payum",
-                "stars": 1925,
+                "stars": 1924,
                 "topics": [
                   "authorizenet",
                   "be2bill",
@@ -5667,7 +5667,7 @@
                 "open_issues": 1,
                 "owner": "florianv",
                 "repo": "swap",
-                "stars": 1341,
+                "stars": 1340,
                 "topics": [
                   "currency",
                   "currency-conversion",
@@ -5702,8 +5702,8 @@
                 "id": 119832166,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T12:23:32Z",
-                "open_issues": 127,
+                "last_commit": "2026-11-20T13:11:07Z",
+                "open_issues": 125,
                 "owner": "shopsys",
                 "repo": "shopsys",
                 "stars": 349,
@@ -5740,7 +5740,7 @@
                 "open_issues": 588,
                 "owner": "dompdf",
                 "repo": "dompdf",
-                "stars": 11213,
+                "stars": 11214,
                 "topics": [
                   "css",
                   "dompdf",
@@ -5769,7 +5769,7 @@
                 "open_issues": 0,
                 "owner": "spatie",
                 "repo": "browsershot",
-                "stars": 5252,
+                "stars": 5250,
                 "topics": [
                   "hacktoberfest",
                   "phantomjs",
@@ -5795,7 +5795,7 @@
                 "open_issues": 22,
                 "owner": "KnpLabs",
                 "repo": "snappy",
-                "stars": 4471,
+                "stars": 4470,
                 "topics": [
                   "hacktoberfest",
                   "html-to-image",
@@ -5823,7 +5823,7 @@
                 "open_issues": 0,
                 "owner": "gotenberg",
                 "repo": "gotenberg-php",
-                "stars": 407,
+                "stars": 406,
                 "topics": [
                   "chromium",
                   "conversion",
@@ -5867,11 +5867,11 @@
                 "id": 61490598,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-17T15:55:52Z",
+                "last_commit": "2026-11-19T18:44:06Z",
                 "open_issues": 116,
                 "owner": "PHPOffice",
                 "repo": "PhpSpreadsheet",
-                "stars": 14008,
+                "stars": 14010,
                 "topics": [
                   "excel",
                   "gnumeric",
@@ -5906,7 +5906,7 @@
                 "open_issues": 1252,
                 "owner": "PHPOffice",
                 "repo": "PHPWord",
-                "stars": 7585,
+                "stars": 7584,
                 "topics": [
                   "doc",
                   "docx",
@@ -5938,7 +5938,7 @@
                 "open_issues": 250,
                 "owner": "PHPOffice",
                 "repo": "PHPPresentation",
-                "stars": 1370,
+                "stars": 1369,
                 "topics": [
                   "hacktoberfest",
                   "libreoffice-impress",
@@ -5966,8 +5966,8 @@
                 "id": 464890769,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:21:31Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-20T04:06:38Z",
+                "open_issues": 4,
                 "owner": "openspout",
                 "repo": "openspout",
                 "stars": 1285,
@@ -6000,7 +6000,7 @@
                 "id": 8875190,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T05:42:40Z",
+                "last_commit": "2026-11-20T03:33:42Z",
                 "open_issues": 55,
                 "owner": "Ocramius",
                 "repo": "ProxyManager",
@@ -6057,7 +6057,7 @@
                 "open_issues": 7,
                 "owner": "illuminate",
                 "repo": "database",
-                "stars": 2776,
+                "stars": 2775,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6095,8 +6095,8 @@
                 "id": 156524861,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-18T08:57:17Z",
-                "open_issues": 65,
+                "last_commit": "2026-11-20T13:31:18Z",
+                "open_issues": 67,
                 "owner": "cycle",
                 "repo": "orm",
                 "stars": 1326,
@@ -6128,7 +6128,7 @@
                 "open_issues": 64,
                 "owner": "spotorm",
                 "repo": "spot2",
-                "stars": 592,
+                "stars": 593,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6149,7 +6149,7 @@
                 "open_issues": 0,
                 "owner": "auraphp",
                 "repo": "Aura.Sql",
-                "stars": 567,
+                "stars": 565,
                 "topics": [
                   "aura",
                   "database",
@@ -6176,7 +6176,7 @@
                 "open_issues": 0,
                 "owner": "auraphp",
                 "repo": "Aura.SqlQuery",
-                "stars": 456,
+                "stars": 454,
                 "topics": [
                   "microsoft-sql-server",
                   "mysql",
@@ -6204,7 +6204,7 @@
                 "open_issues": 10,
                 "owner": "atlasphp",
                 "repo": "Atlas.Orm",
-                "stars": 428,
+                "stars": 427,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6278,7 +6278,7 @@
                 "open_issues": 148,
                 "owner": "cakephp",
                 "repo": "phinx",
-                "stars": 4545,
+                "stars": 4544,
                 "topics": [
                   "database-migrations",
                   "migrations",
@@ -6304,7 +6304,7 @@
                 "open_issues": 29,
                 "owner": "davedevelopment",
                 "repo": "phpmig",
-                "stars": 565,
+                "stars": 564,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6325,7 +6325,7 @@
                 "open_issues": 34,
                 "owner": "ruckus",
                 "repo": "ruckusing-migrations",
-                "stars": 500,
+                "stars": 499,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6350,10 +6350,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-11-18T23:17:57Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "predis",
                 "repo": "predis",
-                "stars": 7781,
+                "stars": 7780,
                 "topics": [
                   "php",
                   "predis",
@@ -6377,10 +6377,10 @@
                 "language": "PHP",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T08:48:47Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "mongodb",
                 "repo": "mongo-php-library",
-                "stars": 1616,
+                "stars": 1615,
                 "topics": [
                   "mongodb",
                   "mongodb-driver",
@@ -6401,8 +6401,8 @@
                 "id": 19514152,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T19:37:50Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-19T16:03:49Z",
+                "open_issues": 3,
                 "owner": "mongodb",
                 "repo": "mongo-php-driver",
                 "stars": 925,
@@ -6433,11 +6433,11 @@
                 "id": 2784293,
                 "language": "PHP",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-17T18:25:08Z",
+                "last_commit": "2026-11-19T22:27:59Z",
                 "open_issues": 24,
                 "owner": "php-amqplib",
                 "repo": "php-amqplib",
-                "stars": 4600,
+                "stars": 4599,
                 "topics": [
                   "amqp",
                   "hacktoberfest",
@@ -6507,7 +6507,7 @@
                 "open_issues": 6,
                 "owner": "pheanstalk",
                 "repo": "pheanstalk",
-                "stars": 1919,
+                "stars": 1916,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6528,7 +6528,7 @@
                 "open_issues": 44,
                 "owner": "jakubkulhan",
                 "repo": "bunny",
-                "stars": 748,
+                "stars": 747,
                 "topics": [
                   "amqp",
                   "amqp-client",
@@ -6610,7 +6610,7 @@
                 "open_issues": 16,
                 "owner": "elastic",
                 "repo": "elasticsearch-php",
-                "stars": 5330,
+                "stars": 5329,
                 "topics": [
                   "client",
                   "elasticsearch",
@@ -6631,8 +6631,8 @@
                 "id": 1006445,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:09:20Z",
-                "open_issues": 108,
+                "last_commit": "2026-11-20T10:34:40Z",
+                "open_issues": 102,
                 "owner": "ruflin",
                 "repo": "Elastica",
                 "stars": 2268,
@@ -6717,7 +6717,7 @@
                 "open_issues": 10,
                 "owner": "php-school",
                 "repo": "cli-menu",
-                "stars": 1943,
+                "stars": 1942,
                 "topics": [
                   "cli",
                   "cli-menu",
@@ -6743,7 +6743,7 @@
                 "open_issues": 16,
                 "owner": "thephpleague",
                 "repo": "climate",
-                "stars": 1895,
+                "stars": 1894,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6764,7 +6764,7 @@
                 "open_issues": 34,
                 "owner": "nategood",
                 "repo": "commando",
-                "stars": 797,
+                "stars": 796,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6785,7 +6785,7 @@
                 "open_issues": 9,
                 "owner": "MrRio",
                 "repo": "shellwrap",
-                "stars": 740,
+                "stars": 739,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6806,7 +6806,7 @@
                 "open_issues": 44,
                 "owner": "c9s",
                 "repo": "CLIFramework",
-                "stars": 436,
+                "stars": 435,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -6827,7 +6827,7 @@
                 "open_issues": 3,
                 "owner": "getopt-php",
                 "repo": "getopt-php",
-                "stars": 346,
+                "stars": 343,
                 "topics": [
                   "argument-parser",
                   "arguments",
@@ -6907,11 +6907,11 @@
                 "id": 17452080,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T06:35:13Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-19T21:19:07Z",
+                "open_issues": 6,
                 "owner": "lcobucci",
                 "repo": "jwt",
-                "stars": 7480,
+                "stars": 7478,
                 "topics": [
                   "hacktoberfest",
                   "jwt",
@@ -6937,7 +6937,7 @@
                 "open_issues": 1,
                 "owner": "abraham",
                 "repo": "twitteroauth",
-                "stars": 4293,
+                "stars": 4294,
                 "topics": [
                   "hacktoberfest",
                   "php",
@@ -6963,10 +6963,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-11-06T02:52:38Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "thephpleague",
                 "repo": "oauth2-client",
-                "stars": 3818,
+                "stars": 3817,
                 "topics": [
                   "authentication",
                   "authorization",
@@ -6994,7 +6994,7 @@
                 "open_issues": 4,
                 "owner": "paragonie",
                 "repo": "paseto",
-                "stars": 3399,
+                "stars": 3398,
                 "topics": [
                   "paseto",
                   "paseto-tokens",
@@ -7019,7 +7019,7 @@
                 "open_issues": 167,
                 "owner": "daviddesberg",
                 "repo": "PHPoAuthLib",
-                "stars": 1073,
+                "stars": 1072,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -7040,7 +7040,7 @@
                 "open_issues": 9,
                 "owner": "thephpleague",
                 "repo": "oauth1-client",
-                "stars": 994,
+                "stars": 993,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -7061,7 +7061,7 @@
                 "open_issues": 37,
                 "owner": "SocialConnect",
                 "repo": "auth",
-                "stars": 565,
+                "stars": 564,
                 "topics": [
                   "facebook",
                   "facebook-login",
@@ -7137,7 +7137,7 @@
                 "open_issues": 184,
                 "owner": "erusev",
                 "repo": "parsedown",
-                "stars": 15049,
+                "stars": 15050,
                 "topics": [
                   "markdown",
                   "markdown-parser",
@@ -7163,7 +7163,7 @@
                 "open_issues": 102,
                 "owner": "michelf",
                 "repo": "php-markdown",
-                "stars": 3459,
+                "stars": 3458,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -7180,7 +7180,7 @@
                 "id": 23768977,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-19T00:05:12Z",
+                "last_commit": "2026-11-20T00:04:14Z",
                 "open_issues": 21,
                 "owner": "thephpleague",
                 "repo": "commonmark",
@@ -7212,7 +7212,7 @@
                 "open_issues": 16,
                 "owner": "thephpleague",
                 "repo": "html-to-markdown",
-                "stars": 1909,
+                "stars": 1908,
                 "topics": [
                   "commonmark",
                   "converter",
@@ -7237,11 +7237,11 @@
                 "id": 858754,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T11:06:00Z",
-                "open_issues": 165,
+                "last_commit": "2026-11-20T11:51:48Z",
+                "open_issues": 164,
                 "owner": "MyIntervals",
                 "repo": "PHP-CSS-Parser",
-                "stars": 1826,
+                "stars": 1825,
                 "topics": [
                   "composer-package",
                   "css",
@@ -7267,7 +7267,7 @@
                 "open_issues": 32,
                 "owner": "Masterminds",
                 "repo": "html5-php",
-                "stars": 1791,
+                "stars": 1790,
                 "topics": [
                   "dom",
                   "domdocument",
@@ -7297,7 +7297,7 @@
                 "open_issues": 46,
                 "owner": "cebe",
                 "repo": "markdown",
-                "stars": 1010,
+                "stars": 1009,
                 "topics": [
                   "gfm",
                   "hacktoberfest",
@@ -7328,7 +7328,7 @@
                 "open_issues": 24,
                 "owner": "essence",
                 "repo": "essence",
-                "stars": 768,
+                "stars": 767,
                 "topics": [
                   "embed",
                   "oembed",
@@ -7355,7 +7355,7 @@
                 "open_issues": 125,
                 "owner": "sabre-io",
                 "repo": "vobject",
-                "stars": 603,
+                "stars": 602,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -7376,7 +7376,7 @@
                 "open_issues": 4,
                 "owner": "mpratt",
                 "repo": "Embera",
-                "stars": 355,
+                "stars": 353,
                 "topics": [
                   "dailymotion",
                   "embed-videos",
@@ -7408,7 +7408,7 @@
                 "open_issues": 0,
                 "owner": "spatie",
                 "repo": "shiki-php",
-                "stars": 316,
+                "stars": 315,
                 "topics": [
                   "code",
                   "hightlight",
@@ -7486,8 +7486,8 @@
                 "id": 1238130439,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T12:47:01Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-20T12:57:11Z",
+                "open_issues": 11,
                 "owner": "markup-carve",
                 "repo": "carve-php",
                 "stars": 7,
@@ -7525,7 +7525,7 @@
                 "open_issues": 0,
                 "owner": "Seldaek",
                 "repo": "jsonlint",
-                "stars": 1323,
+                "stars": 1322,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -7638,7 +7638,7 @@
                 "open_issues": 16,
                 "owner": "serbanghita",
                 "repo": "Mobile-Detect",
-                "stars": 10679,
+                "stars": 10677,
                 "topics": [
                   "device-detection",
                   "mobile-detect",
@@ -7665,7 +7665,7 @@
                 "open_issues": 88,
                 "owner": "jenssegers",
                 "repo": "agent",
-                "stars": 4902,
+                "stars": 4903,
                 "topics": [
                   "accept-language",
                   "browser",
@@ -7754,7 +7754,7 @@
                 "open_issues": 15,
                 "owner": "doctrine",
                 "repo": "sql-formatter",
-                "stars": 1863,
+                "stars": 1862,
                 "topics": []
               },
               "first_seen": "2026-10-31T10:35:59.412Z"
@@ -7775,7 +7775,7 @@
                 "open_issues": 4,
                 "owner": "fukuball",
                 "repo": "jieba-php",
-                "stars": 1380,
+                "stars": 1378,
                 "topics": [
                   "chinese-text-segmentation",
                   "machine-learning",
@@ -7801,7 +7801,7 @@
                 "open_issues": 6,
                 "owner": "jbroadway",
                 "repo": "urlify",
-                "stars": 673,
+                "stars": 672,
                 "topics": [
                   "ascii",
                   "blogging",
@@ -7837,7 +7837,7 @@
                 "open_issues": 32,
                 "owner": "voku",
                 "repo": "portable-ascii",
-                "stars": 580,
+                "stars": 579,
                 "topics": [
                   "ascii",
                   "hacktoberfest",
@@ -7865,7 +7865,7 @@
                 "open_issues": 11,
                 "owner": "voku",
                 "repo": "portable-utf8",
-                "stars": 518,
+                "stars": 517,
                 "topics": [
                   "ascii",
                   "hacktoberfest",
@@ -8050,7 +8050,7 @@
                 "open_issues": 58,
                 "owner": "markrogoyski",
                 "repo": "math-php",
-                "stars": 2417,
+                "stars": 2415,
                 "topics": [
                   "algebra",
                   "combinatorics",
@@ -8089,7 +8089,7 @@
                 "open_issues": 0,
                 "owner": "brick",
                 "repo": "math",
-                "stars": 2180,
+                "stars": 2179,
                 "topics": [
                   "arbitrary-precision",
                   "bcmath",
@@ -8114,8 +8114,8 @@
                 "id": 41185287,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-12T15:03:26Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-20T13:34:52Z",
+                "open_issues": 2,
                 "owner": "darsyn",
                 "repo": "ip",
                 "stars": 257,
@@ -8235,11 +8235,11 @@
                 "id": 931033,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T00:17:04Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-20T00:13:02Z",
+                "open_issues": 30,
                 "owner": "Respect",
                 "repo": "Validation",
-                "stars": 6034,
+                "stars": 6033,
                 "topics": [
                   "components",
                   "fluent-interface",
@@ -8264,11 +8264,11 @@
                 "id": 9077725,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T10:37:27Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-20T12:26:34Z",
+                "open_issues": 4,
                 "owner": "giggsey",
                 "repo": "libphonenumber-for-php",
-                "stars": 5071,
+                "stars": 5072,
                 "topics": [
                   "hacktoberfest",
                   "libphonenumber",
@@ -8294,7 +8294,7 @@
                 "open_issues": 29,
                 "owner": "jsonrainbow",
                 "repo": "json-schema",
-                "stars": 3625,
+                "stars": 3624,
                 "topics": [
                   "json",
                   "schema"
@@ -8315,10 +8315,10 @@
                 "language": "PHP",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-11T02:52:42Z",
-                "open_issues": 127,
+                "open_issues": 132,
                 "owner": "ezyang",
                 "repo": "htmlpurifier",
-                "stars": 3351,
+                "stars": 3350,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -8360,7 +8360,7 @@
                 "open_issues": 55,
                 "owner": "vlucas",
                 "repo": "valitron",
-                "stars": 1598,
+                "stars": 1597,
                 "topics": [
                   "hacktoberfest",
                   "php",
@@ -8382,11 +8382,11 @@
                 "id": 432767611,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:49:55Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-19T15:22:11Z",
+                "open_issues": 29,
                 "owner": "CuyZ",
                 "repo": "Valinor",
-                "stars": 1537,
+                "stars": 1536,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -8407,7 +8407,7 @@
                 "open_issues": 5,
                 "owner": "ronanguilloux",
                 "repo": "IsoCodes",
-                "stars": 805,
+                "stars": 804,
                 "topics": [
                   "administrations",
                   "gs1",
@@ -8435,7 +8435,7 @@
                 "open_issues": 8,
                 "owner": "ircmaxell",
                 "repo": "filterus",
-                "stars": 444,
+                "stars": 442,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -8591,7 +8591,7 @@
                 "open_issues": 12,
                 "owner": "willdurand",
                 "repo": "Negotiation",
-                "stars": 1421,
+                "stars": 1420,
                 "topics": [
                   "content-negotiation",
                   "negotiation",
@@ -8616,7 +8616,7 @@
                 "open_issues": 33,
                 "owner": "Luracast",
                 "repo": "Restler",
-                "stars": 1388,
+                "stars": 1387,
                 "topics": [
                   "async",
                   "composer",
@@ -8653,7 +8653,7 @@
                 "open_issues": 33,
                 "owner": "willdurand",
                 "repo": "Hateoas",
-                "stars": 1041,
+                "stars": 1040,
                 "topics": [
                   "hateoas",
                   "json",
@@ -8680,7 +8680,7 @@
                 "open_issues": 4,
                 "owner": "janephp",
                 "repo": "janephp",
-                "stars": 694,
+                "stars": 693,
                 "topics": [
                   "hacktoberfest",
                   "json-schema",
@@ -8709,7 +8709,7 @@
                 "open_issues": 23,
                 "owner": "WsdlToPhp",
                 "repo": "PackageGenerator",
-                "stars": 434,
+                "stars": 433,
                 "topics": [
                   "docker",
                   "packagegenerator",
@@ -8793,7 +8793,7 @@
                 "open_issues": 2,
                 "owner": "doctrine",
                 "repo": "cache",
-                "stars": 7842,
+                "stars": 7843,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -8814,7 +8814,7 @@
                 "open_issues": 2,
                 "owner": "gordalina",
                 "repo": "cachetool",
-                "stars": 1830,
+                "stars": 1829,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -8859,7 +8859,7 @@
                 "open_issues": 4,
                 "owner": "php-lock",
                 "repo": "lock",
-                "stars": 948,
+                "stars": 947,
                 "topics": [
                   "lock",
                   "mutex",
@@ -8923,7 +8923,7 @@
                 "id": 231146901,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-19T08:29:13Z",
+                "last_commit": "2026-11-20T04:01:23Z",
                 "open_issues": 14,
                 "owner": "laminas",
                 "repo": "laminas-cache",
@@ -9004,7 +9004,7 @@
                 "open_issues": 54,
                 "owner": "thephpleague",
                 "repo": "fractal",
-                "stars": 3540,
+                "stars": 3539,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -9042,8 +9042,8 @@
                 "id": 16281650,
                 "language": "PHP",
                 "license": "OSL-3.0",
-                "last_commit": "2026-06-30T04:12:07Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-19T16:20:38Z",
+                "open_issues": 3,
                 "owner": "cweiske",
                 "repo": "jsonmapper",
                 "stars": 1574,
@@ -9069,7 +9069,7 @@
                 "language": "PHP",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-25T15:23:38Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "halaxa",
                 "repo": "json-machine",
                 "stars": 1334,
@@ -9100,7 +9100,7 @@
                 "open_issues": 14,
                 "owner": "Athari",
                 "repo": "YaLinqo",
-                "stars": 451,
+                "stars": 450,
                 "topics": [
                   "collection",
                   "functional",
@@ -9136,7 +9136,7 @@
                 "open_issues": 0,
                 "owner": "rybakit",
                 "repo": "msgpack.php",
-                "stars": 408,
+                "stars": 406,
                 "topics": [
                   "messagepack",
                   "msgpack",
@@ -9202,7 +9202,7 @@
                 "id": 1205048128,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-16T19:45:25Z",
+                "last_commit": "2026-11-19T22:39:59Z",
                 "open_issues": 3,
                 "owner": "symfony",
                 "repo": "php-ext-deepclone",
@@ -9234,7 +9234,7 @@
                 "open_issues": 2,
                 "owner": "jolicode",
                 "repo": "JoliNotif",
-                "stars": 1439,
+                "stars": 1438,
                 "topics": [
                   "desktop-notifications",
                   "hack",
@@ -9296,7 +9296,7 @@
                 "open_issues": 2,
                 "owner": "laravel",
                 "repo": "envoy",
-                "stars": 1614,
+                "stars": 1613,
                 "topics": [
                   "laravel",
                   "ssh"
@@ -9382,7 +9382,7 @@
                 "open_issues": 1,
                 "owner": "phpdotenv",
                 "repo": "phpdotenv",
-                "stars": 13556,
+                "stars": 13555,
                 "topics": [
                   "configuration",
                   "dotenv",
@@ -9410,7 +9410,7 @@
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "dotenv",
-                "stars": 3789,
+                "stars": 3788,
                 "topics": [
                   "component",
                   "dotenv",
@@ -9471,7 +9471,7 @@
                 "open_issues": 24,
                 "owner": "openai-php",
                 "repo": "client",
-                "stars": 5838,
+                "stars": 5837,
                 "topics": [
                   "api",
                   "client",
@@ -9530,7 +9530,7 @@
                 "open_issues": 42,
                 "owner": "LLPhant",
                 "repo": "LLPhant",
-                "stars": 1722,
+                "stars": 1720,
                 "topics": [
                   "agent",
                   "autophp",
@@ -9565,7 +9565,7 @@
                 "open_issues": 2,
                 "owner": "cognesy",
                 "repo": "instructor-php",
-                "stars": 329,
+                "stars": 328,
                 "topics": [
                   "agents",
                   "ai",
@@ -9702,11 +9702,11 @@
                 "id": 6269013,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T23:44:08Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-19T19:27:56Z",
+                "open_issues": 16,
                 "owner": "aws",
                 "repo": "aws-sdk-php",
-                "stars": 6206,
+                "stars": 6205,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -9723,8 +9723,8 @@
                 "id": 1953386,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T03:54:36Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-19T22:14:01Z",
+                "open_issues": 17,
                 "owner": "stripe",
                 "repo": "stripe-php",
                 "stars": 4032,
@@ -9751,7 +9751,7 @@
                 "open_issues": 49,
                 "owner": "KnpLabs",
                 "repo": "php-github-api",
-                "stars": 2206,
+                "stars": 2204,
                 "topics": [
                   "github-api",
                   "hacktoberfest",
@@ -9776,7 +9776,7 @@
                 "open_issues": 61,
                 "owner": "twilio",
                 "repo": "twilio-php",
-                "stars": 1636,
+                "stars": 1635,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -9793,11 +9793,11 @@
                 "id": 11654443,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T09:54:07Z",
+                "last_commit": "2026-11-20T09:54:11Z",
                 "open_issues": 4,
                 "owner": "mailgun",
                 "repo": "mailgun-php",
-                "stars": 1131,
+                "stars": 1130,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -9821,11 +9821,11 @@
                 "id": 11478636,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T03:09:26Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-20T12:34:04Z",
+                "open_issues": 55,
                 "owner": "zephir-lang",
                 "repo": "zephir",
-                "stars": 3379,
+                "stars": 3378,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -9863,7 +9863,7 @@
                 "open_issues": 26,
                 "owner": "doctrine",
                 "repo": "annotations",
-                "stars": 6720,
+                "stars": 6719,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -9914,7 +9914,7 @@
                 "open_issues": 35,
                 "owner": "thecodingmachine",
                 "repo": "safe",
-                "stars": 2497,
+                "stars": 2496,
                 "topics": [
                   "exceptions",
                   "functions",
@@ -9939,7 +9939,7 @@
                 "open_issues": 42,
                 "owner": "hprose",
                 "repo": "hprose-php",
-                "stars": 1976,
+                "stars": 1975,
                 "topics": [
                   "composer",
                   "cross-device",
@@ -9981,7 +9981,7 @@
                 "open_issues": 16,
                 "owner": "ackintosh",
                 "repo": "ganesha",
-                "stars": 671,
+                "stars": 670,
                 "topics": [
                   "circuit-breaker",
                   "circuit-breaker-pattern",
@@ -10011,7 +10011,7 @@
                 "open_issues": 1,
                 "owner": "laravel",
                 "repo": "serializable-closure",
-                "stars": 608,
+                "stars": 607,
                 "topics": [
                   "closure",
                   "php",
@@ -10036,7 +10036,7 @@
                 "open_issues": 3,
                 "owner": "BabDev",
                 "repo": "Pagerfanta",
-                "stars": 428,
+                "stars": 427,
                 "topics": [
                   "doctrine",
                   "elastica",
@@ -10064,7 +10064,7 @@
                 "open_issues": 1,
                 "owner": "ClassPreloader",
                 "repo": "ClassPreloader",
-                "stars": 376,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -10125,7 +10125,7 @@
                 "open_issues": 100,
                 "owner": "phpbrew",
                 "repo": "phpbrew",
-                "stars": 5523,
+                "stars": 5522,
                 "topics": [
                   "php-versions",
                   "phpbrew"
@@ -10145,11 +10145,11 @@
                 "id": 361670419,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-16T01:41:16Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-20T12:03:03Z",
+                "open_issues": 35,
                 "owner": "crazywhalecc",
                 "repo": "static-php-cli",
-                "stars": 1966,
+                "stars": 1965,
                 "topics": [
                   "alpine",
                   "binary",
@@ -10178,11 +10178,11 @@
                 "id": 2198467,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-21T14:11:25Z",
+                "last_commit": "2026-11-19T14:59:20Z",
                 "open_issues": 32,
                 "owner": "php-build",
                 "repo": "php-build",
-                "stars": 1049,
+                "stars": 1048,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -10205,7 +10205,7 @@
                 "open_issues": 18,
                 "owner": "philcook",
                 "repo": "brew-php-switcher",
-                "stars": 1008,
+                "stars": 1007,
                 "topics": [
                   "homebrew",
                   "php",
@@ -10233,11 +10233,11 @@
                 "id": 129089460,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-19T12:08:59Z",
+                "last_commit": "2026-11-20T12:08:50Z",
                 "open_issues": 12,
                 "owner": "mlocati",
                 "repo": "docker-php-extension-installer",
-                "stars": 4999,
+                "stars": 5000,
                 "topics": [
                   "docker",
                   "extension",
@@ -10260,10 +10260,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-07T08:30:37Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "exposedev",
                 "repo": "expose",
-                "stars": 4578,
+                "stars": 4576,
                 "topics": [
                   "expose",
                   "tunnel-server",
@@ -10284,11 +10284,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T06:22:24Z",
-                "open_issues": 185,
+                "last_commit": "2026-11-20T11:10:53Z",
+                "open_issues": 188,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3963,
+                "stars": 3962,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -10329,7 +10329,7 @@
                 "open_issues": 8,
                 "owner": "tighten",
                 "repo": "takeout",
-                "stars": 1655,
+                "stars": 1654,
                 "topics": [
                   "docker",
                   "docker-containers",
@@ -10356,7 +10356,7 @@
                 "open_issues": 27,
                 "owner": "soloterm",
                 "repo": "solo",
-                "stars": 1290,
+                "stars": 1289,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -10377,7 +10377,7 @@
                 "open_issues": 174,
                 "owner": "docksal",
                 "repo": "docksal",
-                "stars": 722,
+                "stars": 721,
                 "topics": [
                   "devops",
                   "docker",
@@ -10413,11 +10413,11 @@
                 "id": 455600,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T11:23:48Z",
+                "last_commit": "2026-11-20T12:47:59Z",
                 "open_issues": 564,
                 "owner": "meta",
                 "repo": "hhvm",
-                "stars": 18688,
+                "stars": 18686,
                 "topics": [
                   "hack",
                   "hacklang",
@@ -10443,7 +10443,7 @@
                 "open_issues": 97,
                 "owner": "peachpiecompiler",
                 "repo": "peachpie",
-                "stars": 2490,
+                "stars": 2489,
                 "topics": [
                   "aspnet-core",
                   "coreclr",
@@ -10484,7 +10484,7 @@
                 "open_issues": 9,
                 "owner": "cachethq",
                 "repo": "cachet",
-                "stars": 15270,
+                "stars": 15271,
                 "topics": [
                   "cachet",
                   "laravel",
@@ -10510,10 +10510,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-19T03:54:28Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "axllent",
                 "repo": "mailpit",
-                "stars": 10984,
+                "stars": 10987,
                 "topics": [
                   "email-testing",
                   "go",
@@ -10539,11 +10539,11 @@
                 "id": 3217621,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-19T02:00:23Z",
-                "open_issues": 978,
+                "last_commit": "2026-11-20T00:51:32Z",
+                "open_issues": 979,
                 "owner": "phpmyadmin",
                 "repo": "phpmyadmin",
-                "stars": 7975,
+                "stars": 7974,
                 "topics": [
                   "hacktoberfest",
                   "mariadb",
@@ -10571,7 +10571,7 @@
                 "open_issues": 40,
                 "owner": "sj26",
                 "repo": "mailcatcher",
-                "stars": 6780,
+                "stars": 6782,
                 "topics": [
                   "development",
                   "devtools",
@@ -10597,11 +10597,11 @@
                 "id": 143975804,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-19T11:58:30Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-19T22:40:40Z",
+                "open_issues": 17,
                 "owner": "LycheeOrg",
                 "repo": "Lychee",
-                "stars": 4335,
+                "stars": 4333,
                 "topics": [
                   "gallery",
                   "hacktoberfest",
@@ -10632,7 +10632,7 @@
                 "open_issues": 12,
                 "owner": "erikdubbelboer",
                 "repo": "phpRedisAdmin",
-                "stars": 3177,
+                "stars": 3176,
                 "topics": [
                   "php",
                   "redis"
@@ -10656,7 +10656,7 @@
                 "open_issues": 5,
                 "owner": "CoderKungfu",
                 "repo": "php-queue",
-                "stars": 666,
+                "stars": 664,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:19.837Z"
@@ -10680,7 +10680,7 @@
                 "id": 115436884,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-18T19:38:13Z",
+                "last_commit": "2026-11-19T18:51:56Z",
                 "open_issues": 44,
                 "owner": "roadrunner-server",
                 "repo": "roadrunner",
@@ -10742,7 +10742,7 @@
                 "open_issues": 90,
                 "owner": "appserver-io",
                 "repo": "appserver",
-                "stars": 962,
+                "stars": 961,
                 "topics": [
                   "application",
                   "container",
@@ -10767,7 +10767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T13:53:25.736Z",
+    "last_updated": "2026-11-20T13:35:44.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
